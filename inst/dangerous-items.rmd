@@ -54,6 +54,7 @@ sample_df %>%
   geom_bar(aes(x = item)) +
   coord_flip() +
   hrbrthemes::theme_ipsum_rc() +
-  labs(caption = dataset_key)
+  labs(title = "TSA Dangerous Items FY2015",
+       caption = dataset_key)
 ```
 
