@@ -3,6 +3,12 @@ title: "Dangerous Items"
 output: html_notebook
 ---
 
+```{r load-libs}
+library(data.world)
+suppressPackageStartupMessages(library(tidyverse))
+```
+
+
 This is an automatically generated notebook for the `Dangerous Items` dataset found at:
 https://data.world/tsa/dangerous-items, showcasing the use of the `data.world` R package.
 
@@ -26,7 +32,6 @@ Configuration will be saved at `~/.dw/config` and automatically applied to all f
 
 List all tables in the dataset:
 ```{r list tables}
-library(data.world)
 # Datasets are referenced by their URL or path
 dataset_key <- "https://data.world/tsa/dangerous-items"
 # List tables available for SQL queries
@@ -47,11 +52,13 @@ if (length(tables_df$tableName) > 0) {
 ```
 
 ```{r}
-suppressPackageStartupMessages(library(tidyverse))
-sample_df %>%
-  mutate(item = fct_infreq(item)) %>%
-  ggplot() +
-  geom_bar(aes(x = item)) +
+sample_df <- sample_df %>%
+  mutate(item = fct_infreq(as_factor(item))) %>%
+  mutate(item_lab = fct_infreq(as_factor(strtrim(items, width = 14))))
+  
+
+ggplot(data = sample_df) +
+  geom_bar(aes(x = item_lab)) +
   coord_flip() +
   hrbrthemes::theme_ipsum_rc() +
   labs(title = "TSA Dangerous Items FY2015",
