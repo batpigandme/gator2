@@ -1,7 +1,11 @@
 ---
 title: "Dangerous Items"
-output: html_notebook
+output:
+  pdf_document: default
+  html_notebook: default
 ---
+
+### Loading the libs
 
 ```{r load-libs}
 suppressPackageStartupMessages(library(data.world))
@@ -12,7 +16,7 @@ suppressPackageStartupMessages(library(tidyverse))
 This is an automatically generated notebook for the `Gun Deaths in America` dataset found at:
 https://data.world/azel/gun-deaths-in-america, showcasing the use of the `data.world` R package.
 
-## Reading in the data
+### Reading in the data
 
 
 ```{sql eval = FALSE}
@@ -26,12 +30,15 @@ GROUP BY full_data.age, full_data.sex, full_data.race, full_data.intent, full_da
 url <- "https://query.data.world/s/usia7cr2a6ljbu6e3awwkkn3yq2yxv"
 
 deaths <- readr::read_csv(url, col_types = cols(age = col_number(),
-                                                count = col_number(), race = col_factor(levels = c("White", "Hispanic", "Native American/Native Alaskan", "Black", "Asian/Pacific Islander")), 
+                                                count = col_number(), 
+                                                race = col_factor(levels = c("White", "Hispanic", "Native American/Native Alaskan", "Black", "Asian/Pacific Islander")), 
                                                 sex = col_factor(levels = c("M", "F")),
                                                 year = col_factor(levels = c("2012", "2013", "2014"))))
 
 glimpse(deaths)
 ```
+
+### Summarising it
 
 ```{r age-year}
 deaths %>%
@@ -39,16 +46,29 @@ deaths %>%
   summarise(age_total = sum(count))
 ```
 
+### Plotting time…
+
 ```{r death-by-age, warning=FALSE}
 deaths_age_year <- deaths %>%
   group_by(age, year) %>%
-  summarise(total = sum(count))
+  summarise(total = sum(count)) %>%
+  mutate(label = str_glue("{total} {age} year olds in {year}"))
 
-
-ggplot(data = deaths_age_year) +
-  geom_point(aes(x = age, y = total, colour = year), alpha = 0.7) +
+g <- ggplot(data = deaths_age_year, aes(x = age, y = total, color = year)) +
+  geom_point(alpha = 0.7) +
+  scale_color_brewer(palette = "Dark2") +
   hrbrthemes::theme_ipsum_rc() +
   labs(caption = "Source: CDC gun-death data, 2012-2014.",
        title = "Gun deaths by year")
+
+g
+```
+
+```{r chart-ggiraph, echo = TRUE}
+library(ggiraph)
+
+my_gg <- g + geom_point_interactive(aes(tooltip = label))
+
+ggiraph(code = print(my_gg) , hover_css = "cursor:pointer;fill-opacity:.3;fill:red;stroke:red;font:sans;")
 ```
 
