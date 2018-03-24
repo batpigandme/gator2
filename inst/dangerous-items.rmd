@@ -4,29 +4,13 @@ output: html_notebook
 ---
 
 ```{r load-libs}
-library(data.world)
+suppressPackageStartupMessages(library(data.world))
 suppressPackageStartupMessages(library(tidyverse))
 ```
 
 
 This is an automatically generated notebook for the `Gun Deaths in America` dataset found at:
 https://data.world/azel/gun-deaths-in-america, showcasing the use of the `data.world` R package.
-
-## Setup
-
-For first time users, before running any chunks in this notebook:
-
-* Install the `data.world` R package:
-  ```
-  devtools::install_github("datadotworld/data.world-r", build_vignettes = TRUE, force = TRUE)
-  ```
-* Get your API authentication token at https://data.world/settings/advanced
-* Configure the `data.world` package:
-  ```
-  data.world::set_config(data.world::save_config(auth_token = "YOUR TOKEN"))
-  ```
-
-Configuration will be saved at `~/.dw/config` and automatically applied to all future R sessions.
 
 ## Reading in the data
 
@@ -62,8 +46,9 @@ deaths_age_year <- deaths %>%
 
 
 ggplot(data = deaths_age_year) +
-  geom_point(aes(x = age, y = total, colour = year)) +
+  geom_point(aes(x = age, y = total, colour = year), alpha = 0.7) +
   hrbrthemes::theme_ipsum_rc() +
-  labs(caption = "Source: CDC gun-death data, 2012-2014.")
+  labs(caption = "Source: CDC gun-death data, 2012-2014.",
+       title = "Gun deaths by year")
 ```
 
