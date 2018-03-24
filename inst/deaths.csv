@@ -1,0 +1,4749 @@
+count,age,sex,race,intent,year
+5,17,M,White,Accidental,2013
+1,17,M,Hispanic,Undetermined,2014
+3,76,M,White,Accidental,2014
+1,26,F,Hispanic,Undetermined,2014
+4,22,M,White,Undetermined,2013
+1,29,F,White,Undetermined,2013
+2,72,F,White,Undetermined,2014
+2,22,M,Hispanic,Accidental,2014
+1,60,M,Native American/Native Alaskan,Homicide,2013
+221,69,M,White,Suicide,2012
+12,78,F,White,Suicide,2012
+1,77,M,Black,Homicide,2013
+1,70,F,Black,Homicide,2013
+25,65,F,White,Suicide,2014
+1,15,M,Asian/Pacific Islander,Homicide,2013
+307,20,M,Black,Homicide,2014
+20,27,F,Black,Homicide,2014
+23,31,M,Hispanic,Suicide,2012
+4,24,F,Hispanic,Suicide,2012
+2,61,F,Hispanic,Suicide,2013
+1,45,F,Asian/Pacific Islander,Homicide,2012
+4,36,M,Asian/Pacific Islander,Homicide,2012
+39,64,F,White,Suicide,2014
+16,52,M,Hispanic,Suicide,2013
+3,59,M,White,Undetermined,2012
+4,62,M,White,Accidental,2012
+1,55,F,White,Accidental,2012
+336,57,M,White,Suicide,2014
+1,32,F,Native American/Native Alaskan,Homicide,2012
+2,61,M,Native American/Native Alaskan,Homicide,2013
+6,18,M,White,Accidental,2013
+1,25,F,White,Accidental,2013
+1,75,M,White,Accidental,2014
+1,18,M,Hispanic,Undetermined,2014
+1,68,F,White,Accidental,2014
+2,30,F,White,Undetermined,2013
+2,21,M,White,Undetermined,2013
+2,21,M,Hispanic,Accidental,2014
+1,80,M,White,Undetermined,2014
+194,70,M,White,Suicide,2012
+7,77,F,White,Suicide,2012
+1,69,F,Black,Homicide,2013
+41,66,F,White,Suicide,2014
+1,16,M,Asian/Pacific Islander,Homicide,2013
+258,19,M,Black,Homicide,2014
+21,28,F,Black,Homicide,2014
+20,32,M,Hispanic,Suicide,2012
+2,23,F,Hispanic,Suicide,2012
+13,33,M,Hispanic,Suicide,2012
+14,53,M,Hispanic,Suicide,2013
+1,37,M,Asian/Pacific Islander,Homicide,2012
+2,44,F,Asian/Pacific Islander,Homicide,2012
+356,56,M,White,Suicide,2014
+1,54,F,White,Accidental,2012
+5,63,M,White,Accidental,2012
+3,58,M,White,Undetermined,2012
+4,24,M,Native American/Native Alaskan,Homicide,2012
+1,24,M,White,Undetermined,2013
+1,31,F,White,Undetermined,2013
+3,24,M,Hispanic,Accidental,2014
+5,19,M,White,Accidental,2013
+2,28,F,White,Accidental,2013
+1,19,M,Hispanic,Undetermined,2014
+7,65,M,White,Accidental,2012
+1,58,M,Native American/Native Alaskan,Homicide,2013
+2,78,M,White,Accidental,2014
+1,69,F,White,Accidental,2014
+18,29,M,Hispanic,Suicide,2012
+8,22,F,Hispanic,Suicide,2012
+183,67,M,White,Suicide,2012
+12,76,F,White,Suicide,2012
+2,75,M,Black,Homicide,2013
+1,68,F,Black,Homicide,2013
+1,13,M,Asian/Pacific Islander,Homicide,2013
+196,18,M,Black,Homicide,2014
+27,25,F,Black,Homicide,2014
+1,88,M,Asian/Pacific Islander,Homicide,2014
+16,50,M,Hispanic,Suicide,2013
+1,57,F,White,Accidental,2012
+309,55,M,White,Suicide,2014
+1,59,F,Hispanic,Suicide,2013
+2,34,M,Asian/Pacific Islander,Homicide,2012
+46,62,F,White,Suicide,2014
+8,64,M,White,Accidental,2012
+6,21,M,Native American/Native Alaskan,Homicide,2012
+6,23,M,White,Undetermined,2013
+1,32,F,White,Undetermined,2013
+2,23,M,Hispanic,Accidental,2014
+2,20,M,White,Accidental,2013
+1,50,F,Native American/Native Alaskan,Homicide,2013
+7,66,M,White,Accidental,2012
+3,77,M,White,Accidental,2014
+1,70,F,White,Accidental,2014
+24,30,M,Hispanic,Suicide,2012
+2,21,F,Hispanic,Suicide,2012
+17,75,F,White,Suicide,2012
+214,68,M,White,Suicide,2012
+2,76,M,Black,Homicide,2013
+18,26,F,Black,Homicide,2014
+147,17,M,Black,Homicide,2014
+1,35,M,Asian/Pacific Islander,Homicide,2012
+37,63,F,White,Suicide,2014
+1,42,F,Asian/Pacific Islander,Homicide,2012
+15,51,M,Hispanic,Suicide,2013
+349,54,M,White,Suicide,2014
+5,60,M,White,Undetermined,2012
+3,56,F,White,Accidental,2012
+4,22,M,Native American/Native Alaskan,Homicide,2012
+1,29,F,Native American/Native Alaskan,Homicide,2012
+1,53,F,White,Undetermined,2012
+182,73,M,White,Suicide,2012
+4,21,M,White,Accidental,2013
+2,71,F,White,Accidental,2014
+2,80,M,White,Accidental,2014
+1,18,M,White,Undetermined,2013
+1,25,F,White,Undetermined,2013
+3,18,M,Hispanic,Accidental,2014
+297,24,M,Black,Homicide,2014
+15,31,F,Black,Homicide,2014
+24,27,M,Hispanic,Suicide,2012
+2,20,F,Hispanic,Suicide,2012
+1,49,F,Asian/Pacific Islander,Homicide,2012
+5,40,M,Asian/Pacific Islander,Homicide,2012
+57,60,F,White,Suicide,2014
+8,56,M,Hispanic,Suicide,2013
+9,82,F,White,Suicide,2012
+308,53,M,White,Suicide,2014
+3,19,M,Native American/Native Alaskan,Homicide,2012
+2,28,F,Native American/Native Alaskan,Homicide,2012
+5,58,M,White,Accidental,2012
+1,63,M,White,Undetermined,2012
+3,51,F,White,Accidental,2012
+159,74,M,White,Suicide,2012
+7,22,M,White,Accidental,2013
+1,73,F,Black,Homicide,2013
+3,79,M,White,Accidental,2014
+1,17,M,Hispanic,Accidental,2014
+1,26,F,Hispanic,Accidental,2014
+298,23,M,Black,Homicide,2014
+16,32,F,Black,Homicide,2014
+2,19,F,Hispanic,Suicide,2012
+22,28,M,Hispanic,Suicide,2012
+1,48,F,Asian/Pacific Islander,Homicide,2012
+329,52,M,White,Suicide,2014
+8,81,F,White,Suicide,2012
+1,82,M,Black,Homicide,2013
+13,33,F,Black,Homicide,2014
+43,61,F,White,Suicide,2014
+1,20,M,Native American/Native Alaskan,Homicide,2012
+3,50,F,White,Accidental,2012
+8,57,M,Hispanic,Suicide,2013
+6,59,M,White,Accidental,2012
+4,62,M,White,Undetermined,2012
+1,41,M,Asian/Pacific Islander,Homicide,2012
+1,66,M,White,Undetermined,2012
+4,20,M,White,Undetermined,2013
+1,27,F,White,Undetermined,2013
+1,20,M,Hispanic,Accidental,2014
+7,23,M,White,Accidental,2013
+2,32,F,White,Accidental,2013
+1,23,M,Hispanic,Undetermined,2014
+19,25,M,Hispanic,Suicide,2012
+1,18,F,Hispanic,Suicide,2012
+162,71,M,White,Suicide,2012
+12,80,F,White,Suicide,2012
+1,9,M,Asian/Pacific Islander,Homicide,2013
+2,72,F,Black,Homicide,2013
+302,22,M,Black,Homicide,2014
+19,29,F,Black,Homicide,2014
+15,54,M,Hispanic,Suicide,2013
+325,51,M,White,Suicide,2014
+6,38,M,Asian/Pacific Islander,Homicide,2012
+64,58,F,White,Suicide,2014
+1,53,F,White,Accidental,2012
+1,56,F,White,Undetermined,2012
+3,60,M,White,Accidental,2012
+1,78,M,White,Undetermined,2014
+2,65,M,White,Undetermined,2012
+3,19,M,White,Undetermined,2013
+4,19,M,Hispanic,Accidental,2014
+2,24,M,White,Accidental,2013
+1,31,F,White,Accidental,2013
+20,26,M,Hispanic,Suicide,2012
+1,17,F,Hispanic,Suicide,2012
+168,72,M,White,Suicide,2012
+13,79,F,White,Suicide,2012
+2,71,F,Black,Homicide,2013
+1,1,F,Asian/Pacific Islander,Homicide,2013
+2,10,M,Asian/Pacific Islander,Homicide,2013
+302,21,M,Black,Homicide,2014
+10,30,F,Black,Homicide,2014
+3,39,M,Asian/Pacific Islander,Homicide,2012
+1,62,F,Hispanic,Suicide,2013
+53,59,F,White,Suicide,2014
+12,55,M,Hispanic,Suicide,2013
+259,50,M,White,Suicide,2014
+6,61,M,White,Accidental,2012
+2,18,M,Native American/Native Alaskan,Homicide,2012
+2,25,F,Native American/Native Alaskan,Homicide,2012
+3,81,M,White,Accidental,2014
+3,64,M,White,Undetermined,2012
+3,52,F,White,Accidental,2012
+152,77,M,White,Suicide,2012
+16,70,F,White,Suicide,2012
+239,66,M,White,Suicide,2014
+199,28,M,Black,Homicide,2014
+27,19,F,Black,Homicide,2014
+22,23,M,Hispanic,Suicide,2012
+4,32,F,Hispanic,Suicide,2012
+9,25,M,White,Accidental,2013
+1,18,F,White,Accidental,2013
+4,68,M,White,Accidental,2014
+1,25,M,Hispanic,Undetermined,2014
+2,30,M,White,Undetermined,2013
+1,21,F,White,Undetermined,2013
+1,30,M,Hispanic,Accidental,2014
+2,71,M,White,Undetermined,2014
+2,51,M,White,Undetermined,2012
+5,54,M,White,Accidental,2012
+1,63,F,White,Accidental,2012
+1,24,F,Native American/Native Alaskan,Homicide,2012
+3,31,M,Native American/Native Alaskan,Homicide,2012
+4,53,F,Hispanic,Suicide,2013
+1,33,F,Hispanic,Suicide,2012
+1,37,F,Asian/Pacific Islander,Homicide,2012
+3,44,M,Asian/Pacific Islander,Homicide,2012
+83,56,F,White,Suicide,2014
+11,60,M,Hispanic,Suicide,2013
+145,78,M,White,Suicide,2012
+38,69,F,White,Suicide,2012
+3,70,M,Black,Homicide,2013
+246,65,M,White,Suicide,2014
+214,27,M,Black,Homicide,2014
+22,20,F,Black,Homicide,2014
+29,24,M,Hispanic,Suicide,2012
+2,31,F,Hispanic,Suicide,2012
+4,33,M,Native American/Native Alaskan,Homicide,2012
+1,53,M,Native American/Native Alaskan,Homicide,2013
+4,26,M,White,Accidental,2013
+2,67,M,White,Accidental,2014
+5,29,M,White,Undetermined,2013
+2,22,F,White,Undetermined,2013
+1,29,M,Hispanic,Accidental,2014
+3,72,M,White,Undetermined,2014
+1,60,F,Native American/Native Alaskan,Homicide,2013
+1,59,F,White,Undetermined,2012
+11,55,M,White,Accidental,2012
+53,57,F,White,Suicide,2014
+4,32,M,Native American/Native Alaskan,Homicide,2012
+1,23,F,Native American/Native Alaskan,Homicide,2012
+7,61,M,Hispanic,Suicide,2013
+2,45,M,Asian/Pacific Islander,Homicide,2012
+2,36,F,Asian/Pacific Islander,Homicide,2012
+280,64,M,White,Suicide,2014
+1,52,F,Hispanic,Suicide,2013
+24,21,M,Hispanic,Suicide,2012
+5,30,F,Hispanic,Suicide,2012
+198,75,M,White,Suicide,2012
+29,68,F,White,Suicide,2012
+5,67,M,Black,Homicide,2013
+235,26,M,Black,Homicide,2014
+17,17,F,Black,Homicide,2014
+2,23,F,White,Undetermined,2013
+4,32,M,White,Undetermined,2013
+2,32,M,Hispanic,Accidental,2014
+3,27,M,White,Accidental,2013
+3,20,F,White,Accidental,2013
+1,50,M,Native American/Native Alaskan,Homicide,2013
+3,70,M,White,Accidental,2014
+3,56,M,White,Accidental,2012
+5,29,M,Native American/Native Alaskan,Homicide,2012
+2,22,F,Native American/Native Alaskan,Homicide,2012
+3,53,M,White,Undetermined,2012
+2,33,M,White,Undetermined,2013
+1,35,F,Asian/Pacific Islander,Homicide,2012
+11,58,M,Hispanic,Suicide,2013
+241,63,M,White,Suicide,2014
+5,42,M,Asian/Pacific Islander,Homicide,2012
+4,51,F,Hispanic,Suicide,2013
+80,54,F,White,Suicide,2014
+51,22,M,Hispanic,Suicide,2012
+2,74,M,White,Undetermined,2014
+161,76,M,White,Suicide,2012
+19,67,F,White,Suicide,2012
+3,68,M,Black,Homicide,2013
+280,25,M,Black,Homicide,2014
+19,18,F,Black,Homicide,2014
+3,31,M,White,Undetermined,2013
+1,24,F,White,Undetermined,2013
+1,31,M,Hispanic,Accidental,2014
+1,24,F,Hispanic,Accidental,2014
+5,28,M,White,Accidental,2013
+1,51,M,Native American/Native Alaskan,Homicide,2013
+1,69,M,Hispanic,Undetermined,2013
+5,69,M,White,Accidental,2014
+2,52,M,White,Undetermined,2012
+1,30,M,Native American/Native Alaskan,Homicide,2012
+1,21,F,Native American/Native Alaskan,Homicide,2012
+4,57,M,White,Accidental,2012
+2,43,M,Asian/Pacific Islander,Homicide,2012
+1,50,F,Hispanic,Suicide,2013
+77,55,F,White,Suicide,2014
+8,59,M,Hispanic,Suicide,2013
+265,62,M,White,Suicide,2014
+18,23,F,Black,Homicide,2014
+167,32,M,Black,Homicide,2014
+29,19,M,Hispanic,Suicide,2012
+1,28,F,Hispanic,Suicide,2012
+7,65,M,Hispanic,Suicide,2013
+17,74,F,White,Suicide,2012
+4,29,M,White,Accidental,2013
+1,73,M,Black,Homicide,2013
+3,72,M,White,Accidental,2014
+1,22,F,Hispanic,Undetermined,2014
+2,29,M,Hispanic,Undetermined,2014
+4,26,M,White,Undetermined,2013
+1,17,F,White,Undetermined,2013
+6,27,M,Native American/Native Alaskan,Homicide,2012
+2,20,F,Native American/Native Alaskan,Homicide,2012
+3,55,M,White,Undetermined,2012
+8,50,M,White,Accidental,2012
+4,57,F,Hispanic,Suicide,2013
+1,41,F,Asian/Pacific Islander,Homicide,2012
+3,48,M,Asian/Pacific Islander,Homicide,2012
+73,52,F,White,Suicide,2014
+8,64,M,Hispanic,Suicide,2013
+134,81,M,White,Suicide,2012
+309,61,M,White,Suicide,2014
+144,33,M,Black,Homicide,2014
+29,24,F,Black,Homicide,2014
+159,31,M,Black,Homicide,2014
+24,20,M,Hispanic,Suicide,2012
+3,27,F,Hispanic,Suicide,2012
+1,57,M,Native American/Native Alaskan,Homicide,2013
+11,66,M,Hispanic,Suicide,2013
+5,49,M,Asian/Pacific Islander,Homicide,2012
+10,73,F,White,Suicide,2012
+8,30,M,White,Accidental,2013
+4,74,M,Black,Homicide,2013
+4,71,M,White,Accidental,2014
+2,25,M,White,Undetermined,2013
+2,25,M,Hispanic,Accidental,2014
+5,28,M,Native American/Native Alaskan,Homicide,2012
+1,19,F,Native American/Native Alaskan,Homicide,2012
+1,58,F,White,Accidental,2012
+4,51,M,White,Accidental,2012
+3,54,M,White,Undetermined,2012
+2,40,F,Asian/Pacific Islander,Homicide,2012
+328,60,M,White,Suicide,2014
+146,82,M,White,Suicide,2012
+2,81,F,Black,Homicide,2013
+87,53,F,White,Suicide,2014
+14,17,M,Hispanic,Suicide,2012
+3,26,F,Hispanic,Suicide,2012
+155,79,M,White,Suicide,2012
+19,72,F,White,Suicide,2012
+32,21,F,Black,Homicide,2014
+173,30,M,Black,Homicide,2014
+1,71,M,Black,Homicide,2013
+2,74,M,White,Accidental,2014
+1,83,F,Asian/Pacific Islander,Homicide,2014
+1,69,M,White,Undetermined,2014
+3,54,M,Native American/Native Alaskan,Homicide,2013
+1,65,F,White,Undetermined,2012
+6,28,M,White,Undetermined,2013
+1,28,M,Hispanic,Accidental,2014
+2,31,M,White,Accidental,2013
+1,25,M,Native American/Native Alaskan,Homicide,2012
+2,64,F,White,Undetermined,2012
+4,52,M,White,Accidental,2012
+2,39,F,Asian/Pacific Islander,Homicide,2012
+8,62,M,Hispanic,Suicide,2013
+329,59,M,White,Suicide,2014
+3,57,M,White,Undetermined,2012
+2,46,M,Asian/Pacific Islander,Homicide,2012
+1,100,M,White,Suicide,2013
+4,55,F,Hispanic,Suicide,2013
+89,50,F,White,Suicide,2014
+1,0,M,Asian/Pacific Islander,Homicide,2013
+17,18,M,Hispanic,Suicide,2012
+2,25,F,Hispanic,Suicide,2012
+142,80,M,White,Suicide,2012
+26,71,F,White,Suicide,2012
+3,72,M,Black,Homicide,2013
+207,29,M,Black,Homicide,2014
+6,73,M,White,Accidental,2014
+23,22,F,Black,Homicide,2014
+1,77,F,White,Undetermined,2014
+1,70,M,White,Undetermined,2014
+1,66,F,White,Undetermined,2012
+5,27,M,White,Undetermined,2013
+2,20,F,White,Undetermined,2013
+1,32,M,White,Accidental,2013
+1,32,M,Hispanic,Undetermined,2014
+1,23,F,Hispanic,Undetermined,2014
+8,53,M,White,Accidental,2012
+8,33,M,White,Accidental,2013
+2,33,M,Hispanic,Undetermined,2014
+2,26,M,Native American/Native Alaskan,Homicide,2012
+1,82,F,White,Accidental,2014
+3,56,M,White,Undetermined,2012
+2,47,M,Asian/Pacific Islander,Homicide,2012
+88,51,F,White,Suicide,2014
+6,63,M,Hispanic,Suicide,2013
+336,58,M,White,Suicide,2014
+3,45,F,Hispanic,Suicide,2013
+2,61,F,Asian/Pacific Islander,Homicide,2012
+3,52,M,Asian/Pacific Islander,Homicide,2012
+64,48,F,White,Suicide,2014
+22,36,M,Hispanic,Suicide,2013
+2,46,M,White,Accidental,2012
+1,34,F,White,Undetermined,2012
+1,39,F,White,Accidental,2012
+206,41,M,White,Suicide,2014
+1,0,M,White,Accidental,2013
+1,NA,F,White,Suicide,2014
+2,10,F,White,Accidental,2013
+1,92,M,White,Accidental,2014
+126,85,M,White,Suicide,2012
+1,94,F,White,Suicide,2012
+2,31,M,Asian/Pacific Islander,Homicide,2013
+3,24,F,Asian/Pacific Islander,Homicide,2013
+4,11,F,Black,Homicide,2014
+2,4,M,Black,Homicide,2014
+9,15,M,Hispanic,Suicide,2012
+15,37,M,Hispanic,Suicide,2013
+4,33,M,Asian/Pacific Islander,Homicide,2013
+154,40,M,White,Suicide,2014
+3,44,F,Hispanic,Suicide,2013
+1,38,F,White,Accidental,2012
+1,35,F,White,Undetermined,2012
+6,47,M,White,Accidental,2012
+1,42,M,White,Undetermined,2012
+1,45,M,Native American/Native Alaskan,Homicide,2013
+2,2,M,White,Accidental,2013
+1,73,M,Asian/Pacific Islander,Homicide,2014
+1,5,M,Hispanic,Accidental,2014
+1,87,F,White,Undetermined,2014
+109,86,M,White,Suicide,2012
+1,94,M,Black,Homicide,2013
+75,49,F,White,Suicide,2014
+4,32,M,Asian/Pacific Islander,Homicide,2013
+2,3,M,Black,Homicide,2014
+1,12,F,Black,Homicide,2014
+6,16,M,Hispanic,Suicide,2012
+15,34,M,Hispanic,Suicide,2013
+167,39,M,White,Suicide,2014
+1,50,M,Asian/Pacific Islander,Homicide,2012
+2,43,F,Hispanic,Suicide,2013
+55,46,F,White,Suicide,2014
+1,36,F,White,Undetermined,2012
+3,48,M,White,Accidental,2012
+2,45,M,White,Undetermined,2012
+6,3,M,White,Accidental,2013
+1,12,F,White,Accidental,2013
+2,42,M,Native American/Native Alaskan,Homicide,2013
+1,94,M,White,Accidental,2014
+1,13,M,Hispanic,Suicide,2012
+143,83,M,White,Suicide,2012
+1,92,F,White,Suicide,2012
+1,22,F,Asian/Pacific Islander,Homicide,2013
+6,29,M,Asian/Pacific Islander,Homicide,2013
+3,2,M,Black,Homicide,2014
+1,0,M,Black,Homicide,2014
+58,47,F,White,Suicide,2014
+17,35,M,Hispanic,Suicide,2013
+171,38,M,White,Suicide,2014
+1,44,M,White,Undetermined,2012
+4,4,M,White,Accidental,2013
+5,49,M,White,Accidental,2012
+2,43,M,Native American/Native Alaskan,Homicide,2013
+7,14,M,Hispanic,Suicide,2012
+149,84,M,White,Suicide,2012
+4,91,F,White,Suicide,2012
+4,30,M,Asian/Pacific Islander,Homicide,2013
+1,1,M,Black,Homicide,2014
+4,10,F,Black,Homicide,2014
+1,71,M,Asian/Pacific Islander,Homicide,2014
+3,56,M,Asian/Pacific Islander,Homicide,2012
+49,44,F,White,Suicide,2014
+16,40,M,Hispanic,Suicide,2013
+186,37,M,White,Suicide,2014
+1,3,M,Native American/Native Alaskan,Homicide,2012
+2,42,M,White,Accidental,2012
+3,47,M,White,Undetermined,2012
+2,38,F,White,Undetermined,2012
+2,35,F,White,Accidental,2012
+3,48,M,Native American/Native Alaskan,Homicide,2013
+60,89,M,White,Suicide,2012
+1,90,F,Black,Homicide,2013
+3,5,M,White,Accidental,2013
+1,96,M,White,Accidental,2014
+1,2,M,Hispanic,Accidental,2014
+1,20,F,Asian/Pacific Islander,Homicide,2013
+7,27,M,Asian/Pacific Islander,Homicide,2013
+4,15,F,Black,Homicide,2014
+2,8,M,Black,Homicide,2014
+2,49,F,Hispanic,Suicide,2013
+2,64,F,Asian/Pacific Islander,Homicide,2012
+186,36,M,White,Suicide,2014
+2,48,F,Hispanic,Suicide,2013
+1,98,F,White,Suicide,2012
+53,45,F,White,Suicide,2014
+13,41,M,Hispanic,Suicide,2013
+5,43,M,White,Accidental,2012
+2,40,F,Native American/Native Alaskan,Homicide,2013
+60,90,M,White,Suicide,2012
+1,13,F,White,Accidental,2013
+1,6,M,White,Accidental,2013
+1,92,M,White,Undetermined,2014
+1,19,F,Asian/Pacific Islander,Homicide,2013
+3,28,M,Asian/Pacific Islander,Homicide,2013
+4,7,M,Black,Homicide,2014
+8,16,F,Black,Homicide,2014
+1,12,M,Hispanic,Suicide,2012
+1,65,F,Asian/Pacific Islander,Homicide,2012
+20,38,M,Hispanic,Suicide,2013
+184,35,M,White,Suicide,2014
+2,47,F,Hispanic,Suicide,2013
+55,42,F,White,Suicide,2014
+2,37,F,White,Accidental,2012
+4,44,M,White,Accidental,2012
+1,46,M,Native American/Native Alaskan,Homicide,2013
+3,49,M,White,Undetermined,2012
+2,7,M,White,Accidental,2013
+88,87,M,White,Suicide,2012
+5,25,M,Asian/Pacific Islander,Homicide,2013
+2,18,F,Asian/Pacific Islander,Homicide,2013
+1,95,M,Black,Homicide,2013
+1,6,M,Black,Homicide,2014
+1,13,F,Black,Homicide,2014
+3,55,M,Asian/Pacific Islander,Homicide,2012
+4,46,F,Hispanic,Suicide,2013
+52,43,F,White,Suicide,2014
+1,41,F,White,Undetermined,2012
+17,39,M,Hispanic,Suicide,2013
+185,34,M,White,Suicide,2014
+4,45,M,White,Accidental,2012
+3,48,M,White,Undetermined,2012
+1,47,M,Native American/Native Alaskan,Homicide,2013
+1,12,F,Hispanic,Accidental,2014
+2,8,M,White,Accidental,2013
+1,15,F,White,Accidental,2013
+99,88,M,White,Suicide,2012
+1,95,F,White,Suicide,2012
+1,26,M,Asian/Pacific Islander,Homicide,2013
+4,5,M,Black,Homicide,2014
+3,14,F,Black,Homicide,2014
+2,38,M,White,Accidental,2012
+2,35,M,White,Undetermined,2012
+1,15,M,Native American/Native Alaskan,Homicide,2012
+1,8,F,Native American/Native Alaskan,Homicide,2012
+1,37,F,Hispanic,Suicide,2013
+2,33,F,Asian/Pacific Islander,Homicide,2013
+1,53,F,Asian/Pacific Islander,Homicide,2012
+1,60,M,Asian/Pacific Islander,Homicide,2012
+46,40,F,White,Suicide,2014
+15,44,M,Hispanic,Suicide,2013
+21,93,M,White,Suicide,2012
+8,86,F,White,Suicide,2012
+294,49,M,White,Suicide,2014
+4,23,M,Asian/Pacific Islander,Homicide,2013
+3,12,M,Black,Homicide,2014
+6,3,F,Black,Homicide,2014
+1,16,F,Hispanic,Suicide,2012
+1,2,F,White,Accidental,2013
+1,9,M,White,Accidental,2013
+1,14,M,White,Undetermined,2013
+1,36,M,Native American/Native Alaskan,Homicide,2013
+4,46,F,White,Accidental,2012
+1,43,F,White,Undetermined,2012
+2,34,M,White,Undetermined,2012
+4,39,M,White,Accidental,2012
+53,41,F,White,Suicide,2014
+2,16,M,Native American/Native Alaskan,Homicide,2012
+14,45,M,Hispanic,Suicide,2013
+3,61,M,Asian/Pacific Islander,Homicide,2012
+259,48,M,White,Suicide,2014
+2,36,F,Hispanic,Suicide,2013
+16,94,M,White,Suicide,2012
+7,85,F,White,Suicide,2012
+2,24,M,Asian/Pacific Islander,Homicide,2013
+2,11,M,Black,Homicide,2014
+2,4,F,Black,Homicide,2014
+3,37,M,Native American/Native Alaskan,Homicide,2013
+5,10,M,White,Accidental,2013
+1,83,M,White,Accidental,2014
+3,13,M,White,Undetermined,2013
+1,6,F,Hispanic,Accidental,2014
+1,13,M,Hispanic,Accidental,2014
+2,44,F,White,Undetermined,2012
+3,40,M,White,Accidental,2012
+1,51,F,Asian/Pacific Islander,Homicide,2012
+20,42,M,Hispanic,Suicide,2013
+243,47,M,White,Suicide,2014
+2,58,M,Asian/Pacific Islander,Homicide,2012
+4,35,F,Hispanic,Suicide,2013
+30,38,F,White,Suicide,2014
+2,14,F,Hispanic,Suicide,2012
+52,91,M,White,Suicide,2012
+7,84,F,White,Suicide,2012
+9,21,M,Asian/Pacific Islander,Homicide,2013
+1,83,M,Black,Homicide,2013
+1,71,F,Asian/Pacific Islander,Homicide,2014
+1,1,F,Black,Homicide,2014
+2,10,M,Black,Homicide,2014
+2,16,M,White,Undetermined,2013
+1,11,M,White,Accidental,2013
+1,4,F,White,Accidental,2013
+2,49,F,White,Accidental,2012
+2,34,M,Native American/Native Alaskan,Homicide,2013
+2,36,M,White,Undetermined,2012
+1,45,F,White,Undetermined,2012
+4,41,M,White,Accidental,2012
+1,59,M,Asian/Pacific Islander,Homicide,2012
+5,34,F,Hispanic,Suicide,2013
+36,39,F,White,Suicide,2014
+1,50,F,Asian/Pacific Islander,Homicide,2012
+12,43,M,Hispanic,Suicide,2013
+248,46,M,White,Suicide,2014
+1,90,M,White,Undetermined,2014
+10,83,F,White,Suicide,2012
+22,92,M,White,Suicide,2012
+4,22,M,Asian/Pacific Islander,Homicide,2013
+2,84,M,Black,Homicide,2013
+1,29,F,Asian/Pacific Islander,Homicide,2013
+4,9,M,Black,Homicide,2014
+2,72,F,Asian/Pacific Islander,Homicide,2014
+3,2,F,Black,Homicide,2014
+3,12,M,White,Accidental,2013
+1,3,F,White,Accidental,2013
+2,35,M,Native American/Native Alaskan,Homicide,2013
+2,85,M,White,Accidental,2014
+7,34,M,White,Accidental,2012
+2,39,M,White,Undetermined,2012
+3,41,F,Hispanic,Suicide,2013
+2,46,F,White,Undetermined,2012
+3,57,F,Asian/Pacific Islander,Homicide,2012
+1,64,M,Asian/Pacific Islander,Homicide,2012
+30,36,F,White,Suicide,2014
+14,48,M,Hispanic,Suicide,2013
+4,98,M,White,Suicide,2012
+238,45,M,White,Suicide,2014
+3,28,F,Asian/Pacific Islander,Homicide,2013
+5,19,M,Asian/Pacific Islander,Homicide,2013
+98,16,M,Black,Homicide,2014
+1,7,F,Black,Homicide,2014
+1,65,M,Asian/Pacific Islander,Homicide,2012
+4,40,M,Native American/Native Alaskan,Homicide,2013
+1,90,F,White,Suicide,2012
+1,13,M,White,Accidental,2013
+1,6,F,White,Accidental,2013
+2,47,F,White,Undetermined,2012
+5,35,M,White,Accidental,2012
+2,38,M,White,Undetermined,2012
+235,44,M,White,Suicide,2014
+1,40,F,Hispanic,Suicide,2013
+2,99,M,White,Suicide,2012
+39,37,F,White,Suicide,2014
+3,20,M,Asian/Pacific Islander,Homicide,2013
+2,27,F,Asian/Pacific Islander,Homicide,2013
+49,15,M,Black,Homicide,2014
+12,49,M,Hispanic,Suicide,2013
+1,41,M,Native American/Native Alaskan,Homicide,2013
+2,66,M,Asian/Pacific Islander,Homicide,2012
+10,89,F,White,Suicide,2012
+1,84,M,Hispanic,Accidental,2013
+1,9,M,Hispanic,Accidental,2014
+3,84,M,White,Undetermined,2014
+1,9,M,Native American/Native Alaskan,Homicide,2012
+2,48,F,White,Undetermined,2012
+1,36,M,White,Accidental,2012
+11,46,M,Hispanic,Suicide,2013
+202,43,M,White,Suicide,2014
+3,41,M,White,Undetermined,2012
+2,62,M,Asian/Pacific Islander,Homicide,2012
+2,39,F,Hispanic,Suicide,2013
+30,34,F,White,Suicide,2014
+5,88,F,White,Suicide,2012
+18,95,M,White,Suicide,2012
+4,17,M,Asian/Pacific Islander,Homicide,2013
+2,26,F,Asian/Pacific Islander,Homicide,2013
+20,14,M,Black,Homicide,2014
+3,5,F,Black,Homicide,2014
+2,38,M,Native American/Native Alaskan,Homicide,2013
+1,12,M,White,Undetermined,2013
+4,15,M,White,Accidental,2013
+1,15,M,Hispanic,Undetermined,2014
+4,37,M,White,Accidental,2012
+1,40,M,White,Undetermined,2012
+4,38,F,Hispanic,Suicide,2013
+1,63,M,Asian/Pacific Islander,Homicide,2012
+40,35,F,White,Suicide,2014
+13,47,M,Hispanic,Suicide,2013
+206,42,M,White,Suicide,2014
+5,97,M,White,Suicide,2012
+5,87,F,White,Suicide,2012
+10,96,M,White,Suicide,2012
+1,25,F,Asian/Pacific Islander,Homicide,2013
+2,18,M,Asian/Pacific Islander,Homicide,2013
+11,13,M,Black,Homicide,2014
+2,6,F,Black,Homicide,2014
+1,89,M,White,Accidental,2014
+1,86,M,White,Undetermined,2014
+1,39,M,Native American/Native Alaskan,Homicide,2013
+5,16,M,White,Accidental,2013
+2,57,F,Hispanic,Suicide,2012
+4,55,M,White,Undetermined,2013
+3,50,M,White,Accidental,2013
+1,50,M,Hispanic,Undetermined,2014
+1,59,F,White,Accidental,2013
+3,41,F,Asian/Pacific Islander,Homicide,2013
+2,27,M,Native American/Native Alaskan,Homicide,2013
+156,81,M,White,Suicide,2013
+33,53,M,Black,Homicide,2014
+5,64,M,Hispanic,Suicide,2012
+10,65,M,Hispanic,Suicide,2012
+6,78,M,Hispanic,Suicide,2014
+1,69,F,Hispanic,Suicide,2014
+47,31,F,White,Suicide,2014
+215,24,M,White,Suicide,2014
+18,19,M,Hispanic,Suicide,2013
+3,28,F,Hispanic,Suicide,2013
+3,73,M,Black,Homicide,2012
+6,29,M,White,Accidental,2012
+11,74,F,White,Suicide,2013
+4,26,M,White,Undetermined,2012
+3,58,F,White,Accidental,2013
+11,51,M,White,Accidental,2013
+1,54,M,White,Undetermined,2013
+2,28,M,Native American/Native Alaskan,Homicide,2013
+1,19,F,Native American/Native Alaskan,Homicide,2013
+2,81,F,Black,Homicide,2012
+158,82,M,White,Suicide,2013
+32,33,F,White,Suicide,2014
+36,52,M,Black,Homicide,2014
+3,56,F,Hispanic,Suicide,2012
+4,66,M,Hispanic,Suicide,2012
+2,49,M,Asian/Pacific Islander,Homicide,2013
+3,77,M,Hispanic,Suicide,2014
+214,23,M,White,Suicide,2014
+23,32,F,White,Suicide,2014
+19,20,M,Hispanic,Suicide,2013
+2,27,F,Hispanic,Suicide,2013
+1,74,M,Black,Homicide,2012
+7,30,M,White,Accidental,2012
+20,73,F,White,Suicide,2013
+2,25,M,White,Undetermined,2012
+1,64,F,White,Undetermined,2013
+11,52,M,White,Accidental,2013
+3,25,M,Native American/Native Alaskan,Homicide,2013
+1,61,F,White,Accidental,2013
+9,62,M,Hispanic,Suicide,2012
+1,39,F,Asian/Pacific Islander,Homicide,2013
+35,51,M,Black,Homicide,2014
+2,55,F,Hispanic,Suicide,2012
+2,57,M,White,Undetermined,2013
+1,46,M,Asian/Pacific Islander,Homicide,2013
+5,58,F,Black,Homicide,2014
+6,17,M,Hispanic,Suicide,2013
+2,26,F,Hispanic,Suicide,2013
+5,76,M,Hispanic,Suicide,2014
+1,67,F,Hispanic,Suicide,2014
+1,80,F,Black,Homicide,2012
+2,71,M,Black,Homicide,2012
+144,79,M,White,Suicide,2013
+12,72,F,White,Suicide,2013
+216,22,M,White,Suicide,2014
+32,29,F,White,Suicide,2014
+2,28,M,White,Undetermined,2012
+5,31,M,White,Accidental,2012
+3,24,F,White,Accidental,2012
+1,65,F,White,Undetermined,2013
+5,56,M,White,Undetermined,2013
+3,33,M,White,Accidental,2012
+1,53,M,White,Accidental,2013
+4,26,M,Native American/Native Alaskan,Homicide,2013
+2,47,M,Asian/Pacific Islander,Homicide,2013
+6,59,F,Black,Homicide,2014
+7,63,M,Hispanic,Suicide,2012
+3,38,F,Asian/Pacific Islander,Homicide,2013
+44,50,M,Black,Homicide,2014
+9,18,M,Hispanic,Suicide,2013
+1,25,F,Hispanic,Suicide,2013
+8,75,M,Hispanic,Suicide,2014
+1,68,F,Hispanic,Suicide,2014
+2,79,F,Black,Homicide,2012
+1,72,M,Black,Homicide,2012
+148,80,M,White,Suicide,2013
+28,71,F,White,Suicide,2013
+38,30,F,White,Suicide,2014
+181,21,M,White,Suicide,2014
+2,20,F,White,Undetermined,2012
+1,27,M,White,Undetermined,2012
+3,32,M,White,Accidental,2012
+2,24,F,Native American/Native Alaskan,Homicide,2013
+1,31,M,Native American/Native Alaskan,Homicide,2013
+7,54,M,White,Accidental,2013
+1,51,M,White,Undetermined,2013
+1,58,F,White,Undetermined,2013
+20,57,M,Black,Homicide,2014
+1,58,F,Hispanic,Accidental,2014
+1,44,M,Asian/Pacific Islander,Homicide,2013
+2,64,F,Black,Homicide,2014
+2,60,M,Hispanic,Suicide,2012
+2,53,F,Hispanic,Suicide,2012
+5,33,F,Hispanic,Suicide,2013
+4,82,M,Hispanic,Suicide,2014
+3,37,F,Asian/Pacific Islander,Homicide,2013
+141,20,M,White,Suicide,2014
+39,27,F,White,Suicide,2014
+5,32,F,Hispanic,Suicide,2013
+28,23,M,Hispanic,Suicide,2013
+3,69,M,Black,Homicide,2012
+166,77,M,White,Suicide,2013
+20,70,F,White,Suicide,2013
+5,25,M,White,Accidental,2012
+1,18,F,White,Accidental,2012
+1,21,F,White,Undetermined,2012
+4,30,M,White,Undetermined,2012
+4,32,M,Native American/Native Alaskan,Homicide,2013
+1,23,F,Native American/Native Alaskan,Homicide,2013
+2,59,F,White,Undetermined,2013
+1,50,M,White,Undetermined,2013
+3,55,M,White,Accidental,2013
+1,50,M,Hispanic,Accidental,2014
+1,36,F,Asian/Pacific Islander,Homicide,2013
+32,56,M,Black,Homicide,2014
+1,52,F,Hispanic,Suicide,2012
+9,61,M,Hispanic,Suicide,2012
+2,45,M,Asian/Pacific Islander,Homicide,2013
+2,81,M,Hispanic,Suicide,2014
+30,28,F,White,Suicide,2014
+131,19,M,White,Suicide,2014
+29,24,M,Hispanic,Suicide,2013
+3,31,F,Hispanic,Suicide,2013
+4,70,M,Black,Homicide,2012
+177,78,M,White,Suicide,2013
+39,69,F,White,Suicide,2013
+2,66,F,Black,Homicide,2014
+5,33,M,Native American/Native Alaskan,Homicide,2013
+7,26,M,White,Accidental,2012
+4,29,M,White,Undetermined,2012
+1,22,F,White,Undetermined,2012
+2,29,M,Native American/Native Alaskan,Homicide,2013
+1,22,F,Native American/Native Alaskan,Homicide,2013
+1,33,M,White,Undetermined,2012
+2,53,M,White,Undetermined,2013
+6,56,M,White,Accidental,2013
+8,58,M,Hispanic,Suicide,2012
+22,55,M,Black,Homicide,2014
+2,51,F,Hispanic,Suicide,2012
+1,42,M,Asian/Pacific Islander,Homicide,2013
+1,62,F,Black,Homicide,2014
+24,21,M,Hispanic,Suicide,2013
+2,30,F,Hispanic,Suicide,2013
+1,80,M,Hispanic,Suicide,2014
+6,67,M,Black,Homicide,2012
+2,76,F,Black,Homicide,2012
+27,68,F,White,Suicide,2013
+168,75,M,White,Suicide,2013
+142,18,M,White,Suicide,2014
+25,25,F,White,Suicide,2014
+2,32,M,White,Undetermined,2012
+1,23,F,White,Undetermined,2012
+6,27,M,White,Accidental,2012
+3,20,F,White,Accidental,2012
+1,30,M,Native American/Native Alaskan,Homicide,2013
+1,21,F,Native American/Native Alaskan,Homicide,2013
+5,52,M,White,Undetermined,2013
+2,64,F,White,Accidental,2013
+5,57,M,White,Accidental,2013
+4,43,M,Asian/Pacific Islander,Homicide,2013
+14,59,M,Hispanic,Suicide,2012
+1,34,F,Asian/Pacific Islander,Homicide,2013
+19,54,M,Black,Homicide,2014
+4,29,F,Hispanic,Suicide,2013
+31,22,M,Hispanic,Suicide,2013
+5,79,M,Hispanic,Suicide,2014
+9,68,M,Black,Homicide,2012
+158,76,M,White,Suicide,2013
+31,67,F,White,Suicide,2013
+107,17,M,White,Suicide,2014
+31,26,F,White,Suicide,2014
+2,31,M,White,Undetermined,2012
+4,28,M,White,Accidental,2012
+1,19,F,White,Accidental,2012
+8,82,F,White,Suicide,2013
+14,61,M,Black,Homicide,2014
+179,33,M,White,Suicide,2014
+2,40,M,Asian/Pacific Islander,Homicide,2013
+3,52,F,Black,Homicide,2014
+12,56,M,Hispanic,Suicide,2012
+4,58,M,White,Accidental,2013
+2,63,M,White,Undetermined,2013
+1,54,F,White,Undetermined,2013
+2,51,F,White,Accidental,2013
+2,28,F,Native American/Native Alaskan,Homicide,2013
+5,21,M,White,Accidental,2012
+1,30,F,White,Accidental,2012
+202,73,M,White,Suicide,2013
+2,18,M,White,Undetermined,2012
+1,25,F,White,Undetermined,2012
+9,70,M,Hispanic,Suicide,2014
+1,49,F,Asian/Pacific Islander,Homicide,2013
+25,23,F,White,Suicide,2014
+190,32,M,White,Suicide,2014
+23,27,M,Hispanic,Suicide,2013
+2,20,F,Hispanic,Suicide,2013
+14,81,F,White,Suicide,2013
+3,53,F,Black,Homicide,2014
+1,48,F,Asian/Pacific Islander,Homicide,2013
+14,60,M,Black,Homicide,2014
+8,57,M,Hispanic,Suicide,2012
+2,50,F,White,Accidental,2013
+1,55,F,White,Undetermined,2013
+4,59,M,White,Accidental,2013
+2,62,M,White,Undetermined,2013
+2,20,M,Native American/Native Alaskan,Homicide,2013
+8,22,M,White,Accidental,2012
+192,74,M,White,Suicide,2013
+1,73,F,Black,Homicide,2012
+2,17,M,White,Undetermined,2012
+2,26,F,White,Undetermined,2012
+6,69,M,Hispanic,Suicide,2014
+41,24,F,White,Suicide,2014
+197,31,M,White,Suicide,2014
+28,28,M,Hispanic,Suicide,2013
+3,19,F,Hispanic,Suicide,2013
+13,54,M,Hispanic,Suicide,2012
+13,59,M,Black,Homicide,2014
+5,38,M,Asian/Pacific Islander,Homicide,2013
+6,50,F,Black,Homicide,2014
+6,60,M,White,Accidental,2013
+1,17,M,Native American/Native Alaskan,Homicide,2013
+1,33,F,White,Accidental,2012
+4,20,M,White,Undetermined,2012
+2,27,F,White,Undetermined,2012
+1,32,F,White,Accidental,2012
+5,23,M,White,Accidental,2012
+1,77,M,Hispanic,Accidental,2012
+2,66,M,White,Undetermined,2013
+28,25,M,Hispanic,Suicide,2013
+4,18,F,Hispanic,Suicide,2013
+3,68,M,Hispanic,Suicide,2014
+2,79,M,Black,Homicide,2012
+188,71,M,White,Suicide,2013
+10,80,F,White,Suicide,2013
+184,30,M,White,Suicide,2014
+24,21,F,White,Suicide,2014
+2,39,M,Asian/Pacific Islander,Homicide,2013
+1,62,F,Hispanic,Suicide,2012
+4,51,F,Black,Homicide,2014
+9,55,M,Hispanic,Suicide,2012
+16,58,M,Black,Homicide,2014
+3,64,M,White,Undetermined,2013
+1,52,F,White,Accidental,2013
+6,61,M,White,Accidental,2013
+1,61,M,Hispanic,Undetermined,2014
+4,18,M,Native American/Native Alaskan,Homicide,2013
+5,19,M,White,Undetermined,2012
+3,31,F,White,Accidental,2012
+5,24,M,White,Accidental,2012
+1,63,M,Native American/Native Alaskan,Homicide,2012
+1,65,M,Hispanic,Accidental,2014
+26,26,M,Hispanic,Suicide,2013
+1,17,F,Hispanic,Suicide,2013
+7,67,M,Hispanic,Suicide,2014
+1,76,F,Hispanic,Suicide,2014
+196,72,M,White,Suicide,2013
+9,79,F,White,Suicide,2013
+1,71,F,Black,Homicide,2012
+1,80,M,Black,Homicide,2012
+168,29,M,White,Suicide,2014
+32,22,F,White,Suicide,2014
+2,36,M,Asian/Pacific Islander,Homicide,2013
+3,56,F,Black,Homicide,2014
+9,52,M,Hispanic,Suicide,2012
+1,73,F,Native American/Native Alaskan,Homicide,2014
+2,45,F,Asian/Pacific Islander,Homicide,2013
+1,32,F,Native American/Native Alaskan,Homicide,2013
+2,23,M,Native American/Native Alaskan,Homicide,2013
+6,62,M,White,Accidental,2013
+4,59,M,White,Undetermined,2013
+1,55,F,White,Accidental,2013
+1,50,F,White,Undetermined,2013
+2,17,M,White,Accidental,2012
+7,22,M,White,Undetermined,2012
+5,74,M,Hispanic,Suicide,2014
+179,28,M,White,Suicide,2014
+17,19,F,White,Suicide,2014
+16,31,M,Hispanic,Suicide,2013
+2,24,F,Hispanic,Suicide,2013
+1,77,M,Black,Homicide,2012
+210,69,M,White,Suicide,2013
+13,78,F,White,Suicide,2013
+1,70,F,Black,Homicide,2012
+5,66,M,Black,Homicide,2014
+1,44,F,Asian/Pacific Islander,Homicide,2013
+11,64,M,Black,Homicide,2014
+15,53,M,Hispanic,Suicide,2012
+19,33,M,Hispanic,Suicide,2013
+2,37,M,Asian/Pacific Islander,Homicide,2013
+5,24,M,Native American/Native Alaskan,Homicide,2013
+2,51,F,White,Undetermined,2013
+1,54,F,White,Accidental,2013
+1,107,M,Black,Homicide,2013
+5,63,M,White,Accidental,2013
+1,58,M,White,Undetermined,2013
+4,57,F,Black,Homicide,2014
+1,58,M,Hispanic,Accidental,2014
+6,18,M,White,Accidental,2012
+1,25,F,White,Accidental,2012
+4,21,M,White,Undetermined,2012
+2,30,F,White,Undetermined,2012
+7,73,M,Hispanic,Suicide,2014
+1,81,M,Native American/Native Alaskan,Homicide,2014
+1,16,M,Asian/Pacific Islander,Homicide,2012
+190,27,M,White,Suicide,2014
+25,20,F,White,Suicide,2014
+27,32,M,Hispanic,Suicide,2013
+7,23,F,Hispanic,Suicide,2013
+1,78,M,Black,Homicide,2012
+254,70,M,White,Suicide,2013
+16,77,F,White,Suicide,2013
+6,65,M,Black,Homicide,2014
+12,50,M,Hispanic,Suicide,2012
+2,43,F,Asian/Pacific Islander,Homicide,2013
+1,57,F,White,Accidental,2013
+7,63,M,Black,Homicide,2014
+1,59,F,Hispanic,Suicide,2012
+3,34,M,Asian/Pacific Islander,Homicide,2013
+3,54,F,Black,Homicide,2014
+2,21,M,Native American/Native Alaskan,Homicide,2013
+5,61,M,White,Undetermined,2013
+5,65,M,White,Accidental,2013
+8,24,M,White,Undetermined,2012
+1,31,F,White,Undetermined,2012
+9,19,M,White,Accidental,2012
+31,29,M,Hispanic,Suicide,2013
+6,22,F,Hispanic,Suicide,2013
+4,72,M,Hispanic,Suicide,2014
+1,75,M,Black,Homicide,2012
+182,67,M,White,Suicide,2013
+17,76,F,White,Suicide,2013
+1,6,F,Asian/Pacific Islander,Homicide,2012
+207,26,M,White,Suicide,2014
+11,17,F,White,Suicide,2014
+1,58,F,Hispanic,Suicide,2012
+4,35,M,Asian/Pacific Islander,Homicide,2013
+5,55,F,Black,Homicide,2014
+20,51,M,Hispanic,Suicide,2012
+11,62,M,Black,Homicide,2014
+1,22,M,Native American/Native Alaskan,Homicide,2013
+1,79,M,Native American/Native Alaskan,Homicide,2014
+5,60,M,White,Undetermined,2013
+3,66,M,White,Accidental,2013
+4,23,M,White,Undetermined,2012
+1,32,F,White,Undetermined,2012
+4,20,M,White,Accidental,2012
+18,30,M,Hispanic,Suicide,2013
+3,21,F,Hispanic,Suicide,2013
+6,71,M,Hispanic,Suicide,2014
+1,80,F,Hispanic,Suicide,2014
+2,67,F,Black,Homicide,2012
+2,76,M,Black,Homicide,2012
+203,68,M,White,Suicide,2013
+14,75,F,White,Suicide,2013
+189,25,M,White,Suicide,2014
+11,18,F,White,Suicide,2014
+6,19,M,Asian/Pacific Islander,Homicide,2012
+9,15,F,White,Suicide,2014
+1,12,F,Hispanic,Suicide,2013
+3,13,M,White,Accidental,2012
+3,90,F,White,Suicide,2013
+1,40,M,Native American/Native Alaskan,Homicide,2012
+2,41,F,Hispanic,Suicide,2012
+1,49,F,Native American/Native Alaskan,Homicide,2012
+4,34,M,White,Accidental,2013
+1,43,F,Hispanic,Undetermined,2014
+4,98,M,White,Suicide,2013
+106,37,M,Black,Homicide,2014
+1,64,M,Asian/Pacific Islander,Homicide,2013
+14,44,F,Black,Homicide,2014
+17,48,M,Hispanic,Suicide,2012
+17,49,M,Hispanic,Suicide,2012
+1,93,M,Hispanic,Suicide,2014
+8,20,M,Asian/Pacific Islander,Homicide,2012
+15,16,F,White,Suicide,2014
+7,14,M,White,Accidental,2012
+2,89,F,White,Suicide,2013
+1,84,M,Hispanic,Accidental,2012
+1,47,F,White,Undetermined,2013
+2,35,M,White,Accidental,2013
+3,38,M,White,Undetermined,2013
+4,45,F,Black,Homicide,2014
+2,56,F,Asian/Pacific Islander,Homicide,2013
+116,36,M,Black,Homicide,2014
+3,40,F,Hispanic,Suicide,2012
+2,26,F,Asian/Pacific Islander,Homicide,2012
+12,95,M,White,Suicide,2013
+1,17,M,Asian/Pacific Islander,Homicide,2012
+2,88,F,White,Suicide,2013
+12,13,F,White,Suicide,2014
+2,15,M,White,Accidental,2012
+1,38,M,Native American/Native Alaskan,Homicide,2012
+12,46,M,Hispanic,Suicide,2012
+131,35,M,Black,Homicide,2014
+2,39,F,Hispanic,Suicide,2012
+3,62,M,Asian/Pacific Islander,Homicide,2013
+1,41,M,White,Undetermined,2013
+13,42,F,Black,Homicide,2014
+1,41,M,Hispanic,Accidental,2014
+2,25,F,Asian/Pacific Islander,Homicide,2012
+1,95,F,Black,Homicide,2012
+2,18,M,Asian/Pacific Islander,Homicide,2012
+7,96,M,White,Suicide,2013
+6,87,F,White,Suicide,2013
+12,14,F,White,Suicide,2014
+4,16,M,White,Accidental,2012
+2,39,M,Native American/Native Alaskan,Homicide,2012
+1,49,F,White,Undetermined,2013
+1,49,F,Hispanic,Accidental,2014
+5,40,M,White,Undetermined,2013
+1,40,M,Hispanic,Accidental,2014
+3,37,M,White,Accidental,2013
+3,97,M,White,Suicide,2013
+3,38,F,Hispanic,Suicide,2012
+1,63,M,Asian/Pacific Islander,Homicide,2013
+12,43,F,Black,Homicide,2014
+15,47,M,Hispanic,Suicide,2012
+140,34,M,Black,Homicide,2014
+5,23,M,Asian/Pacific Islander,Homicide,2012
+3,11,F,White,Suicide,2014
+35,93,M,White,Suicide,2013
+5,86,F,White,Suicide,2013
+1,9,M,White,Accidental,2012
+1,2,F,White,Accidental,2012
+2,14,M,White,Undetermined,2012
+1,15,M,Native American/Native Alaskan,Homicide,2013
+4,38,M,White,Accidental,2013
+3,35,M,White,Undetermined,2013
+2,35,M,Hispanic,Accidental,2014
+69,41,M,Black,Homicide,2014
+2,60,M,Asian/Pacific Islander,Homicide,2013
+6,48,F,Black,Homicide,2014
+12,44,M,Hispanic,Suicide,2012
+5,37,F,Hispanic,Suicide,2012
+1,33,F,Asian/Pacific Islander,Homicide,2012
+3,24,M,Asian/Pacific Islander,Homicide,2012
+2,31,F,Asian/Pacific Islander,Homicide,2012
+2,12,F,White,Suicide,2014
+1,15,F,Hispanic,Suicide,2013
+18,94,M,White,Suicide,2013
+6,85,F,White,Suicide,2013
+9,49,F,Black,Homicide,2014
+1,10,M,White,Accidental,2012
+1,13,M,White,Undetermined,2012
+1,0,F,White,Accidental,2012
+1,16,M,Native American/Native Alaskan,Homicide,2013
+1,34,M,White,Undetermined,2013
+1,39,M,White,Accidental,2013
+1,34,M,Hispanic,Accidental,2014
+71,40,M,Black,Homicide,2014
+3,36,F,Hispanic,Suicide,2012
+7,45,M,Hispanic,Suicide,2012
+2,61,M,Asian/Pacific Islander,Homicide,2013
+1,89,M,Hispanic,Accidental,2012
+1,14,F,Hispanic,Suicide,2013
+1,83,M,Black,Homicide,2012
+1,30,F,Asian/Pacific Islander,Homicide,2012
+49,91,M,White,Suicide,2013
+6,84,F,White,Suicide,2013
+2,21,M,Asian/Pacific Islander,Homicide,2012
+3,34,M,Native American/Native Alaskan,Homicide,2012
+3,49,F,White,Accidental,2013
+1,16,M,White,Undetermined,2012
+1,11,M,White,Accidental,2012
+2,37,M,White,Undetermined,2013
+4,44,F,White,Undetermined,2013
+4,40,M,White,Accidental,2013
+13,42,M,Hispanic,Suicide,2012
+1,51,F,Asian/Pacific Islander,Homicide,2013
+94,39,M,Black,Homicide,2014
+1,35,F,Hispanic,Suicide,2012
+1,58,M,Asian/Pacific Islander,Homicide,2013
+6,46,F,Black,Homicide,2014
+2,13,F,Hispanic,Suicide,2013
+2,84,M,Black,Homicide,2012
+10,22,M,Asian/Pacific Islander,Homicide,2012
+44,92,M,White,Suicide,2013
+10,83,F,White,Suicide,2013
+1,29,F,Asian/Pacific Islander,Homicide,2012
+3,35,M,Native American/Native Alaskan,Homicide,2012
+1,15,M,White,Undetermined,2012
+3,12,M,White,Accidental,2012
+1,3,F,White,Accidental,2012
+1,36,M,Hispanic,Accidental,2014
+3,34,F,Hispanic,Suicide,2012
+3,41,M,White,Accidental,2013
+1,59,M,Asian/Pacific Islander,Homicide,2013
+8,47,F,Black,Homicide,2014
+14,43,M,Hispanic,Suicide,2012
+109,38,M,Black,Homicide,2014
+1,14,F,White,Accidental,2012
+67,89,M,White,Suicide,2013
+3,48,M,Native American/Native Alaskan,Homicide,2012
+3,49,F,Hispanic,Suicide,2012
+4,86,M,Hispanic,Suicide,2014
+4,27,M,Asian/Pacific Islander,Homicide,2012
+2,20,F,Asian/Pacific Islander,Homicide,2012
+85,16,M,White,Suicide,2014
+46,45,M,Black,Homicide,2014
+2,56,M,Asian/Pacific Islander,Homicide,2013
+14,36,F,Black,Homicide,2014
+20,40,M,Hispanic,Suicide,2012
+7,42,M,White,Accidental,2013
+3,47,M,White,Undetermined,2013
+1,42,M,Hispanic,Undetermined,2014
+2,35,F,Hispanic,Undetermined,2014
+1,38,F,Hispanic,Accidental,2014
+1,6,M,White,Accidental,2012
+58,90,M,White,Suicide,2013
+2,85,M,Hispanic,Suicide,2014
+7,28,M,Asian/Pacific Islander,Homicide,2012
+1,19,F,Asian/Pacific Islander,Homicide,2012
+75,15,M,White,Suicide,2014
+2,12,M,Hispanic,Suicide,2013
+1,98,F,White,Suicide,2013
+1,99,M,Black,Homicide,2012
+12,37,F,Black,Homicide,2014
+57,44,M,Black,Homicide,2014
+2,48,F,Hispanic,Suicide,2012
+13,41,M,Hispanic,Suicide,2012
+1,49,M,Native American/Native Alaskan,Homicide,2012
+2,43,M,White,Accidental,2013
+1,46,M,White,Undetermined,2013
+1,7,M,White,Accidental,2012
+3,46,M,Native American/Native Alaskan,Homicide,2012
+1,39,F,Native American/Native Alaskan,Homicide,2012
+1,49,M,Hispanic,Accidental,2014
+3,84,M,Hispanic,Suicide,2014
+90,87,M,White,Suicide,2013
+2,25,M,Asian/Pacific Islander,Homicide,2012
+1,18,F,Asian/Pacific Islander,Homicide,2012
+56,14,M,White,Suicide,2014
+16,38,M,Hispanic,Suicide,2012
+58,43,M,Black,Homicide,2014
+3,47,F,Hispanic,Suicide,2012
+1,54,M,Asian/Pacific Islander,Homicide,2013
+8,34,F,Black,Homicide,2014
+3,40,F,White,Undetermined,2013
+2,44,M,White,Accidental,2013
+1,3,M,White,Undetermined,2012
+3,8,M,White,Accidental,2012
+1,47,M,Native American/Native Alaskan,Homicide,2012
+4,83,M,Hispanic,Suicide,2014
+11,26,M,Asian/Pacific Islander,Homicide,2012
+95,88,M,White,Suicide,2013
+1,95,F,White,Suicide,2013
+34,13,M,White,Suicide,2014
+3,46,F,Hispanic,Suicide,2012
+1,55,M,Asian/Pacific Islander,Homicide,2013
+12,35,F,Black,Homicide,2014
+19,39,M,Hispanic,Suicide,2012
+1,41,F,White,Undetermined,2013
+1,62,F,Asian/Pacific Islander,Homicide,2013
+63,42,M,Black,Homicide,2014
+2,48,M,White,Undetermined,2013
+3,45,M,White,Accidental,2013
+1,2,M,Native American/Native Alaskan,Homicide,2013
+1,44,M,Native American/Native Alaskan,Homicide,2012
+1,37,F,Native American/Native Alaskan,Homicide,2012
+1,90,M,Hispanic,Suicide,2014
+4,31,M,Asian/Pacific Islander,Homicide,2012
+2,24,F,Asian/Pacific Islander,Homicide,2012
+17,12,M,White,Suicide,2014
+10,15,M,Hispanic,Suicide,2013
+136,85,M,White,Suicide,2013
+2,94,F,White,Suicide,2013
+46,49,M,Black,Homicide,2014
+2,52,M,Asian/Pacific Islander,Homicide,2013
+10,40,F,Black,Homicide,2014
+14,36,M,Hispanic,Suicide,2012
+1,45,F,Hispanic,Suicide,2012
+1,16,F,Native American/Native Alaskan,Homicide,2013
+4,43,M,White,Undetermined,2013
+8,46,M,White,Accidental,2013
+2,39,F,White,Accidental,2013
+1,34,F,White,Undetermined,2013
+3,45,M,Native American/Native Alaskan,Homicide,2012
+5,2,M,White,Accidental,2012
+3,89,M,Hispanic,Suicide,2014
+3,32,M,Asian/Pacific Islander,Homicide,2012
+2,23,F,Asian/Pacific Islander,Homicide,2012
+6,11,M,White,Suicide,2014
+9,16,M,Hispanic,Suicide,2013
+116,86,M,White,Suicide,2013
+4,93,F,White,Suicide,2013
+51,48,M,Black,Homicide,2014
+1,44,F,Hispanic,Suicide,2012
+11,37,M,Hispanic,Suicide,2012
+5,33,M,Asian/Pacific Islander,Homicide,2012
+1,53,M,Asian/Pacific Islander,Homicide,2013
+2,38,F,White,Accidental,2013
+1,35,F,Hispanic,Accidental,2014
+2,47,M,White,Accidental,2013
+7,41,F,Black,Homicide,2014
+1,42,M,White,Undetermined,2013
+5,42,M,Native American/Native Alaskan,Homicide,2012
+1,35,F,Native American/Native Alaskan,Homicide,2012
+3,3,M,White,Accidental,2012
+1,13,M,Hispanic,Suicide,2013
+3,88,M,Hispanic,Suicide,2014
+7,29,M,Asian/Pacific Islander,Homicide,2012
+1,22,F,Asian/Pacific Islander,Homicide,2012
+168,83,M,White,Suicide,2013
+3,92,F,White,Suicide,2013
+1,10,M,White,Suicide,2014
+18,34,M,Hispanic,Suicide,2012
+1,41,F,White,Accidental,2013
+50,47,M,Black,Homicide,2014
+5,50,M,Asian/Pacific Islander,Homicide,2013
+2,43,F,Hispanic,Suicide,2012
+8,38,F,Black,Homicide,2014
+1,36,F,White,Undetermined,2013
+8,48,M,White,Accidental,2013
+5,49,M,White,Accidental,2013
+1,49,M,Hispanic,Undetermined,2014
+4,14,M,Hispanic,Suicide,2013
+1,87,M,Hispanic,Suicide,2014
+1,92,M,Black,Homicide,2012
+2,21,F,Asian/Pacific Islander,Homicide,2012
+121,84,M,White,Suicide,2013
+2,91,F,White,Suicide,2013
+1,30,M,Asian/Pacific Islander,Homicide,2012
+1,83,F,Black,Homicide,2012
+2,51,M,Asian/Pacific Islander,Homicide,2013
+5,39,F,Black,Homicide,2014
+25,35,M,Hispanic,Suicide,2012
+1,58,F,Asian/Pacific Islander,Homicide,2013
+44,46,M,Black,Homicide,2014
+3,44,M,White,Undetermined,2013
+1,13,M,White,Undetermined,2014
+1,83,M,White,Accidental,2013
+1,1,F,White,Accidental,2014
+1,10,M,White,Accidental,2014
+2,37,M,Native American/Native Alaskan,Homicide,2014
+1,44,F,Native American/Native Alaskan,Homicide,2014
+7,49,F,Black,Homicide,2012
+1,86,M,Black,Homicide,2014
+1,93,F,Black,Homicide,2014
+1,12,F,White,Suicide,2012
+1,4,F,Black,Homicide,2013
+3,11,M,Black,Homicide,2013
+6,24,M,Asian/Pacific Islander,Homicide,2014
+8,45,M,Hispanic,Suicide,2014
+5,36,F,Hispanic,Suicide,2014
+79,40,M,Black,Homicide,2012
+299,48,M,White,Suicide,2013
+2,34,M,Hispanic,Accidental,2012
+54,41,F,White,Suicide,2013
+2,NA,M,White,Suicide,2013
+1,0,F,White,Accidental,2014
+1,14,M,Hispanic,Accidental,2013
+1,14,M,White,Undetermined,2014
+1,73,F,Asian/Pacific Islander,Homicide,2013
+1,84,M,White,Accidental,2013
+3,9,M,White,Accidental,2014
+4,36,M,Native American/Native Alaskan,Homicide,2014
+310,49,M,White,Suicide,2013
+2,3,F,Black,Homicide,2013
+5,12,M,Black,Homicide,2013
+6,23,M,Asian/Pacific Islander,Homicide,2014
+1,32,F,Asian/Pacific Islander,Homicide,2014
+1,37,F,Hispanic,Suicide,2014
+22,44,M,Hispanic,Suicide,2014
+16,48,F,Black,Homicide,2012
+42,40,F,White,Suicide,2013
+82,41,M,Black,Homicide,2012
+1,3,F,White,Accidental,2014
+1,15,M,Hispanic,Accidental,2013
+3,35,M,Native American/Native Alaskan,Homicide,2014
+3,9,M,Black,Homicide,2013
+2,22,M,Asian/Pacific Islander,Homicide,2014
+1,84,M,Black,Homicide,2014
+1,29,F,Asian/Pacific Islander,Homicide,2014
+103,38,M,Black,Homicide,2012
+237,46,M,White,Suicide,2013
+9,43,M,Hispanic,Suicide,2014
+7,47,F,Black,Homicide,2012
+36,39,F,White,Suicide,2013
+3,34,F,Hispanic,Suicide,2014
+1,36,M,Hispanic,Accidental,2012
+1,11,M,White,Accidental,2014
+1,4,F,White,Accidental,2014
+1,16,M,Hispanic,Accidental,2013
+2,16,M,White,Undetermined,2014
+1,43,F,Native American/Native Alaskan,Homicide,2014
+3,34,M,Native American/Native Alaskan,Homicide,2014
+4,1,F,Black,Homicide,2013
+1,10,M,Black,Homicide,2013
+7,21,M,Asian/Pacific Islander,Homicide,2014
+1,0,F,Black,Homicide,2013
+8,46,F,Black,Homicide,2012
+44,38,F,White,Suicide,2013
+89,39,M,Black,Homicide,2012
+220,47,M,White,Suicide,2013
+21,42,M,Hispanic,Suicide,2014
+1,9,M,Hispanic,Accidental,2013
+1,9,M,White,Undetermined,2014
+1,87,M,White,Accidental,2013
+2,14,M,White,Accidental,2014
+14,16,F,White,Suicide,2012
+47,15,M,Black,Homicide,2013
+1,8,F,Black,Homicide,2013
+3,20,M,Asian/Pacific Islander,Homicide,2014
+17,49,M,Hispanic,Suicide,2014
+1,41,M,Native American/Native Alaskan,Homicide,2014
+4,40,F,Hispanic,Suicide,2014
+119,36,M,Black,Homicide,2012
+234,44,M,White,Suicide,2013
+10,45,F,Black,Homicide,2012
+29,37,F,White,Suicide,2013
+1,38,M,Hispanic,Accidental,2012
+1,35,M,Hispanic,Undetermined,2012
+3,83,M,White,Undetermined,2013
+1,13,M,White,Accidental,2014
+1,6,F,White,Accidental,2014
+12,15,F,White,Suicide,2012
+75,16,M,Black,Homicide,2013
+1,7,F,Black,Homicide,2013
+5,19,M,Asian/Pacific Islander,Homicide,2014
+23,48,M,Hispanic,Suicide,2014
+8,44,F,Black,Homicide,2012
+31,36,F,White,Suicide,2013
+113,37,M,Black,Homicide,2012
+230,45,M,White,Suicide,2013
+1,0,F,Hispanic,Accidental,2013
+1,39,M,Hispanic,Accidental,2012
+3,41,F,Hispanic,Suicide,2014
+1,39,M,Native American/Native Alaskan,Homicide,2014
+1,16,M,Hispanic,Undetermined,2013
+4,16,M,White,Accidental,2014
+1,4,F,White,Undetermined,2014
+9,14,F,White,Suicide,2012
+1,89,M,White,Accidental,2013
+2,6,F,Black,Homicide,2013
+2,13,M,Black,Homicide,2013
+2,18,M,Asian/Pacific Islander,Homicide,2014
+1,91,M,Hispanic,Suicide,2012
+148,34,M,Black,Homicide,2012
+233,42,M,White,Suicide,2013
+16,47,M,Hispanic,Suicide,2014
+9,43,F,Black,Homicide,2012
+33,35,F,White,Suicide,2013
+2,38,F,Hispanic,Suicide,2014
+2,47,F,Native American/Native Alaskan,Homicide,2014
+2,38,M,Native American/Native Alaskan,Homicide,2014
+1,85,M,White,Undetermined,2013
+7,15,M,White,Accidental,2014
+1,12,M,White,Undetermined,2014
+17,14,M,Black,Homicide,2013
+1,17,M,Asian/Pacific Islander,Homicide,2014
+1,87,M,Black,Homicide,2014
+1,83,F,Hispanic,Suicide,2012
+9,42,F,Black,Homicide,2012
+42,34,F,White,Suicide,2013
+1,39,F,Hispanic,Suicide,2014
+140,35,M,Black,Homicide,2012
+263,43,M,White,Suicide,2013
+13,46,M,Hispanic,Suicide,2014
+73,49,F,White,Suicide,2013
+1,11,M,White,Suicide,2012
+1,12,F,Black,Homicide,2013
+1,3,M,Black,Homicide,2013
+6,32,M,Asian/Pacific Islander,Homicide,2014
+1,23,F,Asian/Pacific Islander,Homicide,2014
+2,89,M,Hispanic,Suicide,2012
+1,14,F,White,Undetermined,2014
+1,73,M,Asian/Pacific Islander,Homicide,2013
+3,91,M,White,Accidental,2013
+2,2,M,White,Accidental,2014
+1,9,F,White,Accidental,2014
+4,45,M,Native American/Native Alaskan,Homicide,2014
+12,41,F,Black,Homicide,2012
+1,33,M,Asian/Pacific Islander,Homicide,2014
+24,37,M,Hispanic,Suicide,2014
+3,44,F,Hispanic,Suicide,2014
+36,48,M,Black,Homicide,2012
+190,40,M,White,Suicide,2013
+41,49,M,Black,Homicide,2012
+9,12,M,White,Suicide,2012
+2,4,M,Black,Homicide,2013
+2,11,F,Black,Homicide,2013
+3,31,M,Asian/Pacific Islander,Homicide,2014
+2,95,M,White,Undetermined,2013
+2,37,F,Native American/Native Alaskan,Homicide,2014
+1,92,M,White,Accidental,2013
+1,44,M,Native American/Native Alaskan,Homicide,2014
+202,41,M,White,Suicide,2013
+2,45,F,Hispanic,Suicide,2014
+22,36,M,Hispanic,Suicide,2014
+13,40,F,Black,Homicide,2012
+80,48,F,White,Suicide,2013
+1,9,M,White,Suicide,2012
+6,1,M,Black,Homicide,2013
+2,30,M,Asian/Pacific Islander,Homicide,2014
+1,87,M,Hispanic,Suicide,2012
+1,11,F,Hispanic,Undetermined,2013
+2,43,M,Native American/Native Alaskan,Homicide,2014
+1,0,M,Black,Homicide,2013
+50,46,M,Black,Homicide,2012
+202,38,M,White,Suicide,2013
+25,35,M,Hispanic,Suicide,2014
+9,39,F,Black,Homicide,2012
+60,47,F,White,Suicide,2013
+1,42,F,Hispanic,Suicide,2014
+1,10,M,White,Suicide,2012
+1,2,M,Black,Homicide,2013
+3,29,M,Asian/Pacific Islander,Homicide,2014
+1,84,F,Black,Homicide,2014
+4,88,M,Hispanic,Suicide,2012
+2,12,F,White,Accidental,2014
+2,3,M,White,Accidental,2014
+1,42,M,Native American/Native Alaskan,Homicide,2014
+7,38,F,Black,Homicide,2012
+48,46,F,White,Suicide,2013
+66,47,M,Black,Homicide,2012
+1,41,F,Hispanic,Undetermined,2012
+207,39,M,White,Suicide,2013
+21,34,M,Hispanic,Suicide,2014
+56,15,M,White,Suicide,2012
+3,7,M,Black,Homicide,2013
+7,16,F,Black,Homicide,2013
+4,28,M,Asian/Pacific Islander,Homicide,2014
+4,85,M,Hispanic,Suicide,2012
+1,92,M,White,Undetermined,2013
+1,83,F,White,Undetermined,2013
+1,88,F,White,Accidental,2013
+1,89,F,Black,Homicide,2014
+1,34,F,Hispanic,Undetermined,2012
+18,41,M,Hispanic,Suicide,2014
+2,49,M,Native American/Native Alaskan,Homicide,2014
+4,48,F,Hispanic,Suicide,2014
+55,44,M,Black,Homicide,2012
+149,36,M,White,Suicide,2013
+5,37,F,Black,Homicide,2012
+42,45,F,White,Suicide,2013
+82,16,M,White,Suicide,2012
+5,15,F,Black,Homicide,2013
+3,27,M,Asian/Pacific Islander,Homicide,2014
+2,20,F,Asian/Pacific Islander,Homicide,2014
+3,86,M,Hispanic,Suicide,2012
+1,41,F,Native American/Native Alaskan,Homicide,2014
+1,5,M,White,Accidental,2014
+1,90,F,Black,Homicide,2014
+2,47,M,Hispanic,Accidental,2012
+14,40,M,Hispanic,Suicide,2014
+12,36,F,Black,Homicide,2012
+47,44,F,White,Suicide,2013
+37,45,M,Black,Homicide,2012
+180,37,M,White,Suicide,2013
+25,13,M,White,Suicide,2012
+2,14,F,Black,Homicide,2013
+5,26,M,Asian/Pacific Islander,Homicide,2014
+2,83,M,Hispanic,Suicide,2012
+1,94,M,White,Undetermined,2013
+2,8,M,White,Accidental,2014
+2,3,M,Hispanic,Accidental,2013
+67,42,M,Black,Homicide,2012
+180,34,M,White,Suicide,2013
+20,39,M,Hispanic,Suicide,2014
+12,35,F,Black,Homicide,2012
+58,43,F,White,Suicide,2013
+2,46,F,Hispanic,Suicide,2014
+39,14,M,White,Suicide,2012
+3,13,F,Black,Homicide,2013
+1,6,M,Black,Homicide,2013
+1,75,F,Asian/Pacific Islander,Homicide,2013
+7,25,M,Asian/Pacific Islander,Homicide,2014
+1,18,F,Asian/Pacific Islander,Homicide,2014
+5,84,M,Hispanic,Suicide,2012
+1,49,M,Hispanic,Accidental,2012
+1,46,M,Native American/Native Alaskan,Homicide,2014
+2,7,M,White,Accidental,2014
+1,16,F,White,Accidental,2014
+1,4,M,White,Undetermined,2014
+19,34,F,Black,Homicide,2012
+41,42,F,White,Suicide,2013
+4,47,F,Hispanic,Suicide,2014
+67,43,M,Black,Homicide,2012
+192,35,M,White,Suicide,2013
+22,38,M,Hispanic,Suicide,2014
+4,81,M,Hispanic,Suicide,2012
+12,61,M,Hispanic,Suicide,2014
+1,52,F,Hispanic,Suicide,2014
+27,56,M,Black,Homicide,2012
+243,64,M,White,Suicide,2013
+79,57,F,White,Suicide,2013
+1,72,M,White,Undetermined,2013
+2,29,M,White,Undetermined,2014
+3,67,M,White,Accidental,2013
+7,26,M,White,Accidental,2014
+259,65,M,White,Suicide,2013
+1,66,F,Black,Homicide,2012
+1,70,M,Black,Homicide,2014
+149,19,M,White,Suicide,2012
+40,28,F,White,Suicide,2012
+228,27,M,Black,Homicide,2013
+26,20,F,Black,Homicide,2013
+1,15,F,Asian/Pacific Islander,Homicide,2014
+3,82,M,Hispanic,Suicide,2012
+1,53,F,Hispanic,Suicide,2014
+6,60,M,Hispanic,Suicide,2014
+2,64,F,Black,Homicide,2012
+76,56,F,White,Suicide,2013
+22,57,M,Black,Homicide,2012
+1,51,M,Hispanic,Accidental,2012
+1,71,M,White,Undetermined,2013
+2,30,M,White,Undetermined,2014
+2,21,F,White,Undetermined,2014
+2,68,M,White,Accidental,2013
+1,18,F,Hispanic,Undetermined,2013
+3,25,M,Hispanic,Undetermined,2013
+5,25,M,White,Accidental,2014
+1,52,M,Native American/Native Alaskan,Homicide,2014
+4,65,F,Black,Homicide,2012
+259,66,M,White,Suicide,2013
+6,69,M,Black,Homicide,2014
+1,78,F,Black,Homicide,2014
+158,20,M,White,Suicide,2012
+31,27,F,White,Suicide,2012
+218,28,M,Black,Homicide,2013
+21,19,F,Black,Homicide,2013
+1,7,M,Asian/Pacific Islander,Homicide,2014
+27,54,M,Black,Homicide,2012
+235,62,M,White,Suicide,2013
+9,59,M,Hispanic,Suicide,2014
+66,55,F,White,Suicide,2013
+1,63,F,Black,Homicide,2012
+2,50,F,Hispanic,Suicide,2014
+1,71,M,Native American/Native Alaskan,Homicide,2012
+2,28,M,Hispanic,Undetermined,2013
+5,28,M,White,Accidental,2014
+1,31,M,Hispanic,Accidental,2013
+1,31,M,White,Undetermined,2014
+3,69,M,White,Accidental,2013
+1,51,M,Native American/Native Alaskan,Homicide,2014
+98,17,M,White,Suicide,2012
+28,26,F,White,Suicide,2012
+18,18,F,Black,Homicide,2013
+245,25,M,Black,Homicide,2013
+10,68,M,Black,Homicide,2014
+8,79,M,Hispanic,Suicide,2012
+1,62,F,Black,Homicide,2012
+69,54,F,White,Suicide,2013
+2,51,F,Hispanic,Suicide,2014
+21,55,M,Black,Homicide,2012
+244,63,M,White,Suicide,2013
+8,58,M,Hispanic,Suicide,2014
+1,33,M,Hispanic,Accidental,2013
+2,33,M,White,Undetermined,2014
+3,27,M,White,Accidental,2014
+2,20,F,White,Accidental,2014
+2,23,F,White,Undetermined,2014
+2,32,M,White,Undetermined,2014
+2,70,M,White,Accidental,2013
+2,50,M,Native American/Native Alaskan,Homicide,2014
+112,18,M,White,Suicide,2012
+30,25,F,White,Suicide,2012
+241,26,M,Black,Homicide,2013
+9,17,F,Black,Homicide,2013
+10,67,M,Black,Homicide,2014
+4,80,M,Hispanic,Suicide,2012
+1,73,M,White,Undetermined,2013
+2,56,F,Hispanic,Suicide,2014
+37,52,M,Black,Homicide,2012
+327,60,M,White,Suicide,2013
+36,33,F,White,Suicide,2012
+75,53,F,White,Suicide,2013
+2,81,F,Black,Homicide,2014
+1,25,M,Hispanic,Accidental,2013
+1,68,M,White,Undetermined,2013
+2,25,M,White,Undetermined,2014
+1,18,F,White,Undetermined,2014
+3,71,M,White,Accidental,2013
+2,80,F,White,Accidental,2013
+1,30,M,Hispanic,Undetermined,2013
+1,21,F,Hispanic,Undetermined,2013
+1,21,F,White,Accidental,2014
+1,30,M,White,Accidental,2014
+211,23,M,White,Suicide,2012
+32,32,F,White,Suicide,2012
+187,31,M,Black,Homicide,2013
+33,24,F,Black,Homicide,2013
+3,77,M,Hispanic,Suicide,2012
+2,66,M,Hispanic,Suicide,2014
+10,64,M,Hispanic,Suicide,2014
+3,60,F,Black,Homicide,2012
+60,52,F,White,Suicide,2013
+33,53,M,Black,Homicide,2012
+305,61,M,White,Suicide,2013
+174,33,M,Black,Homicide,2013
+1,102,M,White,Suicide,2014
+1,57,F,Hispanic,Suicide,2014
+1,56,M,Native American/Native Alaskan,Homicide,2014
+2,26,M,Hispanic,Accidental,2013
+2,26,M,White,Undetermined,2014
+2,72,M,White,Accidental,2013
+2,73,M,Black,Homicide,2014
+4,29,M,White,Accidental,2014
+188,24,M,White,Suicide,2012
+34,31,F,White,Suicide,2012
+172,32,M,Black,Homicide,2013
+24,23,F,Black,Homicide,2013
+2,78,M,Hispanic,Suicide,2012
+4,65,M,Hispanic,Suicide,2014
+40,50,M,Black,Homicide,2012
+334,58,M,White,Suicide,2013
+8,63,M,Hispanic,Suicide,2014
+2,59,F,Black,Homicide,2012
+74,51,F,White,Suicide,2013
+1,54,F,Hispanic,Suicide,2014
+1,101,M,White,Suicide,2014
+1,82,F,White,Accidental,2013
+1,33,M,White,Accidental,2014
+1,55,M,Native American/Native Alaskan,Homicide,2014
+2,70,M,White,Undetermined,2013
+1,32,M,Hispanic,Undetermined,2013
+1,23,F,White,Accidental,2014
+2,32,M,White,Accidental,2014
+1,27,M,Hispanic,Accidental,2013
+1,20,F,White,Undetermined,2014
+1,27,M,White,Undetermined,2014
+196,21,M,White,Suicide,2012
+41,30,F,White,Suicide,2012
+193,29,M,Black,Homicide,2013
+28,22,F,Black,Homicide,2013
+6,73,M,White,Accidental,2013
+4,72,M,Black,Homicide,2014
+7,75,M,Hispanic,Suicide,2012
+2,68,F,Hispanic,Suicide,2012
+1,57,M,Hispanic,Accidental,2012
+1,58,F,Black,Homicide,2012
+72,50,F,White,Suicide,2013
+40,51,M,Black,Homicide,2012
+328,59,M,White,Suicide,2013
+13,62,M,Hispanic,Suicide,2014
+2,54,M,Native American/Native Alaskan,Homicide,2014
+1,69,M,White,Undetermined,2013
+1,31,M,Hispanic,Undetermined,2013
+3,31,M,White,Accidental,2014
+1,19,F,Hispanic,Accidental,2013
+3,28,M,White,Undetermined,2014
+202,22,M,White,Suicide,2012
+33,29,F,White,Suicide,2012
+196,30,M,Black,Homicide,2013
+25,21,F,Black,Homicide,2013
+3,74,M,White,Accidental,2013
+1,1,M,Asian/Pacific Islander,Homicide,2014
+2,71,M,Black,Homicide,2014
+5,76,M,Hispanic,Suicide,2012
+3,57,F,Black,Homicide,2012
+10,53,M,Hispanic,Suicide,2014
+1,60,F,Hispanic,Suicide,2014
+9,64,M,Black,Homicide,2012
+340,56,M,White,Suicide,2013
+7,65,M,Black,Homicide,2012
+43,66,F,White,Suicide,2013
+1,78,M,Black,Homicide,2014
+1,69,F,Black,Homicide,2014
+17,20,F,White,Suicide,2012
+201,27,M,White,Suicide,2012
+267,19,M,Black,Homicide,2013
+25,28,F,Black,Homicide,2013
+1,16,M,Asian/Pacific Islander,Homicide,2014
+1,7,F,Asian/Pacific Islander,Homicide,2014
+8,73,M,Hispanic,Suicide,2012
+3,21,M,Hispanic,Accidental,2013
+1,30,F,White,Undetermined,2014
+5,21,M,White,Undetermined,2014
+1,75,M,White,Accidental,2013
+4,18,M,White,Accidental,2014
+2,25,F,White,Accidental,2014
+1,61,M,Native American/Native Alaskan,Homicide,2014
+1,52,F,Native American/Native Alaskan,Homicide,2014
+287,57,M,White,Suicide,2013
+2,61,F,Hispanic,Suicide,2014
+16,52,M,Hispanic,Suicide,2014
+5,56,F,Black,Homicide,2012
+62,64,F,White,Suicide,2013
+5,66,M,Black,Homicide,2012
+50,65,F,White,Suicide,2013
+2,70,F,Black,Homicide,2014
+2,77,M,Black,Homicide,2014
+146,28,M,White,Suicide,2012
+15,19,F,White,Suicide,2012
+312,20,M,Black,Homicide,2013
+20,27,F,Black,Homicide,2013
+6,74,M,Hispanic,Suicide,2012
+1,29,F,Hispanic,Accidental,2013
+1,22,M,Hispanic,Accidental,2013
+3,22,M,White,Undetermined,2014
+1,29,F,White,Undetermined,2014
+1,53,F,Native American/Native Alaskan,Homicide,2014
+3,17,M,Hispanic,Undetermined,2013
+1,67,F,White,Accidental,2013
+2,17,M,White,Accidental,2014
+1,26,F,White,Accidental,2014
+2,33,F,White,Undetermined,2014
+1,72,F,Native American/Native Alaskan,Homicide,2012
+12,62,M,Black,Homicide,2012
+364,54,M,White,Suicide,2013
+13,51,M,Hispanic,Suicide,2014
+1,55,F,Black,Homicide,2012
+40,63,F,White,Suicide,2013
+201,25,M,White,Suicide,2012
+21,18,F,White,Suicide,2012
+151,17,M,Black,Homicide,2013
+22,26,F,Black,Homicide,2013
+3,67,F,Black,Homicide,2014
+2,76,M,Black,Homicide,2014
+3,71,M,Hispanic,Suicide,2012
+1,80,F,Hispanic,Suicide,2012
+1,20,M,Hispanic,Undetermined,2013
+7,20,M,White,Accidental,2014
+3,23,M,White,Undetermined,2014
+1,32,F,White,Undetermined,2014
+7,54,F,Black,Homicide,2012
+36,62,F,White,Suicide,2013
+3,59,F,Hispanic,Suicide,2014
+12,63,M,Black,Homicide,2012
+350,55,M,White,Suicide,2013
+14,50,M,Hispanic,Suicide,2014
+216,26,M,White,Suicide,2012
+22,17,F,White,Suicide,2012
+218,18,M,Black,Homicide,2013
+14,25,F,Black,Homicide,2013
+2,72,M,Hispanic,Suicide,2012
+1,74,F,White,Undetermined,2013
+2,19,M,Hispanic,Undetermined,2013
+1,28,F,Hispanic,Undetermined,2013
+9,19,M,White,Accidental,2014
+1,28,F,White,Accidental,2014
+2,24,M,Hispanic,Accidental,2013
+2,24,M,White,Undetermined,2014
+1,31,F,White,Undetermined,2014
+12,57,M,Hispanic,Suicide,2014
+11,60,M,Black,Homicide,2012
+345,52,M,White,Suicide,2013
+5,53,F,Black,Homicide,2012
+15,33,F,Black,Homicide,2013
+42,61,F,White,Suicide,2013
+170,31,M,White,Suicide,2012
+27,24,F,White,Suicide,2012
+296,23,M,Black,Homicide,2013
+23,32,F,Black,Homicide,2013
+3,69,M,Hispanic,Suicide,2012
+2,65,F,Hispanic,Suicide,2014
+1,67,F,White,Undetermined,2013
+2,76,M,White,Undetermined,2013
+2,17,M,Hispanic,Accidental,2013
+1,26,F,White,Undetermined,2014
+3,17,M,White,Undetermined,2014
+2,79,M,White,Accidental,2013
+12,22,M,White,Accidental,2014
+2,29,F,White,Accidental,2014
+4,73,F,Black,Homicide,2014
+16,56,M,Hispanic,Suicide,2014
+6,52,F,Black,Homicide,2012
+50,60,F,White,Suicide,2013
+174,33,M,White,Suicide,2012
+8,61,M,Black,Homicide,2012
+360,53,M,White,Suicide,2013
+1,81,M,Black,Homicide,2014
+180,32,M,White,Suicide,2012
+16,23,F,White,Suicide,2012
+289,24,M,Black,Homicide,2013
+13,31,F,Black,Homicide,2013
+3,70,M,Hispanic,Suicide,2012
+1,66,F,Hispanic,Suicide,2014
+2,75,M,White,Undetermined,2013
+1,18,M,Hispanic,Accidental,2013
+3,18,M,White,Undetermined,2014
+4,80,M,White,Accidental,2013
+2,21,M,Hispanic,Undetermined,2013
+10,21,M,White,Accidental,2014
+1,74,F,Black,Homicide,2014
+2,81,M,White,Accidental,2013
+16,58,M,Black,Homicide,2012
+323,50,M,White,Suicide,2013
+9,55,M,Hispanic,Suicide,2014
+8,51,F,Black,Homicide,2012
+54,59,F,White,Suicide,2013
+196,29,M,White,Suicide,2012
+17,22,F,White,Suicide,2012
+338,21,M,Black,Homicide,2013
+24,30,F,Black,Homicide,2013
+6,67,M,Hispanic,Suicide,2012
+1,69,F,White,Undetermined,2013
+9,24,M,White,Accidental,2014
+1,31,F,White,Accidental,2014
+5,19,M,Hispanic,Accidental,2013
+4,19,M,White,Undetermined,2014
+1,82,M,White,Accidental,2013
+1,33,F,White,Accidental,2014
+10,50,F,Black,Homicide,2012
+54,58,F,White,Suicide,2013
+1,63,F,Hispanic,Suicide,2014
+20,59,M,Black,Homicide,2012
+317,51,M,White,Suicide,2013
+13,54,M,Hispanic,Suicide,2014
+19,21,F,White,Suicide,2012
+174,30,M,White,Suicide,2012
+330,22,M,Black,Homicide,2013
+16,29,F,Black,Homicide,2013
+2,79,M,Black,Homicide,2014
+1,9,M,Asian/Pacific Islander,Homicide,2014
+5,68,M,Hispanic,Suicide,2012
+1,75,F,Hispanic,Suicide,2012
+1,62,M,Native American/Native Alaskan,Homicide,2014
+1,70,F,White,Undetermined,2013
+1,77,M,White,Undetermined,2013
+1,23,M,Hispanic,Undetermined,2013
+10,23,M,White,Accidental,2014
+1,32,F,White,Accidental,2014
+1,20,M,Hispanic,Accidental,2013
+2,20,M,White,Undetermined,2014
+1,57,M,Asian/Pacific Islander,Homicide,2014
+4,46,M,White,Undetermined,2014
+3,43,M,White,Accidental,2014
+2,34,F,White,Accidental,2014
+53,45,F,White,Suicide,2012
+18,37,F,Black,Homicide,2013
+171,36,M,White,Suicide,2012
+59,44,M,Black,Homicide,2013
+1,78,F,Asian/Pacific Islander,Homicide,2012
+16,16,F,Black,Homicide,2012
+3,7,M,Black,Homicide,2012
+57,15,M,White,Suicide,2013
+69,90,M,White,Suicide,2014
+2,35,F,White,Accidental,2014
+1,38,F,White,Undetermined,2014
+2,47,M,Hispanic,Accidental,2013
+3,47,M,White,Undetermined,2014
+3,42,M,White,Accidental,2014
+1,3,M,Native American/Native Alaskan,Homicide,2014
+206,37,M,White,Suicide,2012
+48,45,M,Black,Homicide,2013
+46,44,F,White,Suicide,2012
+9,36,F,Black,Homicide,2013
+1,56,M,Asian/Pacific Islander,Homicide,2014
+2,86,M,Hispanic,Suicide,2013
+1,11,M,Hispanic,Suicide,2014
+9,15,F,Black,Homicide,2012
+1,8,M,Black,Homicide,2012
+86,16,M,White,Suicide,2013
+77,89,M,White,Suicide,2014
+2,36,F,White,Accidental,2014
+3,48,M,White,Undetermined,2014
+5,45,M,White,Accidental,2014
+165,34,M,White,Suicide,2012
+71,42,M,Black,Homicide,2013
+2,41,F,White,Undetermined,2014
+51,43,F,White,Suicide,2012
+16,35,F,Black,Homicide,2013
+1,55,M,Asian/Pacific Islander,Homicide,2014
+2,5,M,Black,Homicide,2012
+4,14,F,Black,Homicide,2012
+1,76,F,Asian/Pacific Islander,Homicide,2012
+29,13,M,White,Suicide,2013
+109,88,M,White,Suicide,2014
+1,92,F,Hispanic,Suicide,2013
+1,83,M,Hispanic,Suicide,2013
+2,3,M,Hispanic,Accidental,2012
+8,44,M,White,Accidental,2014
+2,40,F,White,Undetermined,2014
+1,37,F,White,Accidental,2014
+40,42,F,White,Suicide,2012
+20,34,F,Black,Homicide,2013
+1,54,M,Asian/Pacific Islander,Homicide,2014
+162,35,M,White,Suicide,2012
+55,43,M,Black,Homicide,2013
+4,6,M,Black,Homicide,2012
+5,13,F,Black,Homicide,2012
+59,14,M,White,Suicide,2013
+94,87,M,White,Suicide,2014
+2,96,F,White,Suicide,2014
+5,84,M,Hispanic,Suicide,2013
+3,49,M,White,Undetermined,2014
+10,41,F,Black,Homicide,2013
+5,47,M,White,Accidental,2014
+2,42,M,White,Undetermined,2014
+1,35,F,White,Undetermined,2014
+1,38,F,White,Accidental,2014
+187,40,M,White,Suicide,2012
+36,48,M,Black,Homicide,2013
+1,60,F,Asian/Pacific Islander,Homicide,2014
+3,53,M,Asian/Pacific Islander,Homicide,2014
+8,16,M,Hispanic,Suicide,2014
+5,12,F,Black,Homicide,2012
+2,3,M,Black,Homicide,2012
+61,49,F,White,Suicide,2012
+136,86,M,White,Suicide,2014
+2,93,F,White,Suicide,2014
+1,96,M,White,Undetermined,2012
+3,89,M,Hispanic,Suicide,2013
+1,91,M,White,Accidental,2012
+1,NA,F,White,Suicide,2012
+203,41,M,White,Suicide,2012
+2,39,F,White,Accidental,2014
+1,43,M,Hispanic,Accidental,2013
+1,46,M,Hispanic,Undetermined,2013
+4,46,M,White,Accidental,2014
+82,48,F,White,Suicide,2012
+5,40,F,Black,Homicide,2013
+1,52,M,Asian/Pacific Islander,Homicide,2014
+6,15,M,Hispanic,Suicide,2014
+1,11,F,Black,Homicide,2012
+1,4,M,Black,Homicide,2012
+14,12,M,White,Suicide,2013
+49,49,M,Black,Homicide,2013
+122,85,M,White,Suicide,2014
+1,90,M,Hispanic,Suicide,2013
+1,40,F,White,Accidental,2014
+2,44,M,Hispanic,Accidental,2013
+4,44,M,White,Undetermined,2014
+191,38,M,White,Suicide,2012
+52,46,M,Black,Homicide,2013
+65,47,F,White,Suicide,2012
+11,39,F,Black,Homicide,2013
+2,51,M,Asian/Pacific Islander,Homicide,2014
+3,0,M,Black,Homicide,2012
+1,9,M,White,Suicide,2013
+133,84,M,White,Suicide,2014
+3,91,F,White,Suicide,2014
+1,87,M,Hispanic,Suicide,2013
+5,14,M,Hispanic,Suicide,2014
+4,49,M,White,Accidental,2014
+3,45,M,White,Undetermined,2014
+1,14,F,Native American/Native Alaskan,Homicide,2014
+3,48,M,White,Accidental,2014
+1,36,F,White,Undetermined,2014
+55,46,F,White,Suicide,2012
+7,38,F,Black,Homicide,2013
+5,50,M,Asian/Pacific Islander,Homicide,2014
+186,39,M,White,Suicide,2012
+60,47,M,Black,Homicide,2013
+1,41,F,White,Accidental,2014
+1,59,F,Asian/Pacific Islander,Homicide,2014
+1,NA,M,White,Accidental,2014
+1,2,M,Black,Homicide,2012
+1,10,M,White,Suicide,2013
+149,83,M,White,Suicide,2014
+1,92,F,White,Suicide,2014
+1,88,M,Hispanic,Suicide,2013
+4,13,M,Hispanic,Suicide,2014
+1,3,M,Hispanic,Undetermined,2012
+34,37,F,White,Suicide,2012
+6,45,F,Black,Homicide,2013
+3,99,M,White,Suicide,2014
+226,44,M,White,Suicide,2012
+143,36,M,Black,Homicide,2013
+2,38,M,Hispanic,Accidental,2013
+2,38,M,White,Undetermined,2014
+4,35,M,White,Accidental,2014
+2,89,F,White,Suicide,2014
+1,86,F,Hispanic,Suicide,2013
+1,66,M,Asian/Pacific Islander,Homicide,2014
+1,70,F,Asian/Pacific Islander,Homicide,2012
+47,15,M,Black,Homicide,2012
+1,8,F,Black,Homicide,2012
+12,16,F,White,Suicide,2013
+228,45,M,White,Suicide,2012
+96,37,M,Black,Homicide,2013
+6,98,M,White,Suicide,2014
+37,36,F,White,Suicide,2012
+13,44,F,Black,Homicide,2013
+1,43,F,Hispanic,Undetermined,2013
+2,39,M,White,Undetermined,2014
+3,34,M,White,Accidental,2014
+1,0,F,Hispanic,Accidental,2012
+1,1,F,Hispanic,Accidental,2012
+1,83,M,White,Undetermined,2012
+1,90,F,White,Suicide,2014
+1,94,M,Hispanic,Suicide,2013
+2,65,M,Asian/Pacific Islander,Homicide,2014
+3,12,F,Hispanic,Suicide,2014
+94,16,M,Black,Homicide,2012
+1,7,F,Black,Homicide,2012
+13,15,F,White,Suicide,2013
+10,97,M,White,Suicide,2014
+228,42,M,White,Suicide,2012
+160,34,M,Black,Homicide,2013
+35,35,F,White,Suicide,2012
+14,43,F,Black,Homicide,2013
+1,63,M,Asian/Pacific Islander,Homicide,2014
+2,44,F,White,Accidental,2014
+1,40,M,White,Undetermined,2014
+1,37,M,Hispanic,Undetermined,2013
+5,37,M,White,Accidental,2014
+1,11,M,Hispanic,Accidental,2012
+2,49,F,White,Undetermined,2014
+11,13,M,Black,Homicide,2012
+1,89,M,White,Accidental,2012
+1,6,F,Black,Homicide,2012
+10,14,F,White,Suicide,2013
+8,87,F,White,Suicide,2014
+15,96,M,White,Suicide,2014
+1,91,M,Hispanic,Suicide,2013
+31,34,F,White,Suicide,2012
+9,42,F,Black,Homicide,2013
+1,41,M,Hispanic,Accidental,2013
+4,41,M,White,Undetermined,2014
+262,43,M,White,Suicide,2012
+142,35,M,Black,Homicide,2013
+3,55,F,Asian/Pacific Islander,Homicide,2014
+3,36,M,Hispanic,Undetermined,2013
+4,36,M,White,Accidental,2014
+1,45,F,White,Accidental,2014
+1,9,M,Native American/Native Alaskan,Homicide,2014
+18,14,M,Black,Homicide,2012
+1,5,F,Black,Homicide,2012
+6,13,F,White,Suicide,2013
+16,95,M,White,Suicide,2014
+4,88,F,White,Suicide,2014
+282,48,M,White,Suicide,2012
+86,40,M,Black,Homicide,2013
+1,NA,M,White,Suicide,2012
+49,41,F,White,Suicide,2012
+3,34,M,Hispanic,Accidental,2013
+5,39,M,White,Accidental,2014
+3,34,M,White,Undetermined,2014
+1,43,F,White,Undetermined,2014
+1,13,M,Hispanic,Accidental,2012
+1,83,M,White,Accidental,2012
+1,15,F,Hispanic,Suicide,2014
+1,11,M,Black,Homicide,2012
+1,12,F,White,Suicide,2013
+1,4,F,Black,Homicide,2012
+10,49,F,Black,Homicide,2013
+21,94,M,White,Suicide,2014
+7,85,F,White,Suicide,2014
+47,40,F,White,Suicide,2012
+9,48,F,Black,Homicide,2013
+1,60,M,Asian/Pacific Islander,Homicide,2014
+1,NA,F,Black,Homicide,2013
+1,15,M,Native American/Native Alaskan,Homicide,2014
+70,41,M,Black,Homicide,2013
+1,47,F,White,Accidental,2014
+2,38,M,White,Accidental,2014
+1,84,M,White,Accidental,2012
+3,16,F,Hispanic,Suicide,2014
+8,12,M,Black,Homicide,2012
+1,3,F,Black,Homicide,2012
+283,49,M,White,Suicide,2012
+32,93,M,White,Suicide,2014
+4,86,F,White,Suicide,2014
+255,46,M,White,Suicide,2012
+93,38,M,Black,Homicide,2013
+2,50,F,Asian/Pacific Islander,Homicide,2014
+40,39,F,White,Suicide,2012
+11,47,F,Black,Homicide,2013
+6,41,M,White,Accidental,2014
+3,45,F,White,Undetermined,2014
+1,14,M,Native American/Native Alaskan,Homicide,2014
+2,48,F,White,Accidental,2014
+2,36,M,Hispanic,Accidental,2013
+5,36,M,White,Undetermined,2014
+2,15,M,Hispanic,Accidental,2012
+3,2,F,Black,Homicide,2012
+1,9,M,Black,Homicide,2012
+47,92,M,White,Suicide,2014
+13,83,F,White,Suicide,2014
+1,13,F,Hispanic,Suicide,2014
+45,38,F,White,Suicide,2012
+12,46,F,Black,Homicide,2013
+3,58,M,Asian/Pacific Islander,Homicide,2014
+289,47,M,White,Suicide,2012
+85,39,M,Black,Homicide,2013
+3,51,F,Asian/Pacific Islander,Homicide,2014
+1,0,F,Black,Homicide,2012
+2,37,M,Hispanic,Accidental,2013
+1,37,M,White,Undetermined,2014
+1,13,M,Native American/Native Alaskan,Homicide,2014
+2,40,M,Hispanic,Undetermined,2013
+2,40,M,White,Accidental,2014
+1,86,M,White,Accidental,2012
+1,49,F,White,Accidental,2014
+2,16,M,Hispanic,Accidental,2012
+4,1,F,Black,Homicide,2012
+1,10,M,Black,Homicide,2012
+54,91,M,White,Suicide,2014
+7,84,F,White,Suicide,2014
+1,14,F,Hispanic,Suicide,2014
+7,69,M,Hispanic,Suicide,2013
+28,28,M,Hispanic,Suicide,2014
+3,19,F,Hispanic,Suicide,2014
+317,23,M,Black,Homicide,2012
+18,32,F,Black,Homicide,2012
+189,31,M,White,Suicide,2013
+35,24,F,White,Suicide,2013
+1,76,M,White,Undetermined,2012
+1,17,M,Hispanic,Accidental,2012
+1,79,M,White,Accidental,2012
+190,74,M,White,Suicide,2014
+4,59,M,White,Accidental,2014
+7,41,M,Asian/Pacific Islander,Homicide,2014
+3,62,M,White,Undetermined,2014
+1,55,F,White,Undetermined,2014
+1,50,F,White,Accidental,2014
+2,27,F,Native American/Native Alaskan,Homicide,2014
+2,20,M,Native American/Native Alaskan,Homicide,2014
+41,61,F,White,Suicide,2012
+14,33,F,Black,Homicide,2012
+4,53,F,Black,Homicide,2013
+12,81,F,White,Suicide,2014
+338,52,M,White,Suicide,2012
+8,60,M,Black,Homicide,2013
+1,48,F,Asian/Pacific Islander,Homicide,2014
+2,49,F,Asian/Pacific Islander,Homicide,2014
+5,70,M,Hispanic,Suicide,2013
+23,27,M,Hispanic,Suicide,2014
+3,20,F,Hispanic,Suicide,2014
+288,24,M,Black,Homicide,2012
+21,31,F,Black,Homicide,2012
+184,32,M,White,Suicide,2013
+34,23,F,White,Suicide,2013
+1,18,M,Hispanic,Accidental,2012
+1,75,M,White,Undetermined,2012
+1,21,M,Hispanic,Undetermined,2012
+2,71,F,White,Accidental,2012
+2,80,M,White,Accidental,2012
+198,73,M,White,Suicide,2014
+1,78,M,Native American/Native Alaskan,Homicide,2013
+4,58,M,White,Accidental,2014
+1,63,M,White,Undetermined,2014
+5,19,M,Native American/Native Alaskan,Homicide,2014
+1,28,F,Native American/Native Alaskan,Homicide,2014
+372,53,M,White,Suicide,2012
+177,33,M,White,Suicide,2013
+12,61,M,Black,Homicide,2013
+11,82,F,White,Suicide,2014
+42,60,F,White,Suicide,2012
+6,52,F,Black,Homicide,2013
+4,40,M,Asian/Pacific Islander,Homicide,2014
+320,21,M,Black,Homicide,2012
+15,30,F,Black,Homicide,2012
+199,29,M,White,Suicide,2013
+24,22,F,White,Suicide,2013
+206,72,M,White,Suicide,2014
+13,79,F,White,Suicide,2014
+36,26,M,Hispanic,Suicide,2014
+1,17,F,Hispanic,Suicide,2014
+2,24,M,Hispanic,Undetermined,2012
+3,19,M,Hispanic,Accidental,2012
+2,65,M,White,Undetermined,2014
+1,78,M,White,Undetermined,2012
+1,69,F,White,Undetermined,2012
+1,52,F,White,Accidental,2014
+2,64,M,White,Undetermined,2014
+2,81,M,White,Accidental,2012
+2,18,M,Native American/Native Alaskan,Homicide,2014
+3,25,F,Native American/Native Alaskan,Homicide,2014
+6,61,M,White,Accidental,2014
+323,50,M,White,Suicide,2012
+21,58,M,Black,Homicide,2013
+2,46,F,Asian/Pacific Islander,Homicide,2014
+1,57,F,White,Undetermined,2014
+44,59,F,White,Suicide,2012
+5,51,F,Black,Homicide,2013
+1,39,M,Asian/Pacific Islander,Homicide,2014
+354,22,M,Black,Homicide,2012
+20,29,F,Black,Homicide,2012
+1,84,M,Asian/Pacific Islander,Homicide,2012
+189,30,M,White,Suicide,2013
+30,21,F,White,Suicide,2013
+254,71,M,White,Suicide,2014
+9,80,F,White,Suicide,2014
+6,68,M,Hispanic,Suicide,2013
+30,25,M,Hispanic,Suicide,2014
+1,18,F,Hispanic,Suicide,2014
+1,23,M,Hispanic,Undetermined,2012
+1,20,M,Hispanic,Accidental,2012
+6,66,M,White,Undetermined,2014
+1,70,F,White,Undetermined,2012
+3,60,M,White,Accidental,2014
+1,56,F,White,Undetermined,2014
+3,82,M,White,Accidental,2012
+2,53,F,White,Accidental,2014
+4,17,M,Native American/Native Alaskan,Homicide,2014
+1,26,F,Native American/Native Alaskan,Homicide,2014
+53,58,F,White,Suicide,2012
+10,50,F,Black,Homicide,2013
+1,38,M,Asian/Pacific Islander,Homicide,2014
+344,51,M,White,Suicide,2012
+13,59,M,Black,Homicide,2013
+2,47,F,Asian/Pacific Islander,Homicide,2014
+21,32,M,Hispanic,Suicide,2014
+5,23,F,Hispanic,Suicide,2014
+16,28,F,Black,Homicide,2012
+327,19,M,Black,Homicide,2012
+177,27,M,White,Suicide,2013
+20,20,F,White,Suicide,2013
+25,66,F,White,Suicide,2012
+5,65,M,Black,Homicide,2013
+250,70,M,White,Suicide,2014
+13,77,F,White,Suicide,2014
+4,21,M,Hispanic,Accidental,2012
+3,73,M,Hispanic,Suicide,2013
+1,71,F,White,Undetermined,2012
+1,75,M,White,Accidental,2012
+4,24,M,Native American/Native Alaskan,Homicide,2014
+1,31,F,Native American/Native Alaskan,Homicide,2014
+3,57,F,Black,Homicide,2013
+4,58,M,White,Undetermined,2014
+3,63,M,White,Accidental,2014
+3,54,F,White,Accidental,2014
+1,51,F,White,Undetermined,2014
+336,56,M,White,Suicide,2012
+7,64,M,Black,Homicide,2013
+4,37,M,Asian/Pacific Islander,Homicide,2014
+16,33,M,Hispanic,Suicide,2014
+20,31,M,Hispanic,Suicide,2014
+1,24,F,Hispanic,Suicide,2014
+296,20,M,Black,Homicide,2012
+16,27,F,Black,Homicide,2012
+193,28,M,White,Suicide,2013
+22,19,F,White,Suicide,2013
+36,65,F,White,Suicide,2012
+6,66,M,Black,Homicide,2013
+219,69,M,White,Suicide,2014
+12,78,F,White,Suicide,2014
+2,22,M,Hispanic,Accidental,2012
+1,79,M,White,Undetermined,2012
+4,74,M,Hispanic,Suicide,2013
+1,33,F,Native American/Native Alaskan,Homicide,2014
+3,76,M,White,Accidental,2012
+1,26,F,Hispanic,Undetermined,2012
+6,23,M,Native American/Native Alaskan,Homicide,2014
+331,57,M,White,Suicide,2012
+2,55,F,White,Accidental,2014
+1,50,F,White,Undetermined,2014
+1,59,M,White,Undetermined,2014
+6,62,M,White,Accidental,2014
+37,64,F,White,Suicide,2012
+1,56,F,Black,Homicide,2013
+3,36,M,Asian/Pacific Islander,Homicide,2014
+5,45,F,Asian/Pacific Islander,Homicide,2014
+146,17,M,Black,Homicide,2012
+25,26,F,Black,Homicide,2012
+191,25,M,White,Suicide,2013
+15,18,F,White,Suicide,2013
+207,68,M,White,Suicide,2014
+21,75,F,White,Suicide,2014
+3,71,M,Hispanic,Suicide,2013
+20,30,M,Hispanic,Suicide,2014
+5,21,F,Hispanic,Suicide,2014
+1,77,M,White,Accidental,2012
+6,66,M,White,Accidental,2014
+1,20,M,Hispanic,Undetermined,2012
+1,23,M,Hispanic,Accidental,2012
+1,53,F,White,Undetermined,2014
+4,22,M,Native American/Native Alaskan,Homicide,2014
+2,29,F,Native American/Native Alaskan,Homicide,2014
+1,56,F,White,Accidental,2014
+5,60,M,White,Undetermined,2014
+353,54,M,White,Suicide,2012
+8,62,M,Black,Homicide,2013
+3,42,F,Asian/Pacific Islander,Homicide,2014
+33,63,F,White,Suicide,2012
+4,55,F,Black,Homicide,2013
+1,35,M,Asian/Pacific Islander,Homicide,2014
+268,18,M,Black,Homicide,2012
+25,25,F,Black,Homicide,2012
+217,26,M,White,Suicide,2013
+11,17,F,White,Suicide,2013
+274,67,M,White,Suicide,2014
+11,76,F,White,Suicide,2014
+5,72,M,Hispanic,Suicide,2013
+16,29,M,Hispanic,Suicide,2014
+6,22,F,Hispanic,Suicide,2014
+1,78,M,White,Accidental,2012
+4,65,M,White,Accidental,2014
+2,24,M,Hispanic,Accidental,2012
+2,61,M,White,Undetermined,2014
+2,81,M,White,Undetermined,2012
+1,21,M,Native American/Native Alaskan,Homicide,2014
+5,64,M,White,Accidental,2014
+2,52,F,White,Undetermined,2014
+42,62,F,White,Suicide,2012
+4,54,F,Black,Homicide,2013
+3,34,M,Asian/Pacific Islander,Homicide,2014
+367,55,M,White,Suicide,2012
+9,63,M,Black,Homicide,2013
+1,57,F,White,Accidental,2014
+2,68,M,White,Undetermined,2012
+1,21,F,Hispanic,Undetermined,2012
+3,71,M,White,Accidental,2012
+1,80,F,White,Accidental,2012
+1,30,M,Hispanic,Undetermined,2012
+17,73,F,White,Suicide,2014
+3,77,M,Hispanic,Suicide,2013
+1,49,M,Asian/Pacific Islander,Homicide,2014
+19,20,M,Hispanic,Suicide,2014
+168,31,M,Black,Homicide,2012
+24,24,F,Black,Homicide,2012
+233,23,M,White,Suicide,2013
+47,32,F,White,Suicide,2013
+70,53,F,White,Suicide,2012
+25,33,F,White,Suicide,2013
+1,61,F,Black,Homicide,2013
+141,82,M,White,Suicide,2014
+308,60,M,White,Suicide,2012
+30,52,M,Black,Homicide,2013
+1,40,F,Asian/Pacific Islander,Homicide,2014
+1,54,M,Hispanic,Accidental,2013
+5,51,M,White,Accidental,2014
+2,54,M,White,Undetermined,2014
+4,28,M,Native American/Native Alaskan,Homicide,2014
+1,19,F,Native American/Native Alaskan,Homicide,2014
+2,67,M,White,Undetermined,2012
+2,26,M,Hispanic,Accidental,2012
+1,17,F,Hispanic,Accidental,2012
+3,72,M,White,Accidental,2012
+1,22,F,Hispanic,Undetermined,2012
+1,29,M,Hispanic,Undetermined,2012
+13,74,F,White,Suicide,2014
+2,78,M,Hispanic,Suicide,2013
+20,19,M,Hispanic,Suicide,2014
+2,28,F,Hispanic,Suicide,2014
+173,32,M,Black,Homicide,2012
+19,23,F,Black,Homicide,2012
+180,24,M,White,Suicide,2013
+47,31,F,White,Suicide,2013
+310,61,M,White,Suicide,2012
+164,33,M,Black,Homicide,2012
+29,53,M,Black,Homicide,2013
+169,81,M,White,Suicide,2014
+79,52,F,White,Suicide,2012
+4,60,F,Black,Homicide,2013
+1,62,F,White,Undetermined,2014
+6,55,M,White,Undetermined,2014
+6,50,M,White,Accidental,2014
+2,27,M,Native American/Native Alaskan,Homicide,2014
+1,32,M,Hispanic,Undetermined,2012
+1,27,M,Hispanic,Accidental,2012
+1,66,F,White,Undetermined,2014
+2,70,M,White,Undetermined,2012
+194,29,M,Black,Homicide,2012
+34,22,F,Black,Homicide,2012
+1,73,M,White,Accidental,2012
+189,21,M,White,Suicide,2013
+30,30,F,White,Suicide,2013
+151,80,M,White,Suicide,2014
+25,71,F,White,Suicide,2014
+3,75,M,Hispanic,Suicide,2013
+18,18,M,Hispanic,Suicide,2014
+6,25,F,Hispanic,Suicide,2014
+350,58,M,White,Suicide,2012
+40,50,M,Black,Homicide,2013
+71,51,F,White,Suicide,2012
+2,59,F,Black,Homicide,2013
+2,47,M,Asian/Pacific Islander,Homicide,2014
+1,56,M,Hispanic,Accidental,2013
+1,33,M,Hispanic,Undetermined,2012
+11,53,M,White,Accidental,2014
+2,31,M,Hispanic,Undetermined,2012
+1,19,F,Hispanic,Accidental,2012
+1,69,M,White,Undetermined,2012
+30,21,F,Black,Homicide,2012
+186,30,M,Black,Homicide,2012
+2,74,M,White,Accidental,2012
+213,22,M,White,Suicide,2013
+39,29,F,White,Suicide,2013
+170,79,M,White,Suicide,2014
+27,72,F,White,Suicide,2014
+4,76,M,Hispanic,Suicide,2013
+10,17,M,Hispanic,Suicide,2014
+4,26,F,Hispanic,Suicide,2014
+64,50,F,White,Suicide,2012
+4,58,F,Black,Homicide,2013
+1,46,M,Asian/Pacific Islander,Homicide,2014
+1,57,M,White,Undetermined,2014
+305,59,M,White,Suicide,2012
+34,51,M,Black,Homicide,2013
+1,39,F,Asian/Pacific Islander,Homicide,2014
+1,52,M,Hispanic,Undetermined,2013
+4,52,M,White,Accidental,2014
+4,25,M,Native American/Native Alaskan,Homicide,2014
+3,72,M,White,Undetermined,2012
+4,67,M,White,Accidental,2012
+3,33,M,Native American/Native Alaskan,Homicide,2014
+31,24,M,Hispanic,Suicide,2014
+1,31,F,Hispanic,Suicide,2014
+209,27,M,Black,Homicide,2012
+27,20,F,Black,Homicide,2012
+144,19,M,White,Suicide,2013
+36,28,F,White,Suicide,2013
+235,65,M,White,Suicide,2012
+2,66,F,Black,Homicide,2013
+34,69,F,White,Suicide,2014
+155,78,M,White,Suicide,2014
+241,64,M,White,Suicide,2012
+21,56,M,Black,Homicide,2013
+1,36,F,Asian/Pacific Islander,Homicide,2014
+7,81,M,Hispanic,Suicide,2013
+1,45,M,Asian/Pacific Islander,Homicide,2014
+5,32,M,Native American/Native Alaskan,Homicide,2014
+58,57,F,White,Suicide,2012
+2,50,M,White,Undetermined,2014
+4,55,M,White,Accidental,2014
+1,62,F,White,Accidental,2014
+3,30,M,Hispanic,Accidental,2012
+6,68,M,White,Accidental,2012
+27,23,M,Hispanic,Suicide,2014
+1,32,F,Hispanic,Suicide,2014
+228,28,M,Black,Homicide,2012
+30,19,F,Black,Homicide,2012
+143,20,M,White,Suicide,2013
+35,27,F,White,Suicide,2013
+201,66,M,White,Suicide,2012
+1,65,F,Black,Homicide,2013
+159,77,M,White,Suicide,2014
+32,70,F,White,Suicide,2014
+59,56,F,White,Suicide,2012
+1,64,F,Black,Homicide,2013
+2,44,M,Asian/Pacific Islander,Homicide,2014
+1,37,F,Asian/Pacific Islander,Homicide,2014
+2,82,M,Hispanic,Suicide,2013
+4,33,F,Hispanic,Suicide,2014
+2,31,M,Native American/Native Alaskan,Homicide,2014
+1,24,F,Native American/Native Alaskan,Homicide,2014
+24,57,M,Black,Homicide,2013
+1,63,F,White,Accidental,2014
+1,58,F,White,Undetermined,2014
+4,54,M,White,Accidental,2014
+2,51,M,White,Undetermined,2014
+5,69,M,White,Accidental,2012
+1,78,F,White,Accidental,2012
+2,65,F,White,Accidental,2014
+1,31,M,Hispanic,Accidental,2012
+263,25,M,Black,Homicide,2012
+24,18,F,Black,Homicide,2012
+19,26,F,White,Suicide,2013
+102,17,M,White,Suicide,2013
+1,88,F,Asian/Pacific Islander,Homicide,2012
+143,76,M,White,Suicide,2014
+33,67,F,White,Suicide,2014
+3,79,M,Hispanic,Suicide,2013
+40,22,M,Hispanic,Suicide,2014
+7,29,F,Hispanic,Suicide,2014
+225,62,M,White,Suicide,2012
+21,54,M,Black,Homicide,2013
+57,55,F,White,Suicide,2012
+1,63,F,Black,Homicide,2013
+2,43,M,Asian/Pacific Islander,Homicide,2014
+7,57,M,White,Accidental,2014
+1,80,F,Native American/Native Alaskan,Homicide,2013
+6,30,M,Native American/Native Alaskan,Homicide,2014
+1,21,F,Native American/Native Alaskan,Homicide,2014
+1,52,M,Hispanic,Accidental,2013
+6,52,M,White,Undetermined,2014
+2,70,M,White,Accidental,2012
+2,66,F,White,Accidental,2014
+1,27,M,Hispanic,Undetermined,2012
+236,26,M,Black,Homicide,2012
+11,17,F,Black,Homicide,2012
+123,18,M,White,Suicide,2013
+29,25,F,White,Suicide,2013
+182,75,M,White,Suicide,2014
+28,68,F,White,Suicide,2014
+4,80,M,Hispanic,Suicide,2013
+1,30,F,Hispanic,Suicide,2014
+22,21,M,Hispanic,Suicide,2014
+68,54,F,White,Suicide,2012
+3,62,F,Black,Homicide,2013
+1,42,M,Asian/Pacific Islander,Homicide,2014
+264,63,M,White,Suicide,2012
+19,55,M,Black,Homicide,2013
+2,35,F,Asian/Pacific Islander,Homicide,2014
+1,33,M,Hispanic,Accidental,2012
+3,53,M,White,Undetermined,2014
+1,29,M,Native American/Native Alaskan,Homicide,2014
+6,56,M,White,Accidental,2014
+1,29,M,Native American/Native Alaskan,Suicide,2012
+1,22,F,Native American/Native Alaskan,Suicide,2012
+1,52,F,Black,Undetermined,2013
+1,44,F,Asian/Pacific Islander,Accidental,2014
+1,35,F,Asian/Pacific Islander,Suicide,2012
+1,58,M,Hispanic,Homicide,2013
+16,63,M,White,Homicide,2014
+3,42,M,Asian/Pacific Islander,Suicide,2012
+2,51,F,Hispanic,Homicide,2013
+12,54,F,White,Homicide,2014
+90,21,M,Hispanic,Homicide,2012
+3,30,F,Hispanic,Homicide,2012
+9,68,F,White,Homicide,2012
+5,75,M,White,Homicide,2012
+2,67,M,Black,Suicide,2013
+1,14,F,Asian/Pacific Islander,Suicide,2013
+35,26,M,Black,Suicide,2014
+2,50,M,Native American/Native Alaskan,Suicide,2013
+1,59,F,Native American/Native Alaskan,Suicide,2013
+2,24,M,Black,Undetermined,2012
+2,19,M,Black,Accidental,2012
+2,30,M,Native American/Native Alaskan,Suicide,2012
+4,43,M,Asian/Pacific Islander,Suicide,2012
+2,50,F,Hispanic,Homicide,2013
+14,55,F,White,Homicide,2014
+7,59,M,Hispanic,Homicide,2013
+20,62,M,White,Homicide,2014
+1,23,M,Native American/Native Alaskan,Accidental,2014
+86,22,M,Hispanic,Homicide,2012
+3,29,F,Hispanic,Homicide,2012
+4,67,F,White,Homicide,2012
+5,76,M,White,Homicide,2012
+6,68,M,Black,Suicide,2013
+32,25,M,Black,Suicide,2014
+2,18,F,Black,Suicide,2014
+1,51,M,Native American/Native Alaskan,Suicide,2013
+2,23,M,Black,Undetermined,2012
+6,20,M,Black,Accidental,2012
+3,24,F,Native American/Native Alaskan,Suicide,2012
+5,31,M,Native American/Native Alaskan,Suicide,2012
+4,44,M,Asian/Pacific Islander,Suicide,2012
+11,56,F,White,Homicide,2014
+3,60,M,Hispanic,Homicide,2013
+6,33,F,Hispanic,Homicide,2012
+2,53,F,Hispanic,Homicide,2013
+1,37,F,Asian/Pacific Islander,Suicide,2012
+1,16,F,Asian/Pacific Islander,Suicide,2013
+25,28,M,Black,Suicide,2014
+2,19,F,Black,Suicide,2014
+78,23,M,Hispanic,Homicide,2012
+5,32,F,Hispanic,Homicide,2012
+3,77,M,White,Homicide,2012
+4,70,F,White,Homicide,2012
+7,69,M,Black,Suicide,2013
+20,66,M,White,Homicide,2014
+2,52,M,Native American/Native Alaskan,Suicide,2013
+2,17,M,Black,Accidental,2012
+1,22,M,Black,Undetermined,2012
+4,32,M,Native American/Native Alaskan,Suicide,2012
+1,23,F,Native American/Native Alaskan,Suicide,2012
+15,57,F,White,Homicide,2014
+1,36,F,Asian/Pacific Islander,Suicide,2012
+12,64,M,White,Homicide,2014
+2,52,F,Hispanic,Homicide,2013
+4,61,M,Hispanic,Homicide,2013
+2,45,M,Asian/Pacific Islander,Suicide,2012
+30,27,M,Black,Suicide,2014
+61,24,M,Hispanic,Homicide,2012
+5,31,F,Hispanic,Homicide,2012
+5,78,M,White,Homicide,2012
+5,69,F,White,Homicide,2012
+3,70,M,Black,Suicide,2013
+12,65,M,White,Homicide,2014
+1,60,F,Native American/Native Alaskan,Suicide,2013
+5,18,M,Black,Accidental,2012
+1,33,M,Native American/Native Alaskan,Suicide,2012
+5,53,M,Native American/Native Alaskan,Suicide,2013
+1,21,M,Black,Undetermined,2012
+3,25,M,Native American/Native Alaskan,Suicide,2012
+2,62,M,Hispanic,Homicide,2013
+19,59,M,White,Homicide,2014
+1,55,F,Hispanic,Homicide,2013
+2,46,M,Asian/Pacific Islander,Suicide,2012
+15,50,F,White,Homicide,2014
+46,17,M,Hispanic,Homicide,2012
+6,26,F,Hispanic,Homicide,2012
+2,72,F,White,Homicide,2012
+3,79,M,White,Homicide,2012
+6,71,M,Black,Suicide,2013
+3,21,F,Black,Suicide,2014
+22,30,M,Black,Suicide,2014
+2,20,M,Black,Undetermined,2012
+2,23,M,Black,Accidental,2012
+1,32,F,Black,Accidental,2012
+1,54,M,Native American/Native Alaskan,Suicide,2013
+4,26,M,Native American/Native Alaskan,Suicide,2012
+3,47,M,Asian/Pacific Islander,Suicide,2012
+2,54,F,Hispanic,Homicide,2013
+15,51,F,White,Homicide,2014
+5,63,M,Hispanic,Homicide,2013
+24,58,M,White,Homicide,2014
+85,18,M,Hispanic,Homicide,2012
+7,25,F,Hispanic,Homicide,2012
+5,80,M,White,Homicide,2012
+6,71,F,White,Homicide,2012
+9,72,M,Black,Suicide,2013
+21,29,M,Black,Suicide,2014
+5,22,F,Black,Suicide,2014
+1,24,M,Black,Accidental,2012
+2,55,M,Native American/Native Alaskan,Suicide,2013
+1,58,M,Black,Accidental,2013
+1,41,F,Asian/Pacific Islander,Suicide,2012
+7,27,M,Native American/Native Alaskan,Suicide,2012
+1,20,F,Native American/Native Alaskan,Suicide,2012
+23,61,M,White,Homicide,2014
+20,33,M,Black,Suicide,2014
+5,48,M,Asian/Pacific Islander,Suicide,2012
+12,52,F,White,Homicide,2014
+1,64,M,Hispanic,Homicide,2013
+2,65,M,Hispanic,Homicide,2013
+1,85,F,Asian/Pacific Islander,Suicide,2014
+1,23,F,Black,Suicide,2014
+17,32,M,Black,Suicide,2014
+89,19,M,Hispanic,Homicide,2012
+7,28,F,Hispanic,Homicide,2012
+6,21,M,Black,Accidental,2012
+2,74,F,White,Homicide,2012
+2,73,M,Black,Suicide,2013
+1,56,M,Native American/Native Alaskan,Suicide,2013
+1,55,F,Black,Undetermined,2013
+1,59,M,Black,Accidental,2013
+3,28,M,Native American/Native Alaskan,Suicide,2012
+4,82,M,White,Homicide,2012
+1,81,F,Black,Suicide,2013
+13,53,F,White,Homicide,2014
+26,60,M,White,Homicide,2014
+1,56,F,Hispanic,Homicide,2013
+1,66,M,Hispanic,Homicide,2013
+2,57,M,Native American/Native Alaskan,Suicide,2013
+3,49,M,Asian/Pacific Islander,Suicide,2012
+30,31,M,Black,Suicide,2014
+96,20,M,Hispanic,Homicide,2012
+10,27,F,Hispanic,Homicide,2012
+5,22,M,Black,Accidental,2012
+4,73,F,White,Homicide,2012
+1,29,F,Black,Accidental,2012
+6,74,M,Black,Suicide,2013
+3,17,M,Black,Undetermined,2012
+1,43,F,Asian/Pacific Islander,Suicide,2012
+13,50,M,Hispanic,Homicide,2013
+26,55,M,White,Homicide,2014
+3,34,M,Asian/Pacific Islander,Suicide,2012
+1,59,F,Hispanic,Homicide,2013
+9,62,F,White,Homicide,2014
+7,21,M,Native American/Native Alaskan,Suicide,2012
+1,30,F,Native American/Native Alaskan,Suicide,2012
+1,58,M,Native American/Native Alaskan,Suicide,2013
+1,32,M,Black,Undetermined,2012
+2,20,F,Black,Accidental,2012
+1,27,M,Black,Accidental,2012
+74,29,M,Hispanic,Homicide,2012
+11,22,F,Hispanic,Homicide,2012
+9,67,M,White,Homicide,2012
+6,76,F,White,Homicide,2012
+2,75,M,Black,Suicide,2013
+1,68,F,Black,Suicide,2013
+5,25,F,Black,Suicide,2014
+16,18,M,Black,Suicide,2014
+3,35,M,Asian/Pacific Islander,Suicide,2012
+1,57,M,Black,Accidental,2013
+3,63,F,White,Homicide,2014
+1,42,F,Asian/Pacific Islander,Suicide,2012
+19,51,M,Hispanic,Homicide,2013
+37,54,M,White,Homicide,2014
+6,22,M,Native American/Native Alaskan,Suicide,2012
+2,59,M,Native American/Native Alaskan,Suicide,2013
+1,31,M,Black,Undetermined,2012
+2,28,M,Black,Accidental,2012
+46,30,M,Hispanic,Homicide,2012
+8,21,F,Hispanic,Homicide,2012
+18,68,M,White,Homicide,2012
+1,75,F,White,Homicide,2012
+1,67,F,Black,Suicide,2013
+1,76,M,Black,Suicide,2013
+1,14,M,Asian/Pacific Islander,Suicide,2013
+3,26,F,Black,Suicide,2014
+8,17,M,Black,Suicide,2014
+1,87,M,Asian/Pacific Islander,Suicide,2014
+3,36,M,Asian/Pacific Islander,Suicide,2012
+9,64,F,White,Homicide,2014
+7,52,M,Hispanic,Homicide,2013
+1,61,F,Hispanic,Homicide,2013
+5,23,M,Native American/Native Alaskan,Suicide,2012
+1,51,M,Black,Undetermined,2013
+1,54,M,Black,Accidental,2013
+27,57,M,White,Homicide,2014
+1,60,M,Native American/Native Alaskan,Suicide,2013
+1,33,F,Native American/Native Alaskan,Suicide,2012
+2,25,M,Black,Accidental,2012
+2,15,M,Asian/Pacific Islander,Suicide,2013
+20,20,M,Black,Suicide,2014
+47,31,M,Hispanic,Homicide,2012
+7,24,F,Hispanic,Homicide,2012
+13,69,M,White,Homicide,2012
+7,78,F,White,Homicide,2012
+6,77,M,Black,Suicide,2013
+1,70,F,Black,Suicide,2013
+8,65,F,White,Homicide,2014
+1,44,F,Asian/Pacific Islander,Suicide,2012
+30,56,M,White,Homicide,2014
+47,33,M,Hispanic,Homicide,2012
+10,53,M,Hispanic,Homicide,2013
+3,37,M,Asian/Pacific Islander,Suicide,2012
+6,24,M,Native American/Native Alaskan,Suicide,2012
+2,50,M,Black,Undetermined,2013
+1,26,M,Black,Accidental,2012
+2,29,M,Black,Undetermined,2012
+1,22,F,Black,Undetermined,2012
+1,16,M,Asian/Pacific Islander,Suicide,2013
+2,28,F,Black,Suicide,2014
+13,19,M,Black,Suicide,2014
+57,32,M,Hispanic,Homicide,2012
+3,23,F,Hispanic,Homicide,2012
+11,70,M,White,Homicide,2012
+3,77,F,White,Homicide,2012
+4,78,M,Black,Suicide,2013
+9,66,F,White,Homicide,2014
+1,47,F,Asian/Pacific Islander,Suicide,2012
+4,54,M,Hispanic,Homicide,2013
+42,51,M,White,Homicide,2014
+3,38,M,Asian/Pacific Islander,Suicide,2012
+2,57,M,Black,Undetermined,2013
+1,63,F,Hispanic,Homicide,2013
+11,58,F,White,Homicide,2014
+1,61,F,Black,Accidental,2013
+3,17,M,Native American/Native Alaskan,Suicide,2012
+1,19,F,Black,Undetermined,2012
+1,24,F,Black,Accidental,2012
+1,31,M,Black,Accidental,2012
+1,62,M,Native American/Native Alaskan,Suicide,2013
+1,55,F,Native American/Native Alaskan,Suicide,2013
+66,25,M,Hispanic,Homicide,2012
+9,18,F,Hispanic,Homicide,2012
+5,71,M,White,Homicide,2012
+4,80,F,White,Homicide,2012
+4,79,M,Black,Suicide,2013
+45,22,M,Black,Suicide,2014
+1,84,M,Asian/Pacific Islander,Suicide,2014
+1,29,F,Black,Suicide,2014
+6,39,M,Asian/Pacific Islander,Suicide,2012
+1,62,F,Hispanic,Homicide,2013
+12,59,F,White,Homicide,2014
+4,55,M,Hispanic,Homicide,2013
+34,50,M,White,Homicide,2014
+5,18,M,Native American/Native Alaskan,Suicide,2012
+2,27,M,Black,Undetermined,2012
+1,63,M,Native American/Native Alaskan,Suicide,2013
+72,26,M,Hispanic,Homicide,2012
+2,17,F,Hispanic,Homicide,2012
+8,79,F,White,Homicide,2012
+7,72,M,White,Homicide,2012
+2,80,M,Black,Suicide,2013
+37,21,M,Black,Suicide,2014
+2,30,F,Black,Suicide,2014
+1,83,M,Asian/Pacific Islander,Suicide,2014
+1,102,M,Black,Suicide,2012
+6,82,F,White,Homicide,2012
+3,81,M,Black,Suicide,2013
+36,53,M,White,Homicide,2014
+5,40,M,Asian/Pacific Islander,Suicide,2012
+8,60,F,White,Homicide,2014
+7,56,M,Hispanic,Homicide,2013
+1,50,M,Black,Accidental,2013
+1,65,M,Native American/Native Alaskan,Suicide,2013
+1,47,M,Asian/Pacific Islander,Accidental,2014
+6,19,M,Native American/Native Alaskan,Suicide,2012
+1,28,F,Native American/Native Alaskan,Suicide,2012
+3,29,M,Black,Accidental,2012
+8,73,M,White,Homicide,2012
+1,74,F,Black,Suicide,2013
+1,17,F,Black,Undetermined,2012
+1,64,M,Native American/Native Alaskan,Suicide,2013
+47,24,M,Black,Suicide,2014
+1,31,F,Black,Suicide,2014
+76,27,M,Hispanic,Homicide,2012
+5,20,F,Hispanic,Homicide,2012
+4,81,F,White,Homicide,2012
+2,82,M,Black,Suicide,2013
+10,61,F,White,Homicide,2014
+2,33,F,Black,Suicide,2014
+43,52,M,White,Homicide,2014
+1,64,F,Hispanic,Homicide,2013
+3,66,M,Native American/Native Alaskan,Suicide,2013
+5,57,M,Hispanic,Homicide,2013
+6,41,M,Asian/Pacific Islander,Suicide,2012
+2,51,M,Black,Accidental,2013
+5,20,M,Native American/Native Alaskan,Suicide,2012
+1,21,F,Black,Accidental,2012
+5,30,M,Black,Accidental,2012
+7,74,M,White,Homicide,2012
+3,56,F,Native American/Native Alaskan,Suicide,2013
+27,23,M,Black,Suicide,2014
+5,32,F,Black,Suicide,2014
+57,28,M,Hispanic,Homicide,2012
+3,19,F,Hispanic,Homicide,2012
+1,5,M,Hispanic,Homicide,2012
+4,84,F,White,Homicide,2012
+1,21,M,Asian/Pacific Islander,Suicide,2013
+5,83,M,Black,Suicide,2013
+2,34,M,Native American/Native Alaskan,Suicide,2013
+1,3,M,Black,Accidental,2012
+1,13,M,Native American/Native Alaskan,Suicide,2012
+24,42,M,Hispanic,Homicide,2013
+1,51,F,Asian/Pacific Islander,Suicide,2012
+51,47,M,White,Homicide,2014
+2,58,M,Asian/Pacific Islander,Suicide,2012
+7,35,F,Hispanic,Homicide,2013
+10,38,F,White,Homicide,2014
+4,13,F,Hispanic,Homicide,2012
+5,83,F,White,Homicide,2012
+3,22,M,Asian/Pacific Islander,Suicide,2013
+2,84,M,Black,Suicide,2013
+2,29,F,Asian/Pacific Islander,Suicide,2013
+2,79,M,Asian/Pacific Islander,Suicide,2014
+1,49,M,Black,Accidental,2013
+1,35,M,Native American/Native Alaskan,Suicide,2013
+4,4,M,Black,Accidental,2012
+5,59,M,Asian/Pacific Islander,Suicide,2012
+6,34,F,Hispanic,Homicide,2013
+12,39,F,White,Homicide,2014
+16,43,M,Hispanic,Homicide,2013
+24,46,M,White,Homicide,2014
+4,23,M,Asian/Pacific Islander,Suicide,2013
+1,32,F,Asian/Pacific Islander,Suicide,2013
+2,12,M,Black,Suicide,2014
+6,16,F,Hispanic,Homicide,2012
+1,7,M,Hispanic,Homicide,2012
+1,86,F,White,Homicide,2012
+56,49,M,White,Homicide,2014
+1,36,M,Native American/Native Alaskan,Suicide,2013
+2,0,M,Black,Accidental,2012
+2,15,M,Native American/Native Alaskan,Suicide,2012
+1,34,F,Black,Undetermined,2013
+1,60,M,Asian/Pacific Islander,Suicide,2012
+12,40,F,White,Homicide,2014
+25,44,M,Hispanic,Homicide,2013
+3,37,F,Hispanic,Homicide,2013
+1,53,F,Asian/Pacific Islander,Suicide,2012
+2,33,F,Asian/Pacific Islander,Suicide,2013
+7,24,M,Asian/Pacific Islander,Suicide,2013
+1,31,F,Asian/Pacific Islander,Suicide,2013
+1,11,M,Black,Suicide,2014
+2,15,F,Hispanic,Homicide,2012
+1,94,M,White,Homicide,2012
+6,85,F,White,Homicide,2012
+2,86,M,Black,Suicide,2013
+4,2,M,Black,Accidental,2012
+3,37,M,Native American/Native Alaskan,Suicide,2013
+3,16,M,Native American/Native Alaskan,Suicide,2012
+1,NA,M,White,Homicide,2014
+1,42,M,Black,Undetermined,2013
+17,41,F,White,Homicide,2014
+1,52,F,Asian/Pacific Islander,Suicide,2012
+41,48,M,White,Homicide,2014
+7,36,F,Hispanic,Homicide,2013
+14,45,M,Hispanic,Homicide,2013
+3,61,M,Asian/Pacific Islander,Suicide,2012
+2,1,M,Hispanic,Homicide,2012
+1,88,F,White,Homicide,2012
+1,17,M,Asian/Pacific Islander,Suicide,2013
+2,76,M,Asian/Pacific Islander,Suicide,2014
+5,14,M,Black,Suicide,2014
+5,38,M,Native American/Native Alaskan,Suicide,2013
+1,47,F,Native American/Native Alaskan,Suicide,2013
+1,44,M,Black,Accidental,2013
+1,0,M,Hispanic,Homicide,2012
+25,46,M,Hispanic,Homicide,2013
+47,43,M,White,Homicide,2014
+3,62,M,Asian/Pacific Islander,Suicide,2012
+2,39,F,Hispanic,Homicide,2013
+16,34,F,White,Homicide,2014
+1,2,M,Hispanic,Homicide,2012
+4,87,F,White,Homicide,2012
+2,88,M,Black,Suicide,2013
+6,18,M,Asian/Pacific Islander,Suicide,2013
+1,25,F,Asian/Pacific Islander,Suicide,2013
+2,13,M,Black,Suicide,2014
+2,46,F,Native American/Native Alaskan,Suicide,2013
+2,39,M,Native American/Native Alaskan,Suicide,2013
+1,45,M,Black,Accidental,2013
+1,53,M,Asian/Pacific Islander,Undetermined,2014
+2,63,M,Asian/Pacific Islander,Suicide,2012
+3,38,F,Hispanic,Homicide,2013
+8,35,F,White,Homicide,2014
+1,54,F,Asian/Pacific Islander,Suicide,2012
+15,47,M,Hispanic,Homicide,2013
+42,42,M,White,Homicide,2014
+1,78,M,Asian/Pacific Islander,Suicide,2014
+4,65,M,Asian/Pacific Islander,Suicide,2012
+6,19,M,Asian/Pacific Islander,Suicide,2013
+5,16,M,Black,Suicide,2014
+3,3,M,Hispanic,Homicide,2012
+1,89,M,Black,Suicide,2013
+4,40,M,Native American/Native Alaskan,Suicide,2013
+2,41,F,Hispanic,Homicide,2013
+1,NA,M,Hispanic,Homicide,2013
+46,45,M,White,Homicide,2014
+1,64,M,Asian/Pacific Islander,Suicide,2012
+11,36,F,White,Homicide,2014
+13,48,M,Hispanic,Homicide,2013
+11,49,M,Hispanic,Homicide,2013
+2,41,M,Native American/Native Alaskan,Suicide,2013
+2,66,M,Asian/Pacific Islander,Suicide,2012
+6,20,M,Asian/Pacific Islander,Suicide,2013
+3,27,F,Asian/Pacific Islander,Suicide,2013
+4,15,M,Black,Suicide,2014
+2,4,M,Hispanic,Homicide,2012
+3,11,F,Hispanic,Homicide,2012
+3,89,F,White,Homicide,2012
+1,90,M,Black,Suicide,2013
+1,10,F,Black,Undetermined,2012
+14,37,F,White,Homicide,2014
+29,44,M,White,Homicide,2014
+4,40,F,Hispanic,Homicide,2013
+5,42,M,Native American/Native Alaskan,Suicide,2013
+2,35,F,Native American/Native Alaskan,Suicide,2013
+1,16,M,Black,Undetermined,2012
+1,11,M,Black,Accidental,2012
+3,6,F,Hispanic,Homicide,2012
+5,13,M,Hispanic,Homicide,2012
+2,83,M,White,Homicide,2012
+1,22,F,Asian/Pacific Islander,Suicide,2013
+11,29,M,Asian/Pacific Islander,Suicide,2013
+4,72,M,Asian/Pacific Islander,Suicide,2014
+51,34,M,Hispanic,Homicide,2013
+1,59,F,Asian/Pacific Islander,Suicide,2012
+29,39,M,White,Homicide,2014
+5,50,M,Asian/Pacific Islander,Suicide,2012
+2,43,F,Hispanic,Homicide,2013
+21,46,F,White,Homicide,2014
+4,43,M,Native American/Native Alaskan,Suicide,2013
+1,12,M,Black,Accidental,2012
+14,14,M,Hispanic,Homicide,2012
+2,5,F,Hispanic,Homicide,2012
+1,84,M,White,Homicide,2012
+5,30,M,Asian/Pacific Islander,Suicide,2013
+1,92,M,Black,Suicide,2013
+2,71,M,Asian/Pacific Islander,Suicide,2014
+1,80,F,Asian/Pacific Islander,Suicide,2014
+2,51,M,Asian/Pacific Islander,Suicide,2012
+3,42,F,Hispanic,Homicide,2013
+12,47,F,White,Homicide,2014
+37,35,M,Hispanic,Homicide,2013
+35,38,M,White,Homicide,2014
+1,48,F,Black,Accidental,2013
+2,44,M,Native American/Native Alaskan,Suicide,2013
+2,74,M,Asian/Pacific Islander,Suicide,2014
+4,31,M,Asian/Pacific Islander,Suicide,2013
+1,24,F,Asian/Pacific Islander,Suicide,2013
+25,15,M,Hispanic,Homicide,2012
+1,8,F,Hispanic,Homicide,2012
+3,85,M,White,Homicide,2012
+2,93,M,Black,Suicide,2013
+5,52,M,Asian/Pacific Islander,Suicide,2012
+16,48,F,White,Homicide,2014
+32,36,M,Hispanic,Homicide,2013
+5,45,F,Hispanic,Homicide,2013
+1,61,F,Asian/Pacific Islander,Suicide,2012
+1,38,M,Black,Accidental,2013
+1,35,M,Black,Undetermined,2013
+1,42,F,Black,Undetermined,2013
+50,41,M,White,Homicide,2014
+2,10,M,Black,Accidental,2012
+1,45,M,Native American/Native Alaskan,Suicide,2013
+6,32,M,Asian/Pacific Islander,Suicide,2013
+2,23,F,Asian/Pacific Islander,Suicide,2013
+1,12,F,Black,Suicide,2014
+35,16,M,Hispanic,Homicide,2012
+15,49,F,White,Homicide,2014
+52,40,M,White,Homicide,2014
+2,44,F,Hispanic,Homicide,2013
+34,37,M,Hispanic,Homicide,2013
+1,13,M,Native American/Native Alaskan,Accidental,2014
+12,33,M,Asian/Pacific Islander,Suicide,2013
+2,0,F,Black,Accidental,2012
+1,39,M,Black,Accidental,2013
+2,15,M,Black,Accidental,2012
+8,46,M,Native American/Native Alaskan,Suicide,2013
+10,25,M,Asian/Pacific Islander,Suicide,2013
+1,96,F,White,Homicide,2012
+1,13,F,Black,Suicide,2014
+1,68,M,Asian/Pacific Islander,Suicide,2014
+27,38,M,Hispanic,Homicide,2013
+50,35,M,White,Homicide,2014
+3,54,M,Asian/Pacific Islander,Suicide,2012
+2,47,F,Hispanic,Homicide,2013
+19,42,F,White,Homicide,2014
+2,16,M,Black,Accidental,2012
+1,38,F,Native American/Native Alaskan,Suicide,2013
+5,47,M,Native American/Native Alaskan,Suicide,2013
+2,1,F,Hispanic,Homicide,2012
+3,26,M,Asian/Pacific Islander,Suicide,2013
+1,17,F,Asian/Pacific Islander,Suicide,2013
+2,67,M,Asian/Pacific Islander,Suicide,2014
+4,55,M,Asian/Pacific Islander,Suicide,2012
+1,46,F,Hispanic,Homicide,2013
+15,43,F,White,Homicide,2014
+25,39,M,Hispanic,Homicide,2013
+62,34,M,White,Homicide,2014
+1,37,M,Black,Accidental,2013
+1,89,M,White,Homicide,2012
+3,48,M,Native American/Native Alaskan,Suicide,2013
+1,49,F,Hispanic,Homicide,2013
+1,66,F,Asian/Pacific Islander,Suicide,2012
+1,NA,M,Native American/Native Alaskan,Suicide,2013
+8,27,M,Asian/Pacific Islander,Suicide,2013
+1,15,F,Black,Suicide,2014
+2,4,F,Hispanic,Homicide,2012
+43,37,M,White,Homicide,2014
+6,56,M,Asian/Pacific Islander,Suicide,2012
+22,44,F,White,Homicide,2014
+17,40,M,Hispanic,Homicide,2013
+2,34,M,Black,Accidental,2013
+2,90,M,White,Homicide,2012
+1,5,F,Black,Accidental,2012
+4,28,M,Asian/Pacific Islander,Suicide,2013
+1,16,F,Black,Suicide,2014
+1,12,M,Hispanic,Homicide,2012
+14,45,F,White,Homicide,2014
+43,36,M,White,Homicide,2014
+1,48,F,Hispanic,Homicide,2013
+3,49,M,Native American/Native Alaskan,Suicide,2013
+24,41,M,Hispanic,Homicide,2013
+2,57,M,Asian/Pacific Islander,Suicide,2012
+1,35,M,Black,Accidental,2013
+1,62,M,Native American/Native Alaskan,Suicide,2012
+1,55,F,Native American/Native Alaskan,Suicide,2012
+1,28,M,Black,Undetermined,2013
+1,31,M,Black,Accidental,2013
+70,25,M,Hispanic,Homicide,2013
+5,18,F,Hispanic,Homicide,2013
+1,68,M,Hispanic,Homicide,2014
+3,79,M,Black,Suicide,2012
+7,71,M,White,Homicide,2013
+9,80,F,White,Homicide,2013
+44,30,M,White,Homicide,2014
+8,21,F,White,Homicide,2014
+10,54,M,Hispanic,Homicide,2012
+5,59,M,Black,Suicide,2014
+5,38,M,Asian/Pacific Islander,Suicide,2013
+5,50,F,Black,Suicide,2014
+2,17,M,Native American/Native Alaskan,Suicide,2013
+2,27,M,Black,Undetermined,2013
+2,32,M,Black,Accidental,2013
+50,26,M,Hispanic,Homicide,2013
+8,17,F,Hispanic,Homicide,2013
+1,67,M,Hispanic,Homicide,2014
+3,80,M,Black,Suicide,2012
+9,72,M,White,Homicide,2013
+1,79,F,White,Homicide,2013
+12,22,F,White,Homicide,2014
+52,29,M,White,Homicide,2014
+1,62,F,Hispanic,Homicide,2012
+4,39,M,Asian/Pacific Islander,Suicide,2013
+1,51,F,Black,Suicide,2014
+7,55,M,Hispanic,Homicide,2012
+16,58,M,Black,Suicide,2014
+6,18,M,Native American/Native Alaskan,Suicide,2013
+1,53,M,Black,Accidental,2012
+2,64,M,Native American/Native Alaskan,Suicide,2012
+1,29,M,Black,Accidental,2013
+7,73,M,White,Homicide,2013
+1,74,F,Black,Suicide,2012
+1,72,M,Black,Accidental,2014
+1,26,M,Black,Undetermined,2013
+46,32,M,White,Homicide,2014
+9,23,F,White,Homicide,2014
+6,20,F,Hispanic,Homicide,2013
+67,27,M,Hispanic,Homicide,2013
+8,40,M,Asian/Pacific Islander,Suicide,2013
+1,52,F,Black,Suicide,2014
+4,56,M,Hispanic,Homicide,2012
+6,81,M,Black,Suicide,2012
+1,82,F,White,Homicide,2013
+47,33,M,White,Homicide,2014
+11,61,M,Black,Suicide,2014
+4,19,M,Native American/Native Alaskan,Suicide,2013
+1,50,M,Black,Accidental,2012
+1,65,M,Native American/Native Alaskan,Suicide,2012
+2,78,M,Native American/Native Alaskan,Suicide,2014
+6,74,M,White,Homicide,2013
+1,30,M,Black,Accidental,2013
+1,68,M,Black,Undetermined,2014
+52,31,M,White,Homicide,2014
+15,24,F,White,Homicide,2014
+4,19,F,Hispanic,Homicide,2013
+40,28,M,Hispanic,Homicide,2013
+1,65,F,Hispanic,Homicide,2012
+1,69,M,Hispanic,Homicide,2014
+1,48,F,Asian/Pacific Islander,Suicide,2013
+9,60,M,Black,Suicide,2014
+2,82,M,Black,Suicide,2012
+3,81,F,White,Homicide,2013
+2,53,F,Black,Suicide,2014
+9,20,M,Native American/Native Alaskan,Suicide,2013
+1,66,M,Native American/Native Alaskan,Suicide,2012
+5,57,M,Hispanic,Homicide,2012
+1,51,M,Black,Accidental,2012
+3,41,M,Asian/Pacific Islander,Suicide,2013
+1,32,M,Black,Undetermined,2013
+2,27,M,Black,Accidental,2013
+2,58,M,Native American/Native Alaskan,Suicide,2012
+13,22,F,Hispanic,Homicide,2013
+39,29,M,Hispanic,Homicide,2013
+1,72,M,Hispanic,Homicide,2014
+1,13,M,Asian/Pacific Islander,Suicide,2012
+5,75,M,Black,Suicide,2012
+3,68,F,Black,Suicide,2012
+13,67,M,White,Homicide,2013
+7,76,F,White,Homicide,2013
+72,26,M,White,Homicide,2014
+8,17,F,White,Homicide,2014
+7,50,M,Hispanic,Homicide,2012
+1,43,F,Asian/Pacific Islander,Suicide,2013
+6,63,M,Black,Suicide,2014
+5,59,F,Hispanic,Homicide,2012
+6,34,M,Asian/Pacific Islander,Suicide,2013
+1,54,F,Black,Suicide,2014
+1,56,M,Black,Accidental,2012
+3,21,M,Native American/Native Alaskan,Suicide,2013
+1,80,M,Native American/Native Alaskan,Suicide,2014
+1,53,M,Black,Undetermined,2012
+1,33,M,Black,Undetermined,2013
+1,19,F,Black,Accidental,2013
+1,28,M,Black,Accidental,2013
+1,50,F,Native American/Native Alaskan,Suicide,2012
+1,59,M,Native American/Native Alaskan,Suicide,2012
+48,30,M,Hispanic,Homicide,2013
+12,21,F,Hispanic,Homicide,2013
+5,76,M,Black,Suicide,2012
+1,14,M,Asian/Pacific Islander,Suicide,2012
+14,68,M,White,Homicide,2013
+5,75,F,White,Homicide,2013
+53,25,M,White,Homicide,2014
+5,18,F,White,Homicide,2014
+2,58,F,Hispanic,Homicide,2012
+6,35,M,Asian/Pacific Islander,Suicide,2013
+1,57,M,Black,Accidental,2012
+5,55,F,Black,Suicide,2014
+11,51,M,Hispanic,Homicide,2012
+9,62,M,Black,Suicide,2014
+1,64,F,Black,Accidental,2012
+6,22,M,Native American/Native Alaskan,Suicide,2013
+1,79,M,Native American/Native Alaskan,Suicide,2014
+1,68,M,Black,Accidental,2014
+1,21,F,Black,Undetermined,2013
+1,74,M,Hispanic,Homicide,2014
+1,82,M,Native American/Native Alaskan,Suicide,2014
+3,60,M,Native American/Native Alaskan,Suicide,2012
+5,77,M,Black,Suicide,2012
+10,69,M,White,Homicide,2013
+5,78,F,White,Homicide,2013
+8,66,M,Black,Suicide,2014
+1,15,M,Asian/Pacific Islander,Suicide,2012
+59,28,M,White,Homicide,2014
+13,19,F,White,Homicide,2014
+40,31,M,Hispanic,Homicide,2013
+9,24,F,Hispanic,Homicide,2013
+1,45,F,Asian/Pacific Islander,Suicide,2013
+6,36,M,Asian/Pacific Islander,Suicide,2013
+2,56,F,Black,Suicide,2014
+7,52,M,Hispanic,Homicide,2012
+2,54,M,Black,Accidental,2012
+7,23,M,Native American/Native Alaskan,Suicide,2013
+1,32,F,Native American/Native Alaskan,Suicide,2013
+2,26,M,Black,Accidental,2013
+2,61,M,Native American/Native Alaskan,Suicide,2012
+2,29,M,Black,Undetermined,2013
+1,69,F,Black,Suicide,2012
+6,78,M,Black,Suicide,2012
+8,70,M,White,Homicide,2013
+4,77,F,White,Homicide,2013
+4,65,M,Black,Suicide,2014
+2,50,M,Native American/Native Alaskan,Accidental,2014
+2,16,M,Asian/Pacific Islander,Suicide,2012
+14,20,F,White,Homicide,2014
+44,27,M,White,Homicide,2014
+57,32,M,Hispanic,Homicide,2013
+10,23,F,Hispanic,Homicide,2013
+1,67,M,Native American/Native Alaskan,Undetermined,2012
+10,53,M,Hispanic,Homicide,2012
+41,33,M,Hispanic,Homicide,2013
+6,37,M,Asian/Pacific Islander,Suicide,2013
+1,44,F,Asian/Pacific Islander,Suicide,2013
+6,64,M,Black,Suicide,2014
+2,60,F,Hispanic,Homicide,2012
+1,31,F,Native American/Native Alaskan,Suicide,2013
+1,24,M,Native American/Native Alaskan,Suicide,2013
+43,17,M,Hispanic,Homicide,2013
+7,26,F,Hispanic,Homicide,2013
+4,71,M,Black,Suicide,2012
+8,72,F,White,Homicide,2013
+3,79,M,White,Homicide,2013
+52,22,M,White,Homicide,2014
+19,29,F,White,Homicide,2014
+4,54,M,Native American/Native Alaskan,Suicide,2012
+1,66,M,Black,Undetermined,2012
+2,20,M,Black,Undetermined,2013
+3,23,M,Black,Accidental,2013
+1,33,F,Black,Accidental,2013
+3,25,M,Native American/Native Alaskan,Suicide,2013
+1,82,M,Black,Accidental,2014
+1,60,M,Black,Accidental,2012
+4,62,M,Hispanic,Homicide,2012
+2,39,F,Asian/Pacific Islander,Suicide,2013
+14,51,M,Black,Suicide,2014
+3,55,F,Hispanic,Homicide,2012
+1,46,M,Asian/Pacific Islander,Suicide,2013
+4,58,F,Black,Suicide,2014
+73,18,M,Hispanic,Homicide,2013
+7,25,F,Hispanic,Homicide,2013
+3,72,M,Black,Suicide,2012
+1,79,F,Black,Suicide,2012
+3,71,F,White,Homicide,2013
+5,80,M,White,Homicide,2013
+53,21,M,White,Homicide,2014
+24,30,F,White,Homicide,2014
+1,78,M,Black,Undetermined,2014
+4,55,M,Native American/Native Alaskan,Suicide,2012
+1,19,M,Black,Undetermined,2013
+1,28,F,Black,Undetermined,2013
+6,24,M,Black,Accidental,2013
+3,26,M,Native American/Native Alaskan,Suicide,2013
+1,17,F,Native American/Native Alaskan,Suicide,2013
+1,67,M,Native American/Native Alaskan,Suicide,2014
+2,54,F,Hispanic,Homicide,2012
+5,47,M,Asian/Pacific Islander,Suicide,2013
+2,59,F,Black,Suicide,2014
+3,63,M,Hispanic,Homicide,2012
+1,38,F,Asian/Pacific Islander,Suicide,2013
+14,50,M,Black,Suicide,2014
+50,24,M,White,Homicide,2014
+14,31,F,White,Homicide,2014
+11,28,F,Hispanic,Homicide,2013
+77,19,M,Hispanic,Homicide,2013
+1,58,M,Native American/Native Alaskan,Undetermined,2014
+1,63,M,Native American/Native Alaskan,Accidental,2014
+1,65,M,Hispanic,Homicide,2012
+1,78,M,Hispanic,Homicide,2014
+2,56,M,Native American/Native Alaskan,Suicide,2012
+6,73,M,Black,Suicide,2012
+3,21,M,Black,Accidental,2013
+5,74,F,White,Homicide,2013
+3,18,M,Black,Undetermined,2013
+1,25,F,Black,Undetermined,2013
+1,13,M,Asian/Pacific Islander,Undetermined,2014
+5,27,M,Native American/Native Alaskan,Suicide,2013
+1,57,F,Hispanic,Homicide,2012
+1,58,M,Black,Accidental,2012
+1,66,F,Native American/Native Alaskan,Suicide,2012
+2,70,M,Native American/Native Alaskan,Suicide,2014
+5,48,M,Asian/Pacific Islander,Suicide,2013
+1,60,F,Black,Suicide,2014
+1,64,M,Hispanic,Homicide,2012
+3,81,M,White,Homicide,2013
+1,82,F,Black,Suicide,2012
+17,53,M,Black,Suicide,2014
+49,23,M,White,Homicide,2014
+20,32,F,White,Homicide,2014
+78,20,M,Hispanic,Homicide,2013
+2,27,F,Hispanic,Homicide,2013
+2,66,M,Hispanic,Homicide,2012
+4,57,M,Native American/Native Alaskan,Suicide,2012
+6,49,M,Asian/Pacific Islander,Suicide,2013
+1,74,M,Black,Suicide,2012
+5,73,F,White,Homicide,2013
+3,22,M,Black,Accidental,2013
+1,29,F,Black,Accidental,2013
+4,17,M,Black,Undetermined,2013
+5,28,M,Native American/Native Alaskan,Suicide,2013
+2,69,M,Native American/Native Alaskan,Suicide,2014
+3,40,F,Asian/Pacific Islander,Suicide,2013
+8,52,M,Black,Suicide,2014
+3,56,F,Hispanic,Homicide,2012
+1,81,F,Black,Suicide,2012
+1,82,M,White,Homicide,2013
+17,33,F,White,Homicide,2014
+2,61,F,Black,Suicide,2014
+80,21,M,Hispanic,Homicide,2013
+4,30,F,Hispanic,Homicide,2013
+2,71,F,Hispanic,Homicide,2014
+8,67,M,Black,Suicide,2012
+4,75,M,White,Homicide,2013
+5,68,F,White,Homicide,2013
+39,18,M,White,Homicide,2014
+17,25,F,White,Homicide,2014
+1,24,M,Black,Undetermined,2013
+4,19,M,Black,Accidental,2013
+1,28,F,Black,Accidental,2013
+5,50,M,Native American/Native Alaskan,Suicide,2012
+1,64,M,Black,Accidental,2012
+3,22,F,Native American/Native Alaskan,Suicide,2013
+1,72,M,Native American/Native Alaskan,Suicide,2014
+1,81,M,Black,Undetermined,2014
+5,58,M,Hispanic,Homicide,2012
+1,35,F,Asian/Pacific Islander,Suicide,2013
+10,55,M,Black,Suicide,2014
+3,51,F,Hispanic,Homicide,2012
+4,42,M,Asian/Pacific Islander,Suicide,2013
+1,62,F,Black,Suicide,2014
+91,22,M,Hispanic,Homicide,2013
+8,29,F,Hispanic,Homicide,2013
+10,68,M,Black,Suicide,2012
+12,67,F,White,Homicide,2013
+3,76,M,White,Homicide,2013
+26,26,F,White,Homicide,2014
+13,17,M,White,Homicide,2014
+1,23,M,Black,Undetermined,2013
+2,20,M,Black,Accidental,2013
+1,66,M,Black,Accidental,2012
+1,70,F,Black,Accidental,2014
+3,51,M,Native American/Native Alaskan,Suicide,2012
+1,60,M,Black,Undetermined,2012
+5,30,M,Native American/Native Alaskan,Suicide,2013
+1,21,F,Native American/Native Alaskan,Suicide,2013
+1,71,M,Native American/Native Alaskan,Suicide,2014
+3,50,F,Hispanic,Homicide,2012
+2,43,M,Asian/Pacific Islander,Suicide,2013
+5,59,M,Hispanic,Homicide,2012
+1,34,F,Asian/Pacific Islander,Suicide,2013
+14,54,M,Black,Suicide,2014
+4,69,M,Black,Suicide,2012
+5,70,F,White,Homicide,2013
+2,77,M,White,Homicide,2013
+1,65,F,Black,Suicide,2014
+45,20,M,White,Homicide,2014
+12,27,F,White,Homicide,2014
+73,23,M,Hispanic,Homicide,2013
+9,32,F,Hispanic,Homicide,2013
+2,17,M,Black,Accidental,2013
+1,26,F,Black,Accidental,2013
+1,22,M,Black,Undetermined,2013
+1,29,F,Black,Undetermined,2013
+2,52,M,Native American/Native Alaskan,Suicide,2012
+2,59,M,Black,Undetermined,2012
+9,57,M,Black,Suicide,2014
+8,31,M,Native American/Native Alaskan,Suicide,2013
+3,53,F,Hispanic,Homicide,2012
+5,33,F,Hispanic,Homicide,2013
+3,44,M,Asian/Pacific Islander,Suicide,2013
+3,60,M,Hispanic,Homicide,2012
+7,70,M,Black,Suicide,2012
+8,78,M,White,Homicide,2013
+3,69,F,White,Homicide,2013
+1,77,F,Black,Suicide,2012
+1,66,F,Black,Suicide,2014
+15,28,F,White,Homicide,2014
+33,19,M,White,Homicide,2014
+71,24,M,Hispanic,Homicide,2013
+6,31,F,Hispanic,Homicide,2013
+6,18,M,Black,Accidental,2013
+1,25,F,Black,Accidental,2013
+1,75,M,Black,Accidental,2014
+2,53,M,Native American/Native Alaskan,Suicide,2012
+4,33,M,Native American/Native Alaskan,Suicide,2013
+1,21,M,Black,Undetermined,2013
+1,51,F,Black,Undetermined,2012
+2,32,M,Native American/Native Alaskan,Suicide,2013
+5,61,M,Hispanic,Homicide,2012
+1,73,M,Native American/Native Alaskan,Suicide,2014
+3,45,M,Asian/Pacific Islander,Suicide,2013
+12,56,M,Black,Suicide,2014
+4,52,F,Hispanic,Homicide,2012
+34,38,M,Hispanic,Homicide,2012
+1,63,F,Asian/Pacific Islander,Suicide,2013
+18,43,M,Black,Suicide,2014
+1,41,M,Black,Undetermined,2012
+6,54,M,Asian/Pacific Islander,Suicide,2013
+1,47,F,Hispanic,Homicide,2012
+1,34,F,Black,Suicide,2014
+1,97,F,White,Homicide,2013
+3,36,M,Black,Accidental,2012
+5,46,M,Native American/Native Alaskan,Suicide,2012
+2,9,M,Hispanic,Homicide,2013
+1,2,F,Hispanic,Homicide,2013
+6,25,M,Asian/Pacific Islander,Suicide,2012
+1,95,M,Black,Suicide,2012
+3,87,M,White,Homicide,2013
+3,5,F,White,Homicide,2014
+9,14,M,White,Homicide,2014
+2,46,F,Hispanic,Homicide,2012
+1,55,M,Asian/Pacific Islander,Suicide,2013
+6,35,F,Black,Suicide,2014
+26,39,M,Hispanic,Homicide,2012
+14,42,M,Black,Suicide,2014
+1,37,M,Black,Accidental,2012
+1,47,M,Native American/Native Alaskan,Suicide,2012
+3,16,M,Black,Accidental,2013
+1,10,M,Hispanic,Homicide,2013
+9,26,M,Asian/Pacific Islander,Suicide,2012
+2,88,M,White,Homicide,2013
+2,6,F,White,Homicide,2014
+8,13,M,White,Homicide,2014
+3,56,M,Asian/Pacific Islander,Suicide,2013
+4,36,F,Black,Suicide,2014
+27,40,M,Hispanic,Homicide,2012
+13,45,M,Black,Suicide,2014
+1,34,M,Black,Accidental,2012
+1,43,F,Black,Accidental,2012
+2,48,M,Native American/Native Alaskan,Suicide,2012
+1,13,M,Black,Accidental,2013
+2,6,F,Black,Accidental,2013
+1,89,M,White,Homicide,2013
+1,25,F,Asian/Pacific Islander,Accidental,2014
+4,27,M,Asian/Pacific Islander,Suicide,2012
+10,16,M,White,Homicide,2014
+1,7,F,White,Homicide,2014
+2,11,M,Hispanic,Homicide,2013
+2,49,F,Hispanic,Homicide,2012
+14,44,M,Black,Suicide,2014
+1,48,F,Hispanic,Homicide,2012
+1,37,F,Black,Suicide,2014
+31,41,M,Hispanic,Homicide,2012
+2,49,M,Native American/Native Alaskan,Suicide,2012
+1,93,M,Native American/Native Alaskan,Suicide,2014
+2,35,M,Black,Accidental,2012
+3,57,M,Asian/Pacific Islander,Suicide,2013
+6,14,M,Black,Accidental,2013
+7,28,M,Asian/Pacific Islander,Suicide,2012
+2,19,F,Asian/Pacific Islander,Suicide,2012
+7,15,M,White,Homicide,2014
+3,8,F,White,Homicide,2014
+3,12,M,Hispanic,Homicide,2013
+1,38,M,Native American/Native Alaskan,Accidental,2014
+1,0,F,White,Homicide,2014
+31,34,M,Hispanic,Homicide,2012
+13,47,M,Black,Suicide,2014
+3,43,F,Hispanic,Homicide,2012
+2,50,M,Asian/Pacific Islander,Suicide,2013
+2,38,F,Black,Suicide,2014
+1,40,M,Black,Accidental,2012
+3,16,M,Black,Undetermined,2013
+1,11,M,Black,Accidental,2013
+1,4,F,Black,Accidental,2013
+1,24,M,Asian/Pacific Islander,Accidental,2014
+2,42,M,Native American/Native Alaskan,Suicide,2012
+4,13,M,Hispanic,Homicide,2013
+5,29,M,Asian/Pacific Islander,Suicide,2012
+1,22,F,Asian/Pacific Islander,Suicide,2012
+2,91,M,Black,Suicide,2012
+6,83,M,White,Homicide,2013
+1,92,F,White,Homicide,2013
+4,10,M,White,Homicide,2014
+7,42,F,Hispanic,Homicide,2012
+1,51,M,Asian/Pacific Islander,Suicide,2013
+3,39,F,Black,Suicide,2014
+31,35,M,Hispanic,Homicide,2012
+1,58,F,Asian/Pacific Islander,Suicide,2013
+9,46,M,Black,Suicide,2014
+1,36,M,Black,Undetermined,2012
+1,15,M,Black,Undetermined,2013
+1,20,M,Asian/Pacific Islander,Undetermined,2014
+1,23,M,Asian/Pacific Islander,Accidental,2014
+2,43,M,Native American/Native Alaskan,Suicide,2012
+6,14,M,Hispanic,Homicide,2013
+4,5,F,Hispanic,Homicide,2013
+1,92,M,Black,Suicide,2012
+5,30,M,Asian/Pacific Islander,Suicide,2012
+2,91,F,White,Homicide,2013
+2,84,M,White,Homicide,2013
+3,2,F,White,Homicide,2014
+4,45,F,Hispanic,Homicide,2012
+3,52,M,Asian/Pacific Islander,Suicide,2013
+1,40,F,Black,Suicide,2014
+31,36,M,Hispanic,Homicide,2012
+1,47,F,Black,Accidental,2012
+1,2,F,Black,Accidental,2013
+1,5,F,Black,Undetermined,2013
+3,44,M,Native American/Native Alaskan,Suicide,2012
+1,93,M,Black,Suicide,2012
+1,85,M,White,Homicide,2013
+16,49,M,Black,Suicide,2014
+3,31,M,Asian/Pacific Islander,Suicide,2012
+2,24,F,Asian/Pacific Islander,Suicide,2012
+4,12,M,White,Homicide,2014
+1,3,F,White,Homicide,2014
+12,15,M,Hispanic,Homicide,2013
+2,8,F,Hispanic,Homicide,2013
+25,37,M,Hispanic,Homicide,2012
+5,33,M,Asian/Pacific Islander,Suicide,2012
+4,53,M,Asian/Pacific Islander,Suicide,2013
+13,48,M,Black,Suicide,2014
+4,44,F,Hispanic,Homicide,2012
+1,46,F,Black,Accidental,2012
+1,39,M,Black,Accidental,2012
+3,41,F,Black,Suicide,2014
+1,15,F,Native American/Native Alaskan,Suicide,2013
+1,10,M,Black,Accidental,2013
+2,45,M,Native American/Native Alaskan,Suicide,2012
+1,18,M,Asian/Pacific Islander,Undetermined,2014
+2,32,M,Asian/Pacific Islander,Suicide,2012
+1,23,F,Asian/Pacific Islander,Suicide,2012
+6,11,M,White,Homicide,2014
+2,4,F,White,Homicide,2014
+33,16,M,Hispanic,Homicide,2013
+1,7,F,Hispanic,Homicide,2013
+1,37,F,Black,Accidental,2012
+1,84,M,Native American/Native Alaskan,Suicide,2014
+1,40,F,Black,Undetermined,2012
+13,46,M,Hispanic,Homicide,2012
+1,55,F,Asian/Pacific Islander,Suicide,2013
+20,35,M,Black,Suicide,2014
+5,39,F,Hispanic,Homicide,2012
+2,62,M,Asian/Pacific Islander,Suicide,2013
+1,42,F,Black,Suicide,2014
+2,0,M,Hispanic,Homicide,2013
+2,10,F,Hispanic,Homicide,2013
+1,1,M,Hispanic,Homicide,2013
+2,17,M,Asian/Pacific Islander,Suicide,2012
+2,88,F,White,Homicide,2013
+1,95,M,White,Homicide,2013
+2,13,F,White,Homicide,2014
+1,6,M,White,Homicide,2014
+3,38,M,Native American/Native Alaskan,Suicide,2012
+1,49,M,Black,Undetermined,2012
+2,47,F,Native American/Native Alaskan,Suicide,2012
+1,4,M,Black,Undetermined,2013
+5,38,F,Hispanic,Homicide,2012
+2,63,M,Asian/Pacific Islander,Suicide,2013
+3,43,F,Black,Suicide,2014
+16,47,M,Hispanic,Homicide,2012
+23,34,M,Black,Suicide,2014
+2,2,M,Hispanic,Homicide,2013
+1,91,M,Hispanic,Homicide,2014
+2,18,M,Asian/Pacific Islander,Suicide,2012
+1,88,M,Black,Suicide,2012
+2,87,F,White,Homicide,2013
+1,25,F,Asian/Pacific Islander,Suicide,2012
+6,14,F,White,Homicide,2014
+1,5,M,White,Homicide,2014
+6,39,M,Native American/Native Alaskan,Suicide,2012
+1,42,M,Black,Accidental,2012
+1,49,F,Native American/Native Alaskan,Suicide,2012
+2,41,F,Hispanic,Homicide,2012
+1,35,F,Black,Accidental,2012
+1,57,F,Asian/Pacific Islander,Suicide,2013
+2,64,M,Asian/Pacific Islander,Suicide,2013
+4,44,F,Black,Suicide,2014
+10,48,M,Hispanic,Homicide,2012
+23,37,M,Black,Suicide,2014
+3,19,M,Asian/Pacific Islander,Suicide,2012
+5,15,F,White,Homicide,2014
+1,8,M,White,Homicide,2014
+2,3,M,Hispanic,Homicide,2013
+1,12,F,Hispanic,Homicide,2013
+1,35,F,Native American/Native Alaskan,Undetermined,2014
+4,65,M,Asian/Pacific Islander,Suicide,2013
+2,40,M,Native American/Native Alaskan,Suicide,2012
+1,89,M,Black,Suicide,2012
+1,90,F,White,Homicide,2013
+1,39,F,Black,Undetermined,2012
+1,85,M,Native American/Native Alaskan,Suicide,2014
+2,43,M,Black,Accidental,2012
+23,36,M,Black,Suicide,2014
+6,40,F,Hispanic,Homicide,2012
+2,45,F,Black,Suicide,2014
+6,20,M,Asian/Pacific Islander,Suicide,2012
+1,27,F,Asian/Pacific Islander,Suicide,2012
+5,16,F,White,Homicide,2014
+4,7,M,White,Homicide,2014
+1,11,F,Hispanic,Homicide,2013
+1,4,M,Hispanic,Homicide,2013
+13,49,M,Hispanic,Homicide,2012
+1,41,M,Native American/Native Alaskan,Suicide,2012
+1,66,M,Asian/Pacific Islander,Suicide,2013
+1,46,M,Native American/Native Alaskan,Accidental,2014
+1,48,F,Native American/Native Alaskan,Suicide,2012
+1,90,M,Black,Suicide,2012
+3,89,F,White,Homicide,2013
+1,45,M,Black,Undetermined,2012
+34,42,M,Hispanic,Homicide,2012
+1,51,F,Asian/Pacific Islander,Suicide,2013
+13,39,M,Black,Suicide,2014
+9,35,F,Hispanic,Homicide,2012
+3,58,M,Asian/Pacific Islander,Suicide,2013
+2,46,F,Black,Suicide,2014
+3,14,F,Hispanic,Homicide,2013
+4,83,M,Black,Suicide,2012
+5,21,M,Asian/Pacific Islander,Suicide,2012
+1,30,F,Asian/Pacific Islander,Suicide,2012
+7,84,F,White,Homicide,2013
+6,9,F,White,Homicide,2014
+4,2,M,White,Homicide,2014
+3,3,M,Black,Accidental,2013
+2,34,M,Native American/Native Alaskan,Suicide,2012
+2,0,M,White,Homicide,2014
+4,34,F,Hispanic,Homicide,2012
+2,59,M,Asian/Pacific Islander,Suicide,2013
+4,47,F,Black,Suicide,2014
+16,43,M,Hispanic,Homicide,2012
+1,50,F,Asian/Pacific Islander,Suicide,2013
+22,38,M,Black,Suicide,2014
+1,13,F,Hispanic,Homicide,2013
+6,84,M,Black,Suicide,2012
+7,22,M,Asian/Pacific Islander,Suicide,2012
+7,83,F,White,Homicide,2013
+3,10,F,White,Homicide,2014
+4,4,M,Black,Accidental,2013
+1,49,M,Black,Accidental,2012
+1,42,F,Native American/Native Alaskan,Suicide,2012
+3,35,M,Native American/Native Alaskan,Suicide,2012
+1,43,M,Black,Undetermined,2012
+20,41,M,Black,Suicide,2014
+2,15,M,Native American/Native Alaskan,Suicide,2013
+5,37,F,Hispanic,Homicide,2012
+2,33,F,Asian/Pacific Islander,Suicide,2012
+1,53,F,Asian/Pacific Islander,Suicide,2013
+2,60,M,Asian/Pacific Islander,Suicide,2013
+1,48,F,Black,Suicide,2014
+16,44,M,Hispanic,Homicide,2012
+1,85,M,Black,Suicide,2012
+4,86,F,White,Homicide,2013
+4,23,M,Asian/Pacific Islander,Suicide,2012
+1,32,F,Asian/Pacific Islander,Suicide,2012
+3,4,M,White,Homicide,2014
+4,16,F,Hispanic,Homicide,2013
+1,7,M,Hispanic,Homicide,2013
+2,36,M,Native American/Native Alaskan,Suicide,2012
+1,47,M,Black,Accidental,2012
+3,16,M,Native American/Native Alaskan,Suicide,2013
+21,45,M,Hispanic,Homicide,2012
+3,61,M,Asian/Pacific Islander,Suicide,2013
+16,40,M,Black,Suicide,2014
+2,36,F,Hispanic,Homicide,2012
+2,85,F,White,Homicide,2013
+3,49,F,Black,Suicide,2014
+5,24,M,Asian/Pacific Islander,Suicide,2012
+1,3,M,White,Homicide,2014
+1,15,F,Hispanic,Homicide,2013
+1,2,M,Black,Accidental,2013
+5,37,M,Native American/Native Alaskan,Suicide,2012
+11,46,M,Black,Suicide,2012
+42,38,M,White,Homicide,2013
+46,35,M,Hispanic,Homicide,2014
+3,39,F,Black,Suicide,2012
+18,47,F,White,Homicide,2013
+4,41,M,Black,Accidental,2014
+6,42,F,Hispanic,Homicide,2014
+1,15,M,Native American/Native Alaskan,Accidental,2013
+2,2,F,White,Homicide,2012
+1,9,M,White,Homicide,2012
+1,83,F,Black,Suicide,2014
+4,30,M,Asian/Pacific Islander,Suicide,2014
+1,21,F,Asian/Pacific Islander,Suicide,2014
+3,43,M,Native American/Native Alaskan,Suicide,2014
+1,34,F,Native American/Native Alaskan,Suicide,2014
+1,37,M,Black,Undetermined,2014
+2,40,M,Black,Accidental,2014
+3,38,F,Black,Suicide,2012
+14,46,F,White,Homicide,2013
+5,43,F,Hispanic,Homicide,2014
+11,47,M,Black,Suicide,2012
+39,39,M,White,Homicide,2013
+44,34,M,Hispanic,Homicide,2014
+2,1,F,White,Homicide,2012
+5,10,M,White,Homicide,2012
+4,29,M,Asian/Pacific Islander,Suicide,2014
+1,84,F,Black,Suicide,2014
+1,37,M,Native American/Native Alaskan,Accidental,2012
+1,40,M,Native American/Native Alaskan,Undetermined,2012
+2,35,F,Native American/Native Alaskan,Suicide,2014
+3,42,M,Native American/Native Alaskan,Suicide,2014
+1,NA,M,Black,Suicide,2012
+4,41,F,Black,Suicide,2012
+1,34,M,Black,Undetermined,2014
+3,44,F,Hispanic,Homicide,2014
+18,48,M,Black,Suicide,2012
+32,40,M,White,Homicide,2013
+2,33,M,Asian/Pacific Islander,Suicide,2014
+30,37,M,Hispanic,Homicide,2014
+5,11,M,White,Homicide,2012
+2,4,F,White,Homicide,2012
+3,32,M,Asian/Pacific Islander,Suicide,2014
+1,23,F,Asian/Pacific Islander,Suicide,2014
+24,49,F,White,Homicide,2013
+1,94,M,Black,Suicide,2014
+3,45,M,Native American/Native Alaskan,Suicide,2014
+2,73,M,Asian/Pacific Islander,Suicide,2013
+42,41,M,White,Homicide,2013
+1,38,M,Black,Accidental,2014
+46,36,M,Hispanic,Homicide,2014
+7,40,F,Black,Suicide,2012
+19,48,F,White,Homicide,2013
+1,5,F,Native American/Native Alaskan,Accidental,2013
+4,45,F,Hispanic,Homicide,2014
+3,3,F,White,Homicide,2012
+1,12,M,White,Homicide,2012
+8,31,M,Asian/Pacific Islander,Suicide,2014
+1,24,F,Asian/Pacific Islander,Suicide,2014
+16,49,M,Black,Suicide,2012
+1,93,M,Black,Suicide,2014
+1,35,M,Native American/Native Alaskan,Accidental,2012
+5,44,M,Native American/Native Alaskan,Suicide,2014
+1,90,M,Hispanic,Homicide,2012
+1,37,F,Native American/Native Alaskan,Suicide,2014
+1,40,M,Black,Undetermined,2014
+5,37,M,Black,Accidental,2014
+18,42,M,Black,Suicide,2012
+50,34,M,White,Homicide,2013
+27,39,M,Hispanic,Homicide,2014
+3,35,F,Black,Suicide,2012
+17,43,F,White,Homicide,2013
+4,46,F,Hispanic,Homicide,2014
+7,13,M,White,Homicide,2012
+11,6,F,White,Homicide,2012
+4,26,M,Asian/Pacific Islander,Suicide,2014
+1,96,M,Black,Suicide,2014
+1,37,M,Native American/Native Alaskan,Undetermined,2012
+1,47,M,Native American/Native Alaskan,Suicide,2014
+1,36,M,Black,Accidental,2014
+4,34,F,Black,Suicide,2012
+21,42,F,White,Homicide,2013
+1,47,F,Hispanic,Homicide,2014
+17,43,M,Black,Suicide,2012
+45,35,M,White,Homicide,2013
+36,38,M,Hispanic,Homicide,2014
+7,14,M,White,Homicide,2012
+2,5,F,White,Homicide,2012
+5,25,M,Asian/Pacific Islander,Suicide,2014
+1,39,F,Native American/Native Alaskan,Suicide,2014
+2,46,M,Native American/Native Alaskan,Suicide,2014
+1,35,M,Black,Accidental,2014
+19,41,M,Hispanic,Homicide,2014
+1,49,M,Native American/Native Alaskan,Suicide,2014
+2,37,F,Black,Suicide,2012
+15,45,F,White,Homicide,2013
+3,48,F,Hispanic,Homicide,2014
+22,44,M,Black,Suicide,2012
+41,36,M,White,Homicide,2013
+1,35,M,Native American/Native Alaskan,Undetermined,2012
+1,38,M,Native American/Native Alaskan,Accidental,2012
+1,8,F,White,Homicide,2012
+11,15,M,White,Homicide,2012
+3,28,M,Asian/Pacific Islander,Suicide,2014
+1,89,F,Black,Suicide,2014
+2,40,F,Native American/Native Alaskan,Suicide,2014
+1,34,M,Black,Accidental,2014
+11,45,M,Black,Suicide,2012
+49,37,M,White,Homicide,2013
+35,40,M,Hispanic,Homicide,2014
+5,36,F,Black,Suicide,2012
+16,44,F,White,Homicide,2013
+1,93,F,Hispanic,Homicide,2012
+1,70,M,Asian/Pacific Islander,Suicide,2013
+4,49,F,Hispanic,Homicide,2014
+2,41,F,Native American/Native Alaskan,Suicide,2014
+5,7,F,White,Homicide,2012
+15,16,M,White,Homicide,2012
+4,27,M,Asian/Pacific Islander,Suicide,2014
+1,18,M,Asian/Pacific Islander,Accidental,2012
+4,48,M,Native American/Native Alaskan,Suicide,2014
+17,38,M,Black,Suicide,2012
+52,46,M,White,Homicide,2013
+18,43,M,Hispanic,Homicide,2014
+1,47,F,Black,Suicide,2012
+20,39,F,White,Homicide,2013
+8,34,F,Hispanic,Homicide,2014
+3,35,M,Native American/Native Alaskan,Suicide,2014
+5,10,F,White,Homicide,2012
+2,1,M,White,Homicide,2012
+3,84,M,Black,Suicide,2014
+8,22,M,Asian/Pacific Islander,Suicide,2014
+2,46,F,Black,Suicide,2012
+24,38,F,White,Homicide,2013
+6,35,F,Hispanic,Homicide,2014
+13,39,M,Black,Suicide,2012
+38,47,M,White,Homicide,2013
+21,42,M,Hispanic,Homicide,2014
+1,8,M,Native American/Native Alaskan,Accidental,2013
+1,88,M,Native American/Native Alaskan,Suicide,2012
+3,48,M,Black,Accidental,2014
+1,56,M,Asian/Pacific Islander,Undetermined,2013
+6,34,M,Native American/Native Alaskan,Suicide,2014
+1,2,M,White,Homicide,2012
+2,9,F,White,Homicide,2012
+4,83,M,Black,Suicide,2014
+6,21,M,Asian/Pacific Islander,Suicide,2014
+1,30,F,Asian/Pacific Islander,Suicide,2014
+1,36,F,Hispanic,Homicide,2014
+24,40,M,Black,Suicide,2012
+43,48,M,White,Homicide,2013
+21,45,M,Hispanic,Homicide,2014
+6,NA,M,White,Homicide,2013
+11,41,F,White,Homicide,2013
+1,42,M,Black,Undetermined,2014
+2,47,M,Black,Accidental,2014
+1,35,F,Black,Undetermined,2014
+2,37,M,Native American/Native Alaskan,Suicide,2014
+6,3,M,White,Homicide,2012
+3,12,F,White,Homicide,2012
+8,24,M,Asian/Pacific Islander,Suicide,2014
+2,31,F,Asian/Pacific Islander,Suicide,2014
+2,49,F,Black,Suicide,2012
+2,86,M,Black,Suicide,2014
+21,44,M,Hispanic,Homicide,2014
+3,48,F,Black,Suicide,2012
+14,40,F,White,Homicide,2013
+3,82,M,Asian/Pacific Islander,Suicide,2013
+5,37,F,Hispanic,Homicide,2014
+25,41,M,Black,Suicide,2012
+1,43,M,Black,Undetermined,2014
+2,36,M,Native American/Native Alaskan,Suicide,2014
+1,89,F,Hispanic,Homicide,2012
+4,11,F,White,Homicide,2012
+1,4,M,White,Homicide,2012
+5,23,M,Asian/Pacific Islander,Suicide,2014
+40,49,M,White,Homicide,2013
+3,85,M,Black,Suicide,2014
+1,43,M,Native American/Native Alaskan,Accidental,2012
+1,NA,M,Black,Undetermined,2014
+29,34,M,Black,Suicide,2012
+51,42,M,White,Homicide,2013
+7,47,M,Hispanic,Homicide,2014
+1,41,F,Black,Undetermined,2014
+2,43,F,Black,Suicide,2012
+15,35,F,White,Homicide,2013
+4,38,F,Hispanic,Homicide,2014
+1,45,M,Black,Accidental,2014
+2,39,M,Native American/Native Alaskan,Suicide,2014
+1,27,M,White,NA,2013
+2,14,F,White,Homicide,2012
+1,5,M,White,Homicide,2012
+3,13,M,Black,Suicide,2013
+1,75,M,Asian/Pacific Islander,Suicide,2013
+6,18,M,Asian/Pacific Islander,Suicide,2014
+2,25,F,Asian/Pacific Islander,Suicide,2014
+1,88,M,Black,Suicide,2014
+1,42,F,Black,Suicide,2012
+19,34,F,White,Homicide,2013
+3,39,F,Hispanic,Homicide,2014
+17,35,M,Black,Suicide,2012
+61,43,M,White,Homicide,2013
+7,46,M,Hispanic,Homicide,2014
+1,44,M,Black,Accidental,2014
+1,47,F,Native American/Native Alaskan,Suicide,2014
+2,38,M,Native American/Native Alaskan,Suicide,2014
+5,13,F,White,Homicide,2012
+8,6,M,White,Homicide,2012
+2,76,M,Asian/Pacific Islander,Suicide,2013
+1,14,M,Black,Suicide,2013
+2,87,M,Black,Suicide,2014
+1,26,F,Asian/Pacific Islander,Suicide,2014
+3,45,F,Black,Suicide,2012
+10,37,F,White,Homicide,2013
+7,40,F,Hispanic,Homicide,2014
+19,36,M,Black,Suicide,2012
+34,44,M,White,Homicide,2013
+1,90,M,Black,Suicide,2014
+12,49,M,Hispanic,Homicide,2014
+1,41,M,Native American/Native Alaskan,Suicide,2014
+1,0,M,Native American/Native Alaskan,Accidental,2013
+7,7,M,White,Homicide,2012
+6,16,F,White,Homicide,2012
+5,15,M,Black,Suicide,2013
+1,27,F,Asian/Pacific Islander,Suicide,2014
+5,20,M,Asian/Pacific Islander,Suicide,2014
+19,37,M,Black,Suicide,2012
+29,45,M,White,Homicide,2013
+13,48,M,Hispanic,Homicide,2014
+7,36,F,White,Homicide,2013
+1,44,F,Black,Suicide,2012
+4,41,F,Hispanic,Homicide,2014
+4,40,M,Native American/Native Alaskan,Suicide,2014
+3,8,M,White,Homicide,2012
+2,15,F,White,Homicide,2012
+9,16,M,Black,Suicide,2013
+5,19,M,Asian/Pacific Islander,Suicide,2014
+47,25,M,White,Homicide,2012
+13,18,F,White,Homicide,2012
+15,17,M,Black,Suicide,2013
+2,26,F,Black,Suicide,2013
+4,76,M,Black,Suicide,2014
+1,14,M,Asian/Pacific Islander,Suicide,2014
+3,71,M,Hispanic,Homicide,2012
+1,80,F,Hispanic,Homicide,2012
+1,49,M,Asian/Pacific Islander,Undetermined,2013
+2,59,M,Native American/Native Alaskan,Suicide,2014
+1,50,F,Native American/Native Alaskan,Suicide,2014
+1,52,M,Black,Undetermined,2014
+8,62,M,Black,Suicide,2012
+30,54,M,White,Homicide,2013
+17,51,M,Hispanic,Homicide,2014
+1,55,F,Black,Suicide,2012
+7,63,F,White,Homicide,2013
+1,57,M,Black,Accidental,2014
+67,26,M,White,Homicide,2012
+8,17,F,White,Homicide,2012
+12,18,M,Black,Suicide,2013
+3,25,F,Black,Suicide,2013
+5,75,M,Black,Suicide,2014
+1,68,F,Black,Suicide,2014
+2,58,M,Native American/Native Alaskan,Suicide,2014
+1,80,M,Native American/Native Alaskan,Suicide,2012
+2,54,F,Black,Suicide,2012
+10,62,F,White,Homicide,2013
+1,59,F,Hispanic,Homicide,2014
+3,63,M,Black,Suicide,2012
+24,55,M,White,Homicide,2013
+13,50,M,Hispanic,Homicide,2014
+47,27,M,White,Homicide,2012
+17,20,F,White,Homicide,2012
+11,19,M,Black,Suicide,2013
+5,28,F,Black,Suicide,2013
+1,16,M,Asian/Pacific Islander,Suicide,2014
+9,65,M,Black,Suicide,2012
+8,66,F,White,Homicide,2013
+7,78,M,Black,Suicide,2014
+1,69,F,Black,Suicide,2014
+1,52,F,Native American/Native Alaskan,Suicide,2014
+1,81,M,Native American/Native Alaskan,Suicide,2012
+1,61,M,Native American/Native Alaskan,Suicide,2014
+2,57,F,Black,Suicide,2012
+1,55,M,Black,Accidental,2014
+2,50,M,Black,Undetermined,2014
+12,64,M,Black,Suicide,2012
+29,56,M,White,Homicide,2013
+1,29,M,Native American/Native Alaskan,Accidental,2013
+8,53,M,Hispanic,Homicide,2014
+1,26,M,Native American/Native Alaskan,Undetermined,2013
+60,28,M,White,Homicide,2012
+4,19,F,White,Homicide,2012
+33,20,M,Black,Suicide,2013
+6,27,F,Black,Suicide,2013
+1,15,M,Asian/Pacific Islander,Suicide,2014
+2,66,M,Black,Suicide,2012
+10,65,F,White,Homicide,2013
+6,77,M,Black,Suicide,2014
+1,70,F,Black,Suicide,2014
+2,60,M,Native American/Native Alaskan,Suicide,2014
+2,74,M,Hispanic,Homicide,2012
+29,57,M,White,Homicide,2013
+1,51,M,Black,Undetermined,2014
+13,52,M,Hispanic,Homicide,2014
+1,56,F,Black,Suicide,2012
+17,64,F,White,Homicide,2013
+2,61,F,Hispanic,Homicide,2014
+11,22,F,White,Homicide,2012
+52,29,M,White,Homicide,2012
+24,21,M,Black,Suicide,2013
+2,30,F,Black,Suicide,2013
+5,80,M,Black,Suicide,2014
+1,71,F,Black,Suicide,2014
+2,67,M,Hispanic,Homicide,2012
+1,70,M,Black,Undetermined,2012
+1,32,M,Native American/Native Alaskan,Undetermined,2013
+7,58,M,Black,Suicide,2012
+43,50,M,White,Homicide,2013
+11,55,M,Hispanic,Homicide,2014
+2,51,F,Black,Suicide,2012
+22,59,F,White,Homicide,2013
+61,30,M,White,Homicide,2012
+18,21,F,White,Homicide,2012
+32,22,M,Black,Suicide,2013
+1,29,F,Black,Suicide,2013
+1,84,M,Asian/Pacific Islander,Suicide,2013
+2,79,M,Black,Suicide,2014
+1,72,F,Black,Suicide,2014
+1,68,M,Hispanic,Homicide,2012
+1,65,F,Black,Undetermined,2014
+1,62,M,Native American/Native Alaskan,Suicide,2014
+1,52,M,Black,Accidental,2014
+3,50,F,Black,Suicide,2012
+11,58,F,White,Homicide,2013
+1,63,F,Hispanic,Homicide,2014
+8,59,M,Black,Suicide,2012
+44,51,M,White,Homicide,2013
+11,54,M,Hispanic,Homicide,2014
+3,69,M,Hispanic,Homicide,2012
+1,85,M,Asian/Pacific Islander,Suicide,2013
+1,65,F,Hispanic,Homicide,2014
+54,31,M,White,Homicide,2012
+19,24,F,White,Homicide,2012
+29,23,M,Black,Suicide,2013
+1,32,F,Black,Suicide,2013
+1,51,M,Black,Accidental,2014
+1,54,M,Black,Undetermined,2014
+1,77,M,Native American/Native Alaskan,Suicide,2012
+3,57,M,Hispanic,Homicide,2014
+12,61,F,White,Homicide,2013
+3,33,F,Black,Suicide,2013
+3,53,F,Black,Suicide,2012
+1,82,M,Black,Suicide,2014
+10,60,M,Black,Suicide,2012
+46,52,M,White,Homicide,2013
+1,70,M,Hispanic,Homicide,2012
+18,23,F,White,Homicide,2012
+46,32,M,White,Homicide,2012
+34,24,M,Black,Suicide,2013
+2,31,F,Black,Suicide,2013
+1,11,M,Asian/Pacific Islander,Suicide,2014
+1,2,M,Asian/Pacific Islander,Accidental,2012
+1,64,M,Native American/Native Alaskan,Suicide,2014
+1,35,F,Asian/Pacific Islander,Undetermined,2013
+1,50,M,Black,Accidental,2014
+1,55,M,Black,Undetermined,2014
+40,33,M,White,Homicide,2012
+6,61,M,Black,Suicide,2012
+31,53,M,White,Homicide,2013
+3,81,M,Black,Suicide,2014
+2,56,M,Hispanic,Homicide,2014
+5,52,F,Black,Suicide,2012
+6,60,F,White,Homicide,2013
+2,51,M,Native American/Native Alaskan,Suicide,2014
+3,66,M,Black,Accidental,2014
+23,17,M,White,Homicide,2012
+14,26,F,White,Homicide,2012
+21,25,M,Black,Suicide,2013
+2,18,F,Black,Suicide,2013
+5,68,M,Black,Suicide,2014
+2,13,F,Asian/Pacific Islander,Suicide,2014
+1,79,M,Hispanic,Homicide,2012
+16,54,M,Black,Suicide,2012
+22,62,M,White,Homicide,2013
+4,59,M,Hispanic,Homicide,2014
+2,63,F,Black,Suicide,2012
+14,55,F,White,Homicide,2013
+3,50,F,Hispanic,Homicide,2014
+1,27,F,Native American/Native Alaskan,Undetermined,2013
+1,53,F,Black,Undetermined,2014
+1,71,M,Native American/Native Alaskan,Suicide,2012
+1,59,F,Native American/Native Alaskan,Suicide,2014
+2,65,M,Black,Accidental,2014
+38,18,M,White,Homicide,2012
+13,25,F,White,Homicide,2012
+24,26,M,Black,Suicide,2013
+1,17,F,Black,Suicide,2013
+9,67,M,Black,Suicide,2014
+13,54,F,White,Homicide,2013
+8,55,M,Black,Suicide,2012
+19,63,M,White,Homicide,2013
+3,58,M,Hispanic,Homicide,2014
+1,24,M,Native American/Native Alaskan,Accidental,2013
+1,74,F,Hispanic,Homicide,2012
+3,53,M,Native American/Native Alaskan,Suicide,2014
+18,28,F,White,Homicide,2012
+43,19,M,White,Homicide,2012
+34,27,M,Black,Suicide,2013
+13,65,M,White,Homicide,2013
+11,70,M,Black,Suicide,2014
+3,52,F,Hispanic,Homicide,2014
+12,56,M,Black,Suicide,2012
+24,64,M,White,Homicide,2013
+1,73,M,Native American/Native Alaskan,Suicide,2012
+1,61,M,Hispanic,Homicide,2014
+16,57,F,White,Homicide,2013
+1,39,M,Asian/Pacific Islander,Undetermined,2013
+5,52,M,Native American/Native Alaskan,Suicide,2014
+14,27,F,White,Homicide,2012
+44,20,M,White,Homicide,2012
+28,28,M,Black,Suicide,2013
+1,19,F,Black,Suicide,2013
+2,16,F,Asian/Pacific Islander,Suicide,2014
+1,65,F,Black,Suicide,2012
+18,66,M,White,Homicide,2013
+2,69,M,Black,Suicide,2014
+2,60,M,Hispanic,Homicide,2014
+1,64,F,Black,Suicide,2012
+10,56,F,White,Homicide,2013
+10,57,M,Black,Suicide,2012
+2,55,M,Native American/Native Alaskan,Suicide,2014
+23,30,F,White,Homicide,2012
+65,21,M,White,Homicide,2012
+3,22,F,Black,Suicide,2013
+28,29,M,Black,Suicide,2013
+1,84,F,Asian/Pacific Islander,Suicide,2013
+1,91,M,Asian/Pacific Islander,Suicide,2013
+6,72,M,Black,Suicide,2014
+1,79,F,Black,Suicide,2014
+1,75,M,Hispanic,Homicide,2012
+12,50,M,Black,Suicide,2012
+32,58,M,White,Homicide,2013
+1,63,M,Hispanic,Homicide,2014
+4,59,F,Black,Suicide,2012
+17,51,F,White,Homicide,2013
+2,54,F,Hispanic,Homicide,2014
+1,64,M,Black,Undetermined,2014
+2,81,M,Black,Accidental,2012
+1,67,M,Native American/Native Alaskan,Suicide,2012
+1,66,M,Black,Undetermined,2014
+2,54,M,Native American/Native Alaskan,Suicide,2014
+68,22,M,White,Homicide,2012
+19,29,F,White,Homicide,2012
+25,30,M,Black,Suicide,2013
+1,21,F,Black,Suicide,2013
+6,71,M,Black,Suicide,2014
+1,80,F,Black,Suicide,2014
+1,76,M,Hispanic,Homicide,2012
+1,20,M,Native American/Native Alaskan,Accidental,2013
+11,50,F,White,Homicide,2013
+1,55,F,Hispanic,Homicide,2014
+10,51,M,Black,Suicide,2012
+36,59,M,White,Homicide,2013
+2,62,M,Hispanic,Homicide,2014
+1,76,M,Black,Undetermined,2012
+9,74,M,Black,Suicide,2014
+1,70,F,Hispanic,Homicide,2012
+3,57,M,Native American/Native Alaskan,Suicide,2014
+47,23,M,White,Homicide,2012
+13,32,F,White,Homicide,2012
+26,31,M,Black,Suicide,2013
+6,24,F,Black,Suicide,2013
+14,33,F,White,Homicide,2012
+20,53,F,White,Homicide,2013
+3,56,F,Hispanic,Homicide,2014
+14,52,M,Black,Suicide,2012
+13,60,M,White,Homicide,2013
+1,59,M,Black,Accidental,2014
+2,69,M,Native American/Native Alaskan,Suicide,2012
+3,73,M,Black,Suicide,2014
+1,78,M,Hispanic,Homicide,2012
+3,65,M,Hispanic,Homicide,2014
+69,24,M,White,Homicide,2012
+14,31,F,White,Homicide,2012
+22,32,M,Black,Suicide,2013
+2,23,F,Black,Suicide,2013
+11,53,M,Black,Suicide,2012
+21,33,M,Black,Suicide,2013
+19,61,M,White,Homicide,2013
+1,82,F,Black,Suicide,2014
+3,64,M,Hispanic,Homicide,2014
+3,60,F,Black,Suicide,2012
+18,52,F,White,Homicide,2013
+1,70,M,Native American/Native Alaskan,Suicide,2012
+1,51,F,Black,Accidental,2014
+1,46,F,Asian/Pacific Islander,Accidental,2013
+1,8,M,Black,Accidental,2014
+1,68,F,Asian/Pacific Islander,Suicide,2012
+2,13,M,Black,Suicide,2012
+3,14,F,White,Homicide,2013
+4,5,M,White,Homicide,2013
+1,75,M,Asian/Pacific Islander,Suicide,2012
+1,87,F,White,Homicide,2014
+1,96,M,White,Homicide,2014
+2,9,F,Hispanic,Homicide,2014
+42,42,M,White,Homicide,2012
+14,34,M,Black,Suicide,2013
+1,54,F,Asian/Pacific Islander,Suicide,2014
+19,35,F,White,Homicide,2012
+5,43,F,Black,Suicide,2013
+3,63,M,Asian/Pacific Islander,Suicide,2014
+1,24,F,Asian/Pacific Islander,Undetermined,2013
+1,14,M,Black,Suicide,2012
+4,13,F,White,Homicide,2013
+1,6,M,White,Homicide,2013
+3,88,F,White,Homicide,2014
+1,1,M,Hispanic,Homicide,2014
+1,10,F,Hispanic,Homicide,2014
+16,34,F,White,Homicide,2012
+2,42,F,Black,Suicide,2013
+1,62,M,Asian/Pacific Islander,Suicide,2014
+44,43,M,White,Homicide,2012
+21,35,M,Black,Suicide,2013
+2,55,F,Asian/Pacific Islander,Suicide,2014
+1,52,M,Asian/Pacific Islander,Undetermined,2012
+1,89,F,White,Homicide,2014
+3,4,M,Hispanic,Homicide,2014
+1,11,F,Hispanic,Homicide,2014
+5,15,M,Black,Suicide,2012
+6,16,F,White,Homicide,2013
+1,7,M,White,Homicide,2013
+2,66,M,Asian/Pacific Islander,Suicide,2014
+2,77,M,Asian/Pacific Islander,Suicide,2012
+32,44,M,White,Homicide,2012
+21,36,M,Black,Suicide,2013
+1,56,F,Asian/Pacific Islander,Suicide,2014
+12,37,F,White,Homicide,2012
+3,45,F,Black,Suicide,2013
+4,90,F,White,Homicide,2014
+3,12,F,Hispanic,Homicide,2014
+1,3,M,Hispanic,Homicide,2014
+5,16,M,Black,Suicide,2012
+2,8,M,White,Homicide,2013
+3,15,F,White,Homicide,2013
+3,65,M,Asian/Pacific Islander,Suicide,2014
+13,36,F,White,Homicide,2012
+4,44,F,Black,Suicide,2013
+3,64,M,Asian/Pacific Islander,Suicide,2014
+36,45,M,White,Homicide,2012
+18,37,M,Black,Suicide,2013
+1,86,M,Native American/Native Alaskan,Suicide,2013
+1,57,F,Asian/Pacific Islander,Suicide,2014
+3,4,M,Black,Accidental,2014
+1,79,M,Asian/Pacific Islander,Suicide,2012
+2,1,M,White,Homicide,2013
+1,10,F,White,Homicide,2013
+3,83,F,White,Homicide,2014
+2,13,F,Hispanic,Homicide,2014
+4,0,M,White,Homicide,2013
+39,46,M,White,Homicide,2012
+19,38,M,Black,Suicide,2013
+19,39,F,White,Homicide,2012
+3,47,F,Black,Suicide,2013
+2,59,M,Asian/Pacific Islander,Suicide,2014
+6,3,M,Black,Accidental,2014
+2,9,F,White,Homicide,2013
+2,2,M,White,Homicide,2013
+4,84,F,White,Homicide,2014
+2,14,F,Hispanic,Homicide,2014
+15,38,F,White,Homicide,2012
+3,46,F,Black,Suicide,2013
+2,58,M,Asian/Pacific Islander,Suicide,2014
+41,47,M,White,Homicide,2012
+18,39,M,Black,Suicide,2013
+1,51,F,Asian/Pacific Islander,Suicide,2014
+1,88,M,Native American/Native Alaskan,Suicide,2013
+1,5,M,Black,Undetermined,2014
+2,2,M,Black,Accidental,2014
+1,49,F,Black,Suicide,2013
+7,85,F,White,Homicide,2014
+5,15,F,Hispanic,Homicide,2014
+1,8,M,Hispanic,Homicide,2014
+4,12,F,White,Homicide,2013
+1,3,M,White,Homicide,2013
+2,61,M,Asian/Pacific Islander,Suicide,2014
+3,81,M,Asian/Pacific Islander,Suicide,2012
+41,48,M,White,Homicide,2012
+20,40,M,Black,Suicide,2013
+1,52,F,Asian/Pacific Islander,Suicide,2014
+21,41,F,White,Homicide,2012
+1,16,M,Native American/Native Alaskan,Suicide,2014
+1,6,M,Black,Undetermined,2014
+1,73,F,Asian/Pacific Islander,Suicide,2012
+1,1,M,Black,Accidental,2014
+38,49,M,White,Homicide,2012
+4,86,F,White,Homicide,2014
+5,16,F,Hispanic,Homicide,2014
+1,7,M,Hispanic,Homicide,2014
+2,4,M,White,Homicide,2013
+16,40,F,White,Homicide,2012
+2,48,F,Black,Suicide,2013
+8,60,M,Asian/Pacific Islander,Suicide,2014
+11,41,M,Black,Suicide,2013
+1,15,M,Native American/Native Alaskan,Suicide,2014
+1,14,F,Black,Suicide,2012
+6,13,M,White,Homicide,2013
+1,6,F,White,Homicide,2013
+1,67,M,Asian/Pacific Islander,Suicide,2012
+1,1,F,Hispanic,Homicide,2014
+3,16,M,Black,Accidental,2014
+48,34,M,White,Homicide,2012
+18,42,M,Black,Suicide,2013
+19,43,F,White,Homicide,2012
+1,35,F,Black,Suicide,2013
+2,55,M,Asian/Pacific Islander,Suicide,2014
+1,0,F,Hispanic,Homicide,2014
+3,5,F,White,Homicide,2013
+1,68,M,Asian/Pacific Islander,Suicide,2012
+2,14,M,White,Homicide,2013
+1,96,F,White,Homicide,2014
+1,87,M,White,Homicide,2014
+1,2,F,Hispanic,Homicide,2014
+1,9,M,Hispanic,Homicide,2014
+1,15,M,Black,Accidental,2014
+16,42,F,White,Homicide,2012
+2,34,F,Black,Suicide,2013
+1,54,M,Asian/Pacific Islander,Suicide,2014
+38,35,M,White,Homicide,2012
+15,43,M,Black,Suicide,2013
+1,63,F,Asian/Pacific Islander,Suicide,2014
+1,97,F,White,Homicide,2014
+3,12,M,Hispanic,Homicide,2014
+1,3,F,Hispanic,Homicide,2014
+3,8,F,White,Homicide,2013
+5,15,M,White,Homicide,2013
+1,69,M,Asian/Pacific Islander,Suicide,2012
+1,57,M,Asian/Pacific Islander,Suicide,2014
+53,36,M,White,Homicide,2012
+19,44,M,Black,Suicide,2013
+18,45,F,White,Homicide,2012
+2,37,F,Black,Suicide,2013
+3,4,F,Hispanic,Homicide,2014
+1,11,M,Hispanic,Homicide,2014
+2,15,F,Black,Suicide,2012
+12,16,M,White,Homicide,2013
+1,7,F,White,Homicide,2013
+1,13,M,Black,Accidental,2014
+13,44,F,White,Homicide,2012
+2,36,F,Black,Suicide,2013
+2,56,M,Asian/Pacific Islander,Suicide,2014
+46,37,M,White,Homicide,2012
+18,45,M,Black,Suicide,2013
+1,71,M,Asian/Pacific Islander,Suicide,2012
+8,9,M,White,Homicide,2013
+5,84,M,White,Homicide,2014
+3,5,F,Hispanic,Homicide,2014
+5,14,M,Hispanic,Homicide,2014
+1,95,M,Native American/Native Alaskan,Suicide,2013
+43,38,M,White,Homicide,2012
+14,46,M,Black,Suicide,2013
+22,47,F,White,Homicide,2012
+7,51,M,Asian/Pacific Islander,Suicide,2014
+4,72,M,Asian/Pacific Islander,Suicide,2012
+5,10,M,White,Homicide,2013
+3,1,F,White,Homicide,2013
+1,83,M,White,Homicide,2014
+1,92,F,White,Homicide,2014
+1,88,M,Hispanic,Homicide,2013
+3,6,F,Hispanic,Homicide,2014
+2,13,M,Hispanic,Homicide,2014
+1,11,M,Black,Accidental,2014
+1,4,F,Black,Accidental,2014
+3,0,F,White,Homicide,2013
+16,46,F,White,Homicide,2012
+2,38,F,Black,Suicide,2013
+2,50,M,Asian/Pacific Islander,Suicide,2014
+37,39,M,White,Homicide,2012
+14,47,M,Black,Suicide,2013
+20,49,F,White,Homicide,2012
+1,86,M,White,Homicide,2014
+1,93,F,White,Homicide,2014
+32,16,M,Hispanic,Homicide,2014
+2,4,F,White,Homicide,2013
+3,11,M,White,Homicide,2013
+1,89,M,Hispanic,Homicide,2013
+1,21,M,Asian/Pacific Islander,Accidental,2013
+1,1,F,Black,Accidental,2014
+3,41,F,Black,Suicide,2013
+1,0,F,Black,Accidental,2014
+2,53,M,Asian/Pacific Islander,Suicide,2014
+48,40,M,White,Homicide,2012
+15,48,M,Black,Suicide,2013
+14,49,M,Black,Suicide,2013
+17,15,M,Hispanic,Homicide,2014
+1,11,F,Black,Suicide,2012
+1,3,F,White,Homicide,2013
+4,12,M,White,Homicide,2013
+1,74,M,Asian/Pacific Islander,Suicide,2012
+52,41,M,White,Homicide,2012
+19,48,F,White,Homicide,2012
+3,40,F,Black,Suicide,2013
+1,52,M,Asian/Pacific Islander,Suicide,2014
+29,58,M,White,Homicide,2012
+18,50,M,Black,Suicide,2013
+15,51,F,White,Homicide,2012
+1,59,F,Black,Suicide,2013
+4,47,M,Asian/Pacific Islander,Suicide,2014
+1,24,M,Native American/Native Alaskan,Undetermined,2012
+1,81,M,Black,Accidental,2013
+7,26,M,Native American/Native Alaskan,Suicide,2014
+1,40,M,Asian/Pacific Islander,Accidental,2012
+3,24,M,Black,Accidental,2014
+3,19,M,Black,Undetermined,2014
+22,29,M,Black,Suicide,2012
+4,22,F,Black,Suicide,2012
+61,21,M,White,Homicide,2013
+20,30,F,White,Homicide,2013
+5,80,M,White,Homicide,2014
+9,71,F,White,Homicide,2014
+1,68,F,Hispanic,Homicide,2013
+73,18,M,Hispanic,Homicide,2014
+3,25,F,Hispanic,Homicide,2014
+12,50,F,White,Homicide,2012
+4,58,F,Black,Suicide,2013
+2,46,M,Asian/Pacific Islander,Suicide,2014
+23,59,M,White,Homicide,2012
+15,51,M,Black,Suicide,2013
+1,101,F,Black,Suicide,2014
+1,68,M,Native American/Native Alaskan,Suicide,2013
+2,25,M,Native American/Native Alaskan,Suicide,2014
+5,23,M,Black,Accidental,2014
+2,20,M,Black,Undetermined,2014
+24,30,M,Black,Suicide,2012
+4,21,F,Black,Suicide,2012
+57,22,M,White,Homicide,2013
+10,29,F,White,Homicide,2013
+3,72,F,White,Homicide,2014
+2,79,M,White,Homicide,2014
+2,67,F,Hispanic,Homicide,2013
+36,17,M,Hispanic,Homicide,2014
+8,26,F,Hispanic,Homicide,2014
+29,60,M,White,Homicide,2012
+16,52,M,Black,Suicide,2013
+2,40,F,Asian/Pacific Islander,Suicide,2014
+18,53,F,White,Homicide,2012
+18,33,F,White,Homicide,2013
+1,22,M,Native American/Native Alaskan,Undetermined,2012
+2,82,M,White,Homicide,2014
+1,19,F,Native American/Native Alaskan,Suicide,2014
+6,28,M,Native American/Native Alaskan,Suicide,2014
+1,69,M,Native American/Native Alaskan,Suicide,2013
+1,17,M,Black,Undetermined,2014
+8,73,F,White,Homicide,2014
+6,22,M,Black,Accidental,2014
+75,20,M,Hispanic,Homicide,2014
+9,27,F,Hispanic,Homicide,2014
+24,31,M,Black,Suicide,2012
+3,24,F,Black,Suicide,2012
+66,23,M,White,Homicide,2013
+15,32,F,White,Homicide,2013
+3,49,M,Asian/Pacific Islander,Suicide,2014
+1,77,M,Hispanic,Homicide,2013
+1,70,F,Hispanic,Homicide,2013
+15,52,F,White,Homicide,2012
+1,60,F,Black,Suicide,2013
+4,48,M,Asian/Pacific Islander,Suicide,2014
+1,18,M,Native American/Native Alaskan,Accidental,2012
+24,61,M,White,Homicide,2012
+21,33,M,Black,Suicide,2012
+5,53,M,Black,Suicide,2013
+2,81,M,White,Homicide,2014
+6,27,M,Native American/Native Alaskan,Suicide,2014
+1,70,M,Native American/Native Alaskan,Suicide,2013
+1,39,M,Asian/Pacific Islander,Accidental,2012
+2,41,F,Asian/Pacific Islander,Suicide,2014
+1,18,M,Black,Undetermined,2014
+5,21,M,Black,Accidental,2014
+5,74,F,White,Homicide,2014
+4,28,F,Hispanic,Homicide,2014
+77,19,M,Hispanic,Homicide,2014
+20,32,M,Black,Suicide,2012
+6,23,F,Black,Suicide,2012
+56,24,M,White,Homicide,2013
+17,31,F,White,Homicide,2013
+2,78,M,Hispanic,Homicide,2013
+2,69,F,Hispanic,Homicide,2013
+28,62,M,White,Homicide,2012
+12,54,M,Black,Suicide,2013
+16,55,F,White,Homicide,2012
+2,63,F,Black,Suicide,2013
+5,43,M,Asian/Pacific Islander,Suicide,2014
+2,30,M,Native American/Native Alaskan,Suicide,2014
+2,21,F,Native American/Native Alaskan,Suicide,2014
+6,20,M,Black,Accidental,2014
+1,23,M,Black,Undetermined,2014
+35,25,M,Black,Suicide,2012
+1,18,F,Black,Suicide,2012
+22,17,M,White,Homicide,2013
+9,26,F,White,Homicide,2013
+5,76,M,White,Homicide,2014
+6,67,F,White,Homicide,2014
+2,79,M,Hispanic,Homicide,2013
+1,72,F,Hispanic,Homicide,2013
+90,22,M,Hispanic,Homicide,2014
+4,29,F,Hispanic,Homicide,2014
+14,54,F,White,Homicide,2012
+1,62,F,Black,Suicide,2013
+3,42,M,Asian/Pacific Islander,Suicide,2014
+14,63,M,White,Homicide,2012
+18,55,M,Black,Suicide,2013
+4,29,M,Native American/Native Alaskan,Suicide,2014
+1,22,F,Native American/Native Alaskan,Suicide,2014
+1,37,M,Asian/Pacific Islander,Accidental,2012
+4,19,M,Black,Accidental,2014
+2,17,F,Black,Suicide,2012
+26,26,M,Black,Suicide,2012
+24,18,M,White,Homicide,2013
+12,25,F,White,Homicide,2013
+9,75,M,White,Homicide,2014
+10,68,F,White,Homicide,2014
+65,21,M,Hispanic,Homicide,2014
+6,30,F,Hispanic,Homicide,2014
+7,45,M,Asian/Pacific Islander,Suicide,2014
+1,73,M,Native American/Native Alaskan,Suicide,2013
+16,64,M,White,Homicide,2012
+6,56,M,Black,Suicide,2013
+1,36,F,Asian/Pacific Islander,Suicide,2014
+10,57,F,White,Homicide,2012
+3,32,M,Native American/Native Alaskan,Suicide,2014
+1,74,F,Hispanic,Homicide,2013
+2,21,M,Black,Undetermined,2014
+1,33,M,Native American/Native Alaskan,Suicide,2014
+1,75,M,Black,Accidental,2013
+8,18,M,Black,Accidental,2014
+14,65,M,White,Homicide,2012
+2,78,M,White,Homicide,2014
+3,69,F,White,Homicide,2014
+64,24,M,Hispanic,Homicide,2014
+4,31,F,Hispanic,Homicide,2014
+32,27,M,Black,Suicide,2012
+4,20,F,Black,Suicide,2012
+43,19,M,White,Homicide,2013
+7,28,F,White,Homicide,2013
+1,26,F,Native American/Native Alaskan,Undetermined,2012
+7,33,F,Hispanic,Homicide,2014
+14,56,F,White,Homicide,2012
+3,64,F,Black,Suicide,2013
+1,44,M,Asian/Pacific Islander,Suicide,2014
+9,57,M,Black,Suicide,2013
+5,31,M,Native American/Native Alaskan,Suicide,2014
+2,22,M,Black,Undetermined,2014
+5,17,M,Black,Accidental,2014
+1,26,F,Black,Accidental,2014
+12,66,M,White,Homicide,2012
+3,65,F,Black,Suicide,2013
+3,77,M,White,Homicide,2014
+2,70,F,White,Homicide,2014
+82,23,M,Hispanic,Homicide,2014
+3,32,F,Hispanic,Homicide,2014
+27,28,M,Black,Suicide,2012
+1,19,F,Black,Suicide,2012
+51,20,M,White,Homicide,2013
+13,27,F,White,Homicide,2013
+6,33,M,Black,Accidental,2014
+4,18,M,Native American/Native Alaskan,Suicide,2014
+63,50,M,White,Homicide,2012
+11,58,M,Black,Suicide,2013
+1,46,F,Asian/Pacific Islander,Suicide,2014
+10,59,F,White,Homicide,2012
+2,51,F,Black,Suicide,2013
+6,39,M,Asian/Pacific Islander,Suicide,2014
+42,21,M,Black,Suicide,2012
+53,29,M,White,Homicide,2013
+21,22,F,White,Homicide,2013
+1,73,M,Black,Accidental,2013
+1,30,F,Black,Suicide,2012
+5,72,M,White,Homicide,2014
+2,79,F,White,Homicide,2014
+2,67,M,Hispanic,Homicide,2013
+61,26,M,Hispanic,Homicide,2014
+6,17,F,Hispanic,Homicide,2014
+4,32,M,Black,Accidental,2014
+1,27,M,Black,Undetermined,2014
+1,76,M,Native American/Native Alaskan,Suicide,2013
+2,17,M,Native American/Native Alaskan,Suicide,2014
+1,26,F,Native American/Native Alaskan,Suicide,2014
+15,58,F,White,Homicide,2012
+2,50,F,Black,Suicide,2013
+1,38,M,Asian/Pacific Islander,Suicide,2014
+53,51,M,White,Homicide,2012
+10,59,M,Black,Suicide,2013
+1,47,F,Asian/Pacific Islander,Suicide,2014
+38,22,M,Black,Suicide,2012
+3,29,F,Black,Suicide,2012
+53,30,M,White,Homicide,2013
+19,21,F,White,Homicide,2013
+1,84,M,Asian/Pacific Islander,Suicide,2012
+8,71,M,White,Homicide,2014
+5,80,F,White,Homicide,2014
+2,68,M,Hispanic,Homicide,2013
+1,75,F,Hispanic,Homicide,2013
+64,25,M,Hispanic,Homicide,2014
+7,18,F,Hispanic,Homicide,2014
+1,31,M,Black,Accidental,2014
+1,19,F,Black,Undetermined,2014
+1,28,M,Black,Undetermined,2014
+3,20,M,Native American/Native Alaskan,Suicide,2014
+1,27,F,Native American/Native Alaskan,Suicide,2014
+6,41,M,Asian/Pacific Islander,Suicide,2014
+1,70,F,Native American/Native Alaskan,Suicide,2013
+40,52,M,White,Homicide,2012
+13,60,M,Black,Suicide,2013
+9,61,F,White,Homicide,2012
+4,33,F,Black,Suicide,2012
+2,53,F,Black,Suicide,2013
+1,18,F,Native American/Native Alaskan,Accidental,2012
+6,81,F,White,Homicide,2014
+50,28,M,Hispanic,Homicide,2014
+10,19,F,Hispanic,Homicide,2014
+28,23,M,Black,Suicide,2012
+1,32,F,Black,Suicide,2012
+46,31,M,White,Homicide,2013
+18,24,F,White,Homicide,2013
+1,69,M,Hispanic,Homicide,2013
+1,85,M,Asian/Pacific Islander,Suicide,2012
+2,25,M,Black,Undetermined,2014
+7,74,M,White,Homicide,2014
+5,19,M,Native American/Native Alaskan,Suicide,2014
+1,78,M,Native American/Native Alaskan,Suicide,2013
+6,60,F,White,Homicide,2012
+1,52,F,Black,Suicide,2013
+2,40,M,Asian/Pacific Islander,Suicide,2014
+1,26,M,Native American/Native Alaskan,Accidental,2012
+30,53,M,White,Homicide,2012
+53,33,M,White,Homicide,2013
+10,61,M,Black,Suicide,2013
+5,82,F,White,Homicide,2014
+51,27,M,Hispanic,Homicide,2014
+8,20,F,Hispanic,Homicide,2014
+26,24,M,Black,Suicide,2012
+1,31,F,Black,Suicide,2012
+48,32,M,White,Homicide,2013
+15,23,F,White,Homicide,2013
+1,86,M,Asian/Pacific Islander,Suicide,2012
+1,17,F,Black,Undetermined,2014
+10,73,M,White,Homicide,2014
+5,29,M,Black,Accidental,2014
+1,22,F,Black,Accidental,2014
+2,79,M,Native American/Native Alaskan,Suicide,2013
+2,22,M,Native American/Native Alaskan,Suicide,2014
+36,54,M,White,Homicide,2012
+8,62,M,Black,Suicide,2013
+8,63,F,White,Homicide,2012
+2,35,M,Asian/Pacific Islander,Suicide,2014
+10,17,M,Black,Suicide,2012
+1,87,M,Asian/Pacific Islander,Suicide,2012
+4,26,F,Black,Suicide,2012
+57,25,M,White,Homicide,2013
+6,18,F,White,Homicide,2013
+11,68,M,White,Homicide,2014
+5,75,F,White,Homicide,2014
+2,71,M,Hispanic,Homicide,2013
+12,21,F,Hispanic,Homicide,2014
+41,30,M,Hispanic,Homicide,2014
+2,28,M,Black,Accidental,2014
+1,31,M,Black,Undetermined,2014
+4,30,F,Native American/Native Alaskan,Suicide,2014
+8,21,M,Native American/Native Alaskan,Suicide,2014
+13,62,F,White,Homicide,2012
+1,54,F,Black,Suicide,2013
+3,34,M,Asian/Pacific Islander,Suicide,2014
+30,55,M,White,Homicide,2012
+5,63,M,Black,Suicide,2013
+20,18,M,Black,Suicide,2012
+3,25,F,Black,Suicide,2012
+48,26,M,White,Homicide,2013
+3,17,F,White,Homicide,2013
+4,76,F,White,Homicide,2014
+12,67,M,White,Homicide,2014
+2,72,M,Hispanic,Homicide,2013
+43,29,M,Hispanic,Homicide,2014
+15,22,F,Hispanic,Homicide,2014
+6,27,M,Black,Accidental,2014
+4,24,M,Native American/Native Alaskan,Suicide,2014
+4,37,M,Asian/Pacific Islander,Suicide,2014
+39,33,M,Hispanic,Homicide,2014
+1,26,M,Native American/Native Alaskan,Undetermined,2012
+38,56,M,White,Homicide,2012
+10,64,M,Black,Suicide,2013
+2,44,F,Asian/Pacific Islander,Suicide,2014
+12,66,F,White,Homicide,2012
+5,65,M,Black,Suicide,2013
+5,77,F,White,Homicide,2014
+8,70,M,White,Homicide,2014
+47,32,M,Hispanic,Homicide,2014
+9,23,F,Hispanic,Homicide,2014
+18,19,M,Black,Suicide,2012
+2,28,F,Black,Suicide,2012
+56,27,M,White,Homicide,2013
+12,20,F,White,Homicide,2013
+3,29,M,Black,Undetermined,2014
+1,67,M,Black,Accidental,2013
+2,26,M,Black,Accidental,2014
+22,57,M,White,Homicide,2012
+1,32,F,Native American/Native Alaskan,Suicide,2014
+2,23,M,Native American/Native Alaskan,Suicide,2014
+1,30,M,Native American/Native Alaskan,Accidental,2012
+1,25,M,Native American/Native Alaskan,Undetermined,2012
+10,64,F,White,Homicide,2012
+1,56,F,Black,Suicide,2013
+3,36,M,Asian/Pacific Islander,Suicide,2014
+9,65,F,White,Homicide,2012
+9,66,M,Black,Suicide,2013
+10,78,F,White,Homicide,2014
+8,69,M,White,Homicide,2014
+48,31,M,Hispanic,Homicide,2014
+10,24,F,Hispanic,Homicide,2014
+22,20,M,Black,Suicide,2012
+3,27,F,Black,Suicide,2012
+51,28,M,White,Homicide,2013
+9,19,F,White,Homicide,2013
+1,30,M,Black,Undetermined,2014
+1,25,M,Black,Accidental,2014

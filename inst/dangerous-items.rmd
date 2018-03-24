@@ -9,8 +9,8 @@ suppressPackageStartupMessages(library(tidyverse))
 ```
 
 
-This is an automatically generated notebook for the `Dangerous Items` dataset found at:
-https://data.world/tsa/dangerous-items, showcasing the use of the `data.world` R package.
+This is an automatically generated notebook for the `Gun Deaths in America` dataset found at:
+https://data.world/azel/gun-deaths-in-america, showcasing the use of the `data.world` R package.
 
 ## Setup
 
@@ -28,40 +28,42 @@ For first time users, before running any chunks in this notebook:
 
 Configuration will be saved at `~/.dw/config` and automatically applied to all future R sessions.
 
-### Try your first query
+## Reading in the data
 
-List all tables in the dataset:
-```{r list tables}
-# Datasets are referenced by their URL or path
-dataset_key <- "https://data.world/tsa/dangerous-items"
-# List tables available for SQL queries
-tables_qry <- data.world::qry_sql("SELECT * FROM Tables")
-tables_df <- data.world::query(tables_qry, dataset = dataset_key)
-# See what is in it
-tables_df$tableName
+
+```{sql eval = FALSE}
+SELECT COUNT(full_data.column_a), full_data.age, full_data.sex, full_data.race, full_data.intent, full_data.year
+FROM full_data
+GROUP BY full_data.age, full_data.sex, full_data.race, full_data.intent, full_data.year;
 ```
 
 
-Try a sample query, if any tables exist:
-```{r sample query}
-if (length(tables_df$tableName) > 0) {
-  sample_qry <- data.world::qry_sql(sprintf("SELECT * FROM `%s`", tables_df$tableName[[1]]))
-  sample_df <- data.world::query(sample_qry, dataset = dataset_key)
-  sample_df
-}
+```{r read-dat}
+url <- "https://query.data.world/s/usia7cr2a6ljbu6e3awwkkn3yq2yxv"
+
+deaths <- readr::read_csv(url, col_types = cols(age = col_number(),
+                                                count = col_number(), race = col_factor(levels = c("White", "Hispanic", "Native American/Native Alaskan", "Black", "Asian/Pacific Islander")), 
+                                                sex = col_factor(levels = c("M", "F")),
+                                                year = col_factor(levels = c("2012", "2013", "2014"))))
+
+glimpse(deaths)
 ```
 
-```{r}
-sample_df <- sample_df %>%
-  mutate(item = fct_infreq(as_factor(item))) %>%
-  mutate(item_lab = fct_infreq(as_factor(strtrim(items, width = 14))))
-  
+```{r age-year}
+deaths %>%
+  group_by(age, year) %>%
+  summarise(age_total = sum(count))
+```
 
-ggplot(data = sample_df) +
-  geom_bar(aes(x = item_lab)) +
-  coord_flip() +
+```{r death-by-age, warning=FALSE}
+deaths_age_year <- deaths %>%
+  group_by(age, year) %>%
+  summarise(total = sum(count))
+
+
+ggplot(data = deaths_age_year) +
+  geom_point(aes(x = age, y = total, colour = year)) +
   hrbrthemes::theme_ipsum_rc() +
-  labs(title = "TSA Dangerous Items FY2015",
-       caption = dataset_key)
+  labs(caption = "Source: CDC gun-death data, 2012-2014.")
 ```
 
